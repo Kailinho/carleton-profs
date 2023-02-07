@@ -8,6 +8,7 @@ from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.service import Service
+from lxml import etree
 
 
 url = f"https://carleton.ca/scs/our-people/school-of-computer-science-faculty/"
@@ -29,21 +30,57 @@ for eachLink in links:
 data = []  
 for url1 in profLinks:
         try:
+
                 driver.get(url1)
+                article = driver.find_element(By.XPATH,"//article[@role='article']")
+                children = article.find_elements(By.XPATH,"./*[(self::div or self::h3 or self::p) and not(contains(@class, 'content__metadata')) and not(contains(@class, 'content__meta'))]")
                 profName = driver.find_element(By.CSS_SELECTOR,"article").find_element(By.CLASS_NAME,"people__heading").get_attribute("innerHTML")
-                profWebsite = driver.find_element(By.CSS_SELECTOR,"article").find_element(By.XPATH,"//td[text()='Website:']/following-sibling::td").find_element(By.CSS_SELECTOR,"a").get_attribute("href")
-                researchInterests = driver.find_element(By.CSS_SELECTOR,"article").find_element(By.XPATH,"//h3[text()='Research Interests']/following-sibling::p").get_attribute("innerHTML")
-                specificResearchInterests = driver.find_element(By.CSS_SELECTOR,"article").find_element(By.XPATH,"//h3[text()='Specific Research Interests']/following-sibling::p").get_attribute("innerHTML")
+                # profWebsite = driver.find_element(By.CSS_SELECTOR,"article").find_element(By.XPATH,"//td[text()='Website:']/following-sibling::td").find_element(By.CSS_SELECTOR,"a").get_attribute("href")
+                print(profName)
+                for child in children:
+                        child_data= {}
+                        # child_data["Name"] = profName
+                        # child_data["Website"] = profWebsite                        
+                        tag_name = child.tag_name
+                        href = child.get_attribute("href")
+                        inner = child.get_attribute("innerHTML")
+                        text = child.get_attribute("textContent")
 
-        except (NoSuchElementException,AttributeError,IndexError):
-                profWebsite = "No Website"
-                researchInterests = "No Research Interests"
-                specificResearchInterests = "No Specific Research Interests"
+                        if tag_name == "h3":
+                                child_data["Key"] = inner
+                                print(inner)
+                        elif tag_name == "p":
+                                child_data["Value"] = inner
+                                print(inner)
 
-        data.append([url1, profName, profWebsite, researchInterests, specificResearchInterests])
+                        data.append(child_data)
+                        # elif tag_name =="a":
+                        #         print("Link: ",href)
 
-df = pd.DataFrame(data,columns=["Scraped Url", "Name","Website Url","Research Interests","Specific Research Interests"])
+
+        except (NoSuchElementException,AttributeError,IndexError,NameError):
+                
+                print(NoSuchElementException)
+                print(AttributeError)
+                print(IndexError)
+                print(NameError)
+
+        # data.append([url1, profName, profWebsite, researchInterests, specificResearchInterests])
+
+df = pd.DataFrame(data)
 df.to_csv("scsprofs.csv", index=False)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #Code using Beautifulsoup
@@ -68,22 +105,21 @@ df.to_csv("scsprofs.csv", index=False)
 #         websiteTitle = doc1.select_one("tr:-soup-contains('Website:') a").text
 #         websiteUrl = doc1.select_one("tr:-soup-contains('Website:') a").get("href")
 
-#         info1 = doc1.select_one("h3", text="Research Interests")
+#         info1 = doc1.select_one("h3", string=re.compile(r'^Research Interests$'))
 #         if info1:
 #                 researchInterests = info1.find_next_sibling("p").text
 #         else:
-#                 info1 = "No Research Interests"
+#                 # info1 = "No Research Interests"
 #                 researchInterests = "No Research Interests"
 
-#         info2 = doc1.select_one("h3", string="Specific Research Interests")
+#         info2 = doc1.select_one("h3", string=re.compile(".*Specific Research Interests*"))
 #         if info2:
 #                 specificResearchInterests = info2.find_next_sibling("p").string
 #         else:
-#                 info2 = "No Specific Research Interests"
+#                 # info2 = "No Specific Research Interests"
 #                 specificResearchInterests = "No Specific Research Interests"
 
-#         # info3 = doc1.select_one("article > p:nth-of-type(3):not(.content__metadata):not(.content__meta) a").text.strip()
-#         # info4 = doc1.select_one("article > p:nth-of-type(4):not(.content__meta):not(.content__meta) a").text.strip()
+
 #     except (AttributeError,IndexError):
 
 #         websiteTitle = "No website title"

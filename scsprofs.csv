@@ -1,88 +1,473 @@
-Scraped Url,Name,Website Url,Research Interests,Specific Research Interests
-https://carleton.ca/scs/people/rabe-abdalkareem/,Rabe Abdalkareem,https://rabeabdalkareem.github.io/,"Data-driven software engineering, Mining software engineering repositories, Software ecosystems, Software reuse, Software evolution and maintenance, Empirical software engineering","My research interests and expertise are in Software Engineering, with a special interest in Crowdsourcing in Software Engineering (e.,g. Stack Overflow and npm), Empirical Software Engineering, Mining Software Repositories, and Software Ecosystems. In particular, I leverage historical project data and apply Data Mining, Machine Learning, and Statistical Analysis techniques in order to better understand what and how software practitioners use the crowd and build techniques to help them effectively take advantage of these crowd resources."
-https://carleton.ca/scs/people/abdelrahman-abdou/,AbdelRahman Abdou,https://www.scs.carleton.ca/~abdou,Internet Security,"Internet Measurements, Computer Systems and Network Security, SSL/TLS, Secure DNS, Authentication, Secure BGP, Secure Internet Geolocation, Software Defined-Network Security."
-https://carleton.ca/scs/people/michel-barbeau/,Michel Barbeau,https://orcid.org/0000-0003-3531-4926,Wireless Communications and Networking,"Wide area ad hoc networks, underwater communications and networks, quantum communications and networks, software defined radio."
-https://carleton.ca/scs/people/david-barrera/,David Barrera,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/olga-baysal/,Olga Baysal,http://olgabaysal.com/,"Software engineering, Mining Software Repositories, Human Aspects of Software Engineering, Data Science","Empirical software engineering, code review, recommender systems, mining Stack Overflow and GitHub, machine learning, NLP, qualitative research (e.g., survey, experiments, interviews), eye tracking, API summarization, etc."
-https://carleton.ca/scs/people/robert-biddle/,Robert Biddle,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/prosenjit-bose/,Prosenjit Bose,http://cglab.ca/~jit/,"Algorithms, Data Structures, Computational Geometry, Graph Theory","Design and Analysis of Algorithms and Data Structures, Applied Geometric Computing (applications to manufacturing, computer vision, pattern recognition), Discrete and Computational Geometry, Computer Vision, Data Structures, Discrete Mathematics, Graph Algorithms, Graph Theory, Image Processing, Pattern Recognition, Randomized Algorithms, Routing in Networks"
-https://carleton.ca/scs/people/sonia-chiasson/,Sonia Chiasson,http://chorus.scs.carleton.ca/,"Usable security, human-computer interaction, computer security, educational games","Usable security and privacy for children, user authentication, usable security for mobile devices, improving mental models of security, visualizations of computer security, persuasive games to improve security behaviour of end-users, phishing and trust of web interfaces, collaborative security code reviews"
-https://carleton.ca/scs/people/robert-collier/,Robert Collier,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/jean-pierre-corriveau/,Jean-Pierre Corriveau,http://people.scs.carleton.ca/~jeanpier/,For Object-Oriented Testing: scenario testing and test data generation. For Text Understanding: contextualized and generative comprehension,For Object-Oriented Testing: scenario testing and test data generation. For Text Understanding: contextualized and generative comprehension
-https://carleton.ca/scs/people/frank-dehne/,Frank Dehne,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/dwight-deugo/,Dwight Deugo,http://people.scs.carleton.ca/~deugo/,"Mobile Computing, Peer-to-Peer Computing, Evolutionary Computation (Genetic Algorithms, Genetic Programming, Artificial Life), Object-Oriented Systems, Software Patterns, Programming Languages and Open Source Software.","Eclipse, Beacon Technology, Health informatics and Systems"
-https://carleton.ca/scs/people/ahmed-el-roby/,Ahmed El-Roby,http://www.scs.carleton.ca/~ahmedelroby/,"Data Management, Data Integration, Knowledge Graphs, Question Answering, Machine Learning.","Question answering over knowledge graphs, information integration in linked data, open data integration, incorporating non-expert users in data integration, knowledge graph mining, and fact checking using heterogeneous data."
-https://carleton.ca/scs/people/yuhong-guo/,Yuhong Guo,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/darryl-hill/,Darryl Hill,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/connor-hillen/,Connor Hillen,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/m-jason-hinek/,Jason Hinek,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/matthew-holden/,Matthew Holden,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/douglas-howe/,Douglas Howe,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/majid-komeili/,Majid Komeili,http://www.scs.carleton.ca/~majidkomeili,"Machine learning, deep learning, and related areas in computer vision and natural language processing.","I am interested in interpretable machine learning, deep neural networks, and transfer learning. The goal is to create ML models with explainability in mind or to develop methods that can decipher existing black-box ML models. I am also interested in how ML models can learn to perform new tasks with a limited amount of labeled data; a capability that human is very good at."
-https://carleton.ca/scs/people/evangelos-kranakis/,Evangelos Kranakis,http://people.scs.carleton.ca/~kranakis/,"Analysis of Algorithms and advances in Distributed and Computational Biology, Distributed and Mobile Agent Computing, Networks (Ad Hoc, Communication, Sensor, Social, Wireless). and Cryptographic and Network Security","Analysis of Algorithms and advances in Distributed and Computational Biology, Distributed and Mobile Agent Computing, Networks (Ad Hoc, Communication, Sensor, Social, Wireless). and Cryptographic and Network Security"
-https://carleton.ca/scs/people/wilf-lalonde/,Wilf LaLonde,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/mark-lanthier/,Mark Lanthier,http://people.scs.carleton.ca/~lanthier/,"Robotics, Artificial Life, Computational Geometry","Dr. Lanthier’s research interests focus on robotics, artificial life and computational geometry.&nbsp; He has worked with numerous students on research projects involving robotic simulation and coordination, robotic path planning and robotic sensing and design."
-https://carleton.ca/scs/people/christine-laurendeau/,Christine Laurendeau,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/mengchi-liu/,Mengchi Liu,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/anil-maheshwari/,Anil Maheshwari,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/dave-mckenney/,Dave McKenney,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/nadine-moacdieh/,Nadine Moacdieh,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/pat-morin/,Pat Morin,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/david-mould/,David Mould,http://people.scs.carleton.ca/~mould/,"Computer Graphics, Computer Games","Non-Photorealistic Rendering, Image Stylization, Texture Synthesis, Procedural Modeling, Nonlinear Storytelling"
-https://carleton.ca/scs/people/doron-nussbaum/,Doron Nussbaum,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/john-oommen/,John Oommen,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/andrew-runka/,Andrew Runka,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/jorg-rudiger-sack/,Jörg-Rüdiger Sack,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/nicola-santoro/,Nicola Santoro,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/alina-shaikhet-2/,Alina Shaikhet,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/alexa-sharp/,Alexa Sharp,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/michiel-smid/,Michiel Smid,http://people.scs.carleton.ca/~michiel/,Algorithms,"Computational Geometry, Geometric Networks, Graph Algorithms, Data Structures, Applications of Computational Geometry in Manufacturing"
-https://carleton.ca/scs/people/anil-somayaji/,Anil Somayaji,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/elizabeth-stobert/,Elizabeth Stobert,https://www.stobert.ca/,Human-Computer Interaction and Computer Security,"Dr. Stobert’s research interests are in usable security systems, applying research from cognitive science to improve the design of security systems. She is interested in usable authentication, usable security for healthcare, and security education."
-https://carleton.ca/scs/people/alan-tsang/,Alan Tsang,https://people.scs.carleton.ca/~alantsang,"Artificial Intelligence, Multi-agent Systems, Game Theory, Graph Theory, Social Networks","Computational Social Choice, Voting Theory, Social Network Simulations, Algorithmic Fairness, Fair Allocation"
-https://carleton.ca/scs/people/oliver-van-kaick/,Oliver Van Kaick,http://people.scs.carleton.ca/~olivervankaick/,"Geometric Modeling, Processing, and Visualization Shape Analysis","Geometric Modeling, Processing, and Visualization Shape Analysis"
-https://carleton.ca/scs/people/paul-van-oorschot/,Paul Van Oorschot,http://people.scs.carleton.ca/~paulv/,"Authentication, Computer Security, Internet Security, Applied Cryptography, Information Security ","Authentication and Identity Management, System Security, Software Security, Application and Web Security, Network Security, Smartphone Security, Usability and Security, Passwords, Public-Key Infrastructure, SSL/TLS."
-https://carleton.ca/scs/people/junfeng-wen/,Junfeng Wen,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/lianying-zhao/,Lianying Zhao,https://ccsl.carleton.ca/~lzhao,"Trusted computing, Hardware/architectural security support, Systems security, Authentication and privacy","Dr. Zhao’s primary research interests mainly concern low-level platform security, including but not limited to hardware, firmware, hypervisor and OS. Specifically, he would like to find out the actual trustworthiness of underlying components that are assumed or have to be trusted, and based on the findings what can be done to eventually achieve trustworthy program execution. He is also interested in solutions to authentication, privacy preservation and data protection that make use of the low-level approaches."
-https://carleton.ca/scs/people/dave-campbell/,Dave Campbell,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/jim-davies/,Jim Davies,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/audrey-girouard/,Audrey Girouard,http://cil.csit.carleton.ca/,Human Computer Interaction,"Next Generation Interaction Techniques, Deformable User Interactions, Flexible Displays, Novel Technologies for Rehabilitation, Accessibility Research"
-https://carleton.ca/scs/people/chris-joslin/,Chris Joslin,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/ashraf-matrawy/,Ashraf Matrawy,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/omair-shafiq/,Omair Shafiq,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/11343/,Wei Shi,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/rob-teather/,Rob Teather,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/lyudmil-aleksandrov/,Lyudmil  Aleksandrov,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/ahmad-biniaz/,Ahmad Biniaz,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/stephane-blouin/,Stéphane Blouin,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/georg-carle/,Georg Carle,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/jurek-czyzowicz/,Jurek Czyzowicz,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/hristo-djidjev/,Hristo Djidjev,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/vida-dujmovic/,Vida Dujmovic,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/stephane-durocher/,Stephane Durocher,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/kathleen-fraser/,Kathleen Fraser,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/joaquin-garcia-alfaro/,Joaquin Garcia-Alfaro,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/konstantinos-georgiou/,Konstantinos Georgiou,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/abou-zeid-hatem/,Abou-Zeid Hatem,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/akitaya-hugo/,Akitaya Hugo,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/danny-krizanc/,Danny Krizanc,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/stefan-langerman/,Stefan Langerman,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/michele-lanza/,Michele Lanza,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/marc-oliver-pahl/,Marc-Oliver Pahl,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/andrew-patrick/,Andrew  Patrick,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/chang-shu/,Chang Shu,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/rodrigo-silveira/,Rodrigo Silveira,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/tao-wan/,Tao Wan,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/tara-whalen/,Tara Whalen,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/tony-white/,Tony White,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/brian-wyvill/,Brian Wyvill,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/leah-zhang-kennedy/,Leah  Zhang-Kennedy,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/leopoldo-bertossi/,Leopoldo Bertossi,http://people.scs.carleton.ca/~bertossi/,"Data Management, Data Science, Data Management for Business Intelligence, Knowledge Representation in AI, Computational Logic, Machine Learning, Intelligent Information Systems","Data Integration, Data Quality, Semantic Web Data, Data Analytics, Data Warehouses and Multidimensional Databases, Uncertainty Management in Data and Knowledge, Statistical Relational Learning, Logico-Probabilistic Knowledge Representation, Ontology-Based Data Access, Answer Set Programming, Logic Programing, Complexity Theory, Foundations of Probability and Statistical Methods"
-https://carleton.ca/scs/people/frank-fiala/,Frank  Fiala ✝,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/john-neilson-%e2%9c%9d/,John Neilson ✝,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/lou-nel/,Lou Nel,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/franz-oppacher/,Franz Oppacher,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/irwin-reichstein/,Irwin Reichstein,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/gerhard-roth/,Gerhard Roth,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/nicola-santoro/,Nicola Santoro,No Website,No Research Interests,No Specific Research Interests
-https://carleton.ca/scs/people/tony-white/,Tony White,No Website,No Research Interests,No Specific Research Interests
+Key,Value
+,
+,
+Research Interests,
+,"Data-driven software engineering, Mining software engineering repositories, Software ecosystems, Software reuse, Software evolution and maintenance, Empirical software engineering"
+Specific Research Interests,
+,"My research interests and expertise are in Software Engineering, with a special interest in Crowdsourcing in Software Engineering (e.,g. Stack Overflow and npm), Empirical Software Engineering, Mining Software Repositories, and Software Ecosystems. In particular, I leverage historical project data and apply Data Mining, Machine Learning, and Statistical Analysis techniques in order to better understand what and how software practitioners use the crowd and build techniques to help them effectively take advantage of these crowd resources."
+,
+,
+Research Interests,
+,Internet Security
+Specific Research Interests,
+,"Internet Measurements, Computer Systems and Network Security, SSL/TLS, Secure DNS, Authentication, Secure BGP, Secure Internet Geolocation, Software Defined-Network Security."
+Biography,
+,"Dr. Abdou is an Assistant Professor at the School of Computer Science, Carleton University. He spent a year as a Senior Research Scientist at the System Security group, part of the Institut für Informationssicherheit, ETH Zürich, Switzerland. Dr. Abdou received his PhD (2015) in Systems and Computer Engineering from Carleton University. His research was nominated to, and won, Best Paper and Distinguished Paper awards, and is often featured in hacker and technical blogs, scientific magazines and national news papers. He is a committee member of the European Symposium on Security and Privacy."
+Research Group,
+,"<a href=""https://cisl.carleton.ca""><span style=""font-size: small;"">Carleton Internet Security Lab (CISL):</span></a>"
+,
+,
+Research Interests,
+,Wireless Communications and Networking
+Specific Research Interests,
+,"Wide area ad hoc networks, underwater communications and networks, quantum communications and networks, software defined radio."
+Current Research,
+,"Dr. Barbeau’s research specializes in non classical wireless networks. His current research has involved developing an acoustic network for underwater communication to aid in water based surveillance in areas ranging from coastal navigation to environmental monitoring. Working alongside a team of undergraduate, master’s and doctoral students, Dr. Barbeau is testing ways to use mechanical vibrations to send encoded messages between underwater nodes. His team has worked to find ways to deal with challenges like multipath propagation of underwater acoustic waves – when signals are received by more than one path – influenced by reflection at sea surface and seabed, and refraction due to factors like water temperature, depth and surface waves, among other. His team tested their prototype in Ottawa’s Rideau Canal."
+Biography,
+,"Dr. Barbeau received both his Master’s and Ph.D. from Universite de Montreal. He then returned to Universite de Sherbrooke, where he had completed his undergraduate degree in Computer Science in 1985, to join the faculty as a professor. Teaching at Universite de Sherbrooke from 1991 to 1999, Dr. Barbeau spent his last academic year as a visiting researcher at the University of Aizu, Japan. He joined the School of Computer Science at Carleton University in 2000."
+YouTube,
+Twitter,
+ORCID,
+,"<a style=""vertical-align: top;"" href=""https://orcid.org/0000-0003-3531-4926"" target=""orcid.widget"" rel=""noopener noreferrer""><img style=""width: 1em; margin-right: .5em;"" src=""https://orcid.org/sites/default/files/images/orcid_16x16.png"" alt=""ORCID iD icon"">orcid.org/0000-0003-3531-4926</a>"
+,
+,
+Research Interests,
+,"Computer and Network Security, Internet of Things Security, Operating Systems Security."
+Biography,
+,"Dr. Barrera is an assistant professor in the School of Computer Science at Carleton University. Prior to joining Carleton University, he spent two years as an assistant professor in the Department of Computer and Software Engineering at Polytechnique Montréal. Dr. Barrera was previously a visiting researcher at IBM Research Zürich, and a postdoc in the Network Security Group at ETH Zürich. He obtained his Ph.D. from Carleton University in 2014."
+Research Group,
+,"<a href=""https://cisl.carleton.ca"">Carleton Internet Security Lab (CISL)</a>"
+,
+,
+Research Interests,
+,"Software engineering, Mining Software Repositories, Human Aspects of Software Engineering, Data Science"
+Specific Research Interests,
+,"Empirical software engineering, code review, recommender systems, mining Stack Overflow and GitHub, machine learning, NLP, qualitative research (e.g., survey, experiments, interviews), eye tracking, API summarization, etc."
+Current Research,
+,"Dr. Baysal’s work lies within the field of mining software repositories and is focused on analyzing large data sets by applying software analytics and providing ways to synthesize knowledge from the development artifacts such as reported issues, source code, discussions, community contributions, etc. Much of her work focuses on understanding how software engineers create, use, and maintain software systems. She applies empirical software engineering techniques to study software development processes and leverages software analytics to support practitioners’ decision making."
+Research Group,
+,I am a member of the Software Analytics (SWAN) Research Group
+Homepage,
+,"<a href=""http://olgabaysal.com"" target=""_blank"" rel=""noopener noreferrer"">Olga Baysal Homepage</a>"
+,
+,
+,
+Research Interests,
+,"Human Computer Interaction, Computer Security, Computer Games, Agile Software Development"
+Biography,
+,"Robert Biddle is Professor of Human-Computer Interaction in the School of Computer Science at Carleton University in Ottawa, Canada. His research covers both human and technical aspects of the design of interactive computer systems. Robert’s research work is on usable computer security, on human aspects of computer games and hyper-media, and on collaborative software development processes."
+Research Group,
+,"<a href=""http://hotsoft.carleton.ca/"" target=""_blank"" rel=""noopener noreferrer"">HOTSOFT</a>"
+,
+,
+Research Interests,
+,"Algorithms, Data Structures, Computational Geometry, Graph Theory"
+Specific Research Interests,
+,"Design and Analysis of Algorithms and Data Structures, Applied Geometric Computing (applications to manufacturing, computer vision, pattern recognition), Discrete and Computational Geometry, Computer Vision, Data Structures, Discrete Mathematics, Graph Algorithms, Graph Theory, Image Processing, Pattern Recognition, Randomized Algorithms, Routing in Networks"
+Research Group,
+,
+,
+Research Interests,
+,"Usable security, human-computer interaction, computer security, educational games"
+Specific Research Interests,
+,"Usable security and privacy for children, user authentication, usable security for mobile devices, improving mental models of security, visualizations of computer security, persuasive games to improve security behaviour of end-users, phishing and trust of web interfaces, collaborative security code reviews"
+Current Research,
+,"Dr. Chiasson’s research in usable security seeks to design computer security system that better fit into people’s daily lives. It combines&nbsp;human-computer interaction (HCI) and computer security&nbsp;&nbsp;to&nbsp;design security applications and to explore how underlying system and interaction design choices can lead to more secure systems. It uses both quantitative and qualitative research methods.&nbsp;Dr. Chiasson’s uses her research to help software developers improve security measures in software development,&nbsp;&nbsp;improve the usability of security systems to reduce risk of compromises, improve user authentication, and&nbsp;create games and educational material to teach users, particularly children, how to be safe online and how to think critically about privacy and security."
+Biography,
+,"Dr. Chiasson is the Canada Research Chair in Human Oriented Computer Security. She is the Deputy Scientific Director of SERENE-RISC, a cybersecurity Network of Centers of Excellence of Canada funded under the Knowledge Mobilization program. She was previously the project leader for Human Behaviour and Computer Security with ISSNet, NSERC’s Internetworked Security Systems Network. Dr. Chiasson received her master’s from the University of Saskatchewan and then joined the university’s Department of Computer Science as a full time instructor. She then came to Carleton University where she received her Ph.D. and subsequently became a faculty member at Carleton’s School of Computer Science in 2011."
+Research Group,
+,"<a href=""http://chorus.scs.carleton.ca"" target=""_blank"" rel=""noopener noreferrer"">Carleton’s Human Oriented Research in Usable Security (CHORUS) lab</a>"
+,
+,
+,
+Research Interests,
+,"Genetic Algorithms, Computing Education"
+,
+,
+Research Interests,
+Specific Research Interests,
+,For Object-Oriented Testing: scenario testing and test data generation. For Text Understanding: contextualized and generative comprehension
+Current Research,
+,Dr. Corriveau’s current research focuses on behavior-driven development and acceptance testing.
+Biography,
+,"Dr. Corriveau received his Master’s in Computer Science from University of Ottawa in 1984. During that time, he also worked at Nortel developing an industrial code generator. In 1986, after starting his Ph.D. at University of Toronto, he returned to Nortel becoming a founding member of the TELOS project. This tool spawn off as the ObjecTime start-up in early 1991 and eventually evolved into ROSE Real-Time, and now IBM Rational Software Architect RealTime Edition. Dr. Corriveau completed his Ph.D. in Natural Language Processing in 1991 and soon after joined the School of Computer Science at Carleton."
+,
+,
+Research Interests,
+,"Data science, high performance computing, parallel computing, computational biochemistry, online analytical processing"
+Current Research,
+,"Professor Dehne’s research program focuses on building high performance computing systems for solving data intensive and/or computationally hard problems in business data analytics, biomedical data analytics and engineering data analytics. Current research projects include: (i) high performance data analytics for business intelligence, in particular real-time online analytical processing for multi-core and cloud architectures; (ii) high performance biomedical computing, in particular protein data analytics for protein-protein interaction prediction and drug design; and (iii) high performance data science platforms, in particular auto-tuning Hadoop and Spark."
+Biography,
+,"Professor Dehne was the Founding Director of the Carleton University Institute For Data Science from 2015 to 2022, and the Director of the School of Computer Science from 2000 to 2003 and 2006 to 2008."
+,
+,
+,
+Research Interests,
+,"Mobile Computing, Peer-to-Peer Computing, Evolutionary Computation (Genetic Algorithms, Genetic Programming, Artificial Life), Object-Oriented Systems, Software Patterns, Programming Languages and Open Source Software."
+Specific Research Interests,
+,"Eclipse, Beacon Technology, Health informatics and Systems"
+Current Research,
+,"Dr. Deugo has done extensive consulting in object-oriented languages and systems, particularly in areas related to Java, Smalltalk and Eclipse. His research interests include the use and development of Open Source software and Mobile Computing. His past research include the development of pattern search tools and the analysis and optimization of network connections in peer-to-peer systems using Genetic Algorithms. Other projects include the development of a collaborative work environment using Eclipse and the design and evaluation of peer-to-peer protocols using large-scale simulation."
+Biography,
+,"Dr. Deugo has a deep ties to Carleton University. He received both his Master’s and Ph.D. degrees from the School of Computer Science prior to joining the faculty in 1997.&nbsp; He has since been the&nbsp;Editor-In-Chief of the Java Report and the Director of Java Services at The Object People. Dr. Deugo was the CEO and cofounder of Espirity Inc., a service provider of iParked.ca, a text messaging parking solution that allows users to pay for parking by sending a text message from a mobile phone."
+,
+,
+,
+,
+,
+,
+Research Interests,
+,"Data Management, Data Integration, Knowledge Graphs, Question Answering, Machine Learning."
+Specific Research Interests,
+,"Question answering over knowledge graphs, information integration in linked data, open data integration, incorporating non-expert users in data integration, knowledge graph mining, and fact checking using heterogeneous data."
+,
+,
+,
+Research Interests,
+,"Machine Learning, Artificial Intelligence, Natural Language Processing, Computer Vision, Bioinformatics, Data Analysis"
+Detailed Research Interests,
+,"Representation Learning, Generalized Information Adaptation, Learning with Complex Outputs, Active Learning, Heterogeneous Learning, Learning Graphical Models"
+Research Group,
+,Machine Learning
+,
+,
+,
+,
+,
+,
+,
+,"Computer Science education, cryptology, security and in a previous life wood."
+,https://sites.google.com/site/mjhinek/publications
+,<b> Summer 2016 </b>
+,<b> Previous Courses</b>
+,
+,
+Research Interests,
+,Surgical Data Science Machine Learning Computer-Assisted Surgery
+Specific Research Interests,
+,"My primary research interest is in Surgical Data Science. I use machine learning for time series data to improve outcomes in surgery and surgical training, based on sensor information collected in the operating room or simulation environment. Due to the diversity in patients and the cost of adverse outcomes, I advocate for the incorporation of domain knowledge into machine learning for surgery. My work facilitates real-time decision support in the operating room, performance assessment and coaching, and increased surgical efficiency."
+Homepage,
+,"<a href=""https://www.scs.carleton.ca/~matthewholden/"" target=""_blank"" rel=""noopener noreferrer"">https://www.scs.carleton.ca/~matthewholden/</a>"
+ORCID,
+,"<a href=""https://orcid.org/0000-0002-6031-7208"">https://orcid.org/0000-0002-6031-7208</a>"
+,
+,
+Research Interests,
+,"Automated Reasoning, Formal Methods in Software Engineering, Programming Languages, and Software Engineering"
+Biography,
+,"Dr. Howe received his Ph.D. from Cornell University in 1988. He was a research associate, and faculty member in the Department of Computer Science at Cornell from 1987 to 1992. From 1992 to 1999, Dr. Howe was a Member of Technical Staff at Bell Labs in Murray Hill, New Jersey. He joined the School of Computer Science at Carleton University in January 2000. He has since served as both Associate Director and Director of the School of Computer Science."
+,
+,
+,
+Research Interests,
+,"Machine learning, deep learning, and related areas in computer vision and natural language processing."
+Specific Research Interests,
+,"I am interested in interpretable machine learning, deep neural networks, and transfer learning. The goal is to create ML models with explainability in mind or to develop methods that can decipher existing black-box ML models. I am also interested in how ML models can learn to perform new tasks with a limited amount of labeled data; a capability that human is very good at."
+,
+,
+,
+Research Interests,
+Specific Research Interests,
+,"Analysis of Algorithms and advances in Distributed and Computational Biology, Distributed and Mobile Agent Computing, Networks (Ad Hoc, Communication, Sensor, Social, Wireless). and Cryptographic and Network Security"
+Current Research,
+,"Main goal of Dr. Kranakis’ research is first to provide a deeper understanding of the behaviour of interacting communicating entities based on the foundations of algorithmic distributed and mobile agent computing, and second to develop research methodologies using rigorous mathematical models that satisfy strict and well-defined assumptions and are motivated from practical considerations in the established research space of wireless ad hoc &amp; sensor networks, agent search &amp; mobility, biological distributed computing, and social networks."
+Biography,
+,"Dr. Kranakis received his Ph.D. in Mathematics from the University of Minnesota in 1980. He has since been an invited researcher at numerous universities around the world including the University of Patras in Rio, the University of Athens, Universite de Paris Sud a Orsay, Eidgenoessische Technische Hochschule (ETH) in Switzerland, the University of Liverpool, Universidad Nacional Autonoma de Mexico and at Simon Fraser University in Vancouver. Dr.Kranakis has taught at Purdue University, Yale University, the University of Heidelberg, the Universiteit van Amsterdam, and the Centrum voor Wiskunde en Informatica. He began teaching at Carleton University in 1991 and served as director of the School of Computer Science at Carleton University from 1994 to 2000."
+Research Group,
+,Distributed and Network Computing
+,"<a href=""http://people.scs.carleton.ca/~kranakis/"">Academic Homepage</a>"
+ORCID,
+,"<a href=""https://orcid.org/0000-0002-8959-4428"" target=""orcid.widget"" rel=""noopener noreferrer"">orcid.org/0000-0002-8959-4428</a>"
+,
+,
+Research Interests,
+,"Animation Systems, Interactive 3D Games, Object-Oriented Systems, Parsers, and Computer Graphics"
+,
+,
+Research Interests,
+,"Robotics, Artificial Life, Computational Geometry"
+Specific Research Interests,
+Current Research,
+,"Dr. Lanthier’s research interests focus on robotics, artificial life and computational geometry.&nbsp; He has worked with numerous students on research projects involving robotic simulation and coordination, robotic path planning and robotic sensing and design."
+Biography,
+,"Dr. Lanthier has long history at Carleton University. Receiving first his undergraduate degree from the School of Computer Science,&nbsp; he then continued on at the University to receive his master’s degree in 1993 and his Ph.D. in 1999. He began teaching at Carleton as an instructor in 1997 and has been an assistant professor at the university since 2000."
+,
+,
+,
+,
+,
+Biography,
+,"After working in the high tech industry for nearly 10 years as a software developer and team leader, Dr. Laurendeau returned to academia in 2005 to pursue a doctorate in Computer Science at Carleton University. She completed her Ph.D. in 2009, and in the same year joined the School of Computer Science as a tenure-track Instructor (teaching professor). <span style=""font-family: Helvetica, Arial, sans-serif;"">She served as Associate Director (Undergraduate) from 2011 to 2014, then as the School’s Co-op Faculty Advisor from 2014 to 2018.&nbsp; She is currently the Associate Director (Recruitment and Outreach) for the School of Computer Science.&nbsp; Dr. Laurendeau specializes in teaching first and second year computer programming courses, with a focus on software engineering.</span>"
+,
+,
+Research Interests,
+,"Database Systems, Intelligent Information Systems, Web Technologies"
+,
+,
+Research Interests,
+,"Design, Analysis and Implementation of Algorithms for Problems arising in Computational Geometry, Graph Theory, Discrete Mathematics, and Data Science."
+Current Research,
+,"Dr. Maheshwari works in the field of design, analysis, and implementation of sequential, parallel, and external memory algorithms for problems arising in Computational Geometry, Graph Theory, and Data Science. Recently, he has been looking into problems related to geometric graphs, geometric location analysis and shortest path problems. His research work in geometric graphs is centred around the theme of establishing graph theoretic and geometric properties of the underlying spatial configuration, and use them to design efficient algorithmic solutions. The graph theoretic properties of interests are connectivity, bi-connectivity, spanning properties, diameter, planarity, perfect and bottleneck matchings, Hamiltonian cycle, separators, independent sets, vertex and edge colourings. The geometric graphs of particular interest are spanners, unit-disk graphs, plane graphs, proximity graphs, Delaunay triangulations and its variants. In geometric location analysis, he studies various algorithm design questions related to finding the best location to place facilities. In geometric path problems, he looks at variants and applications of shortest path problems in two and three-dimensions. The above three areas are interrelated. Often a geometric problem is transformed into a graph problem, and by exploiting the geometric structure a faster algorithm for the graph problem is obtained. Geometric spanners are main ingredients used in designing efficient algorithms for geometric path problems. This, in turn, requires the construction of spanners having useful structural properties. Matching in geometric graphs helps in understanding and discovering combinatorial and geometric structures inherent in these graphs. In location analysis problems, the underlying geometric structure with graph-theoretic techniques is exploited to design faster algorithms."
+Biography,
+,"Dr. Maheshwari received his bachelor’s and master’s from Birla Institute of Technology and Sciences and his Ph.D. from Tata Institute of Fundamental Research in India. He was a postdoctoral fellow at the Max-Planck Institute for Computer Science in Saarbrücken, Germany from 1993-94 and Research Associate at Carleton from 1994-95. He joined the School of Computer Science as an Assistant Professor in 1996 and has been a professor with the school since 2007."
+,
+,
+,
+,
+Research Interests,
+,"Human-computer interaction, user-centered design"
+Specific Research Interests,
+,"Display clutter, data overload, eye tracking metrics and methods for usability testing and adaptive interfaces, healthcare informatics, interruption management, perception and performance"
+ORCID,
+,"<a href=""https://orcid.org/0000-0002-7677-7946"" target=""_blank"" rel=""noopener noreferrer"">https://orcid.org/0000-0002-7677-7946</a>"
+,
+,
+Research Interests,
+,"Algorithms, Data Structures, Graphs, Geometry"
+Specific Research Interest,
+,"Algorithms and combinatorics of Planar and Near-Planar Graphs, Graph Drawing, Computational Geometry"
+Current Research,
+,"Dr. Morin works in the field of computational geometry and has made foundational contributions to geometric algorithms for routing in wireless networks.&nbsp; More recently, Dr. Morin’s research has led to him joining a team in the Department of Mechanical and Aerospace Engineering at Carleton University, to help develop path-finding algorithms for an 8-axis metal sintering 3D printer."
+Biography,
+,"Dr. Morin has had a long connection with Carleton University, receiving both his master’s degree in 1998 and his Ph.D. in 2001 from the university’s School of Computer Science. He began teaching as an assistant professor at Carleton University in 2002 and has been a professor of Computer Science at the University since 2013.&nbsp; Dr. Morin is an Associate Editor of the Journal of Computer and System Sciences and is a Managing Editor of the Journal of Computational Geometry, of which he is also co-founder. His open-content textbook, Open Data Structures, is used as a primary or supplementary text at over 40 North American Universities. The online version of the book is consulted over 10,000 times daily."
+Research Group,
+,"<a href=""http://cglab.ca/"">Computational Geometry Lab</a>"
+,
+,
+Research Interests,
+,"Computer Graphics, Computer Games"
+Specific Research Interests,
+,"Non-Photorealistic Rendering, Image Stylization, Texture Synthesis, Procedural Modeling, Nonlinear Storytelling"
+Current Research,
+,"Dr. Mould works in the field of computer graphics, with specific interests in procedural modeling, image processing, non-photorealistic rendering, and computer games. His research in procedural modeling concentrates on natural phenomena, with new algorithms for creating virtual mountains, trees, and lightning; he has also developed new approaches to texture synthesis. His work on non-photorealistic rendering seeks to transform photographic input images into stylized images such as stained glass, watercolor, and stippled illustrations. In the area of games, Dr. Mould is interested in novel abstractions and nonlinear storytelling."
+Biography,
+,Dr. Mould received his Ph.D. from the University of Toronto in 2002. He was a faculty member at the University of Saskatchewan from 2002 to 2008. He joined the School of Computer Science at Carleton University in 2008.
+Research Group,
+,"<a href=""http://gigl.scs.carleton.ca/"" target=""_blank"">Graphics, Imaging, and Games (GIGL)</a>"
+,
+,
+Research Interests,
+,"Algorithms, Computational Geometry, Computer Graphics, Computer Vision, Data Structures, Distributed Computing, GIS, Geographic Information Systems, Medical Computing, Parallel Computing, Parallel and Distributed Computing, Robotics and Machine Vision, and Robotics"
+,
+,
+Research Interests,
+Detailed Research Interests,
+Research History,
+,"Dr. Oommen has done research in the general areas of Artificial Intelligence for more than 40 years. In the fields of Stochastic Learning and Learning Automata (LA), he has pioneered the field of Discretized LA. Some of the fastest and most accurate LA are due to the work done by him and his co-authors. Research in these fields earned him his elevation to be a Fellow of the IEEE. In the area of Statistical Pattern Recognition (PR) he has pioneered the theory and applications of the so-called Anti-Bayesian paradigm of PR. Together with his co-authors, he also introduced the science and art of Chaotic PR. His work in using Dependence Trees to achieve PR is also well recorded. In the area of Syntactic PR, his award-winning algorithm has attained the optimal and information theoretic bound, and this earned him his elevation to be a Fellow of the IAPR. Within the field of Neural Networks (NNs), he has worked extensively with the Kohonen’s NN, and has demonstrated how one can merge the structure of the NN and its topology. Besides these, he has also worked in the general fields of AI, intelligent game playing, and LA-based data compression."
+Biography,
+,"Dr.Oommen received his Bachelor of Technology in Electrical Engineering at the Indian Institute of Technology in Madras, India in 1975. He then pursued his Master of Engineering degree at the Indian Institute of Science in Bangalore, India receiving his degree in 1977. At both these institutions, he won the medal as the best graduating student. He received a Master of Science degree in 1979, and a Ph.D. in Electrical Engineering in 1982, both from Purdue University, Indiana, USA. In 2003, Dr. Oommen was nominated as a FELLOW of the Institute of Electrical and Electronic Engineers (IEEE) for research on subfields of artificial intelligence. He was also nominated as a FELLOW of the International Association of Pattern Recognition (IAPR) in August 2006 for contributions to fundamental and applied problems in syntactic and statistical pattern recognition. He has served on the editorial board of the journals IEEE Transactions on Systems, Man and Cybernetics, and Pattern Recognition. Dr. Oommen has been teaching in the School of Computer Science at Carleton University since 1981, and was appointed Chancellor’s Professor of Computer Science at Carleton University in 2006. Apart from publishing numerous award-winning papers, he has also won Carleton University’s Research Achievement Award four times, in 1995, 2001, 2007 and 2015."
+Research Group,
+,Intelligent Systems
+,
+,
+,
+,
+Research Interests,
+,"Algorithms, Computational Geometry, Data Structures, and GIS"
+Current Research,
+,"Dr. Sack’s research focuses on intelligent systems for geographic information services. He works to investigate the efficiency of such computations, build improved techniques and make use of significant relationships within the design of geometric algorithms, algorithms for computational geometry and the generation of combinatorial and geometric objects. His current research is focused on developing shortest path algorithms, which&nbsp;have traditionally been designed for static environments, not dynamic environments such as geographic information services. The computation of a path between two points, one that avoids obstacles but also avoids criteria such as sharp turns, is a fundamental problem for dynamic environments – environments where objects may move, disappear, appear or even change shape.&nbsp; The primary goal of Dr. Sack’s current research is to develop efficient shortest path algorithms for an array of dynamic environments, analyze their performance and apply them to solving other problems such as the determination of similarity between objects."
+Biography,
+,"Dr. Jörg-Rüdiger Sack received his Master of Computer Science degree from the University of Bonn, Germany and his Ph.D. from McGill University in Montreal. He is now the editor-in-chief of the journals Computational Geometry-Theory and Applications, and Journal of Spatial Information Science, as well as editor of The Journal of Visualization and Computer Animation. Dr. Sack has&nbsp;been the&nbsp;founding chair of NSERC’s national Computer Science Liaison Committee&nbsp;and has been instrumental in&nbsp;the creation of the national CS organization CS-Can.&nbsp;He served as Science Advisor to the German Embassy in Ottawa and until 2016, he served on the decision body for the German Excellence Initiative.&nbsp;He has been appointed Chair of the Scientific Advisory Board of the Zuse Institute, and is the member of the Scopus Content Selection &amp; Advisory Board responsible for Computer Science. &nbsp;He has also served as a member of the committee on G8 Research Councils Initiative on Multilateral Research Funding, the CFI Cyber-infrastructure Workshop, and the Tricouncil+ Consultation Workshop on Big Data and Digital Scholarship. Dr. Sack has been a professor with Carleton University’s School Of Computer Science since&nbsp;1983."
+,
+,
+,
+,
+,
+Research Interests,
+,"Algorithms, Communication Networks, Data Structures, Discrete Mathematics, Distributed Computing, Distributed and Real-time Systems, Evolutionary Computing, Graph Theory, Mobile Computing, Network Computing, Parallel and Distributed Computing, Robotics, Theory of Computing, and Wireless Communication"
+,
+,
+Research Interests,
+,"Algorithms, Computational Geometry, Visualization."
+Research Group,
+,"<a href=""https://cglab.ca/"" target=""_blank"" rel=""noopener noreferrer"">Computational Geometry Lab (CGLAB)</a>"
+,
+,
+,
+Research Interests,
+,"Algorithms, Algorithmic Game Theory, Network and Graph Theory."
+Biography,
+,"Alexa Sharp, born in Ottawa on August 30th, believed for many years that she was born on the 31st. After a childhood growing up in both Canada and Indonesia, Alexa chose to attend the University of Waterloo, where she was able to mix school and “real work” in their Co-op program. After six years she received a Bachelor of Math in Computer Science and Combinatorics and Optimization, and since the degree had so many words in it, decided to keep collecting them. Some years later she received a Ph.D. in Computer Science from Cornell University with a thesis on incremental algorithms, advised by Dexter Kozen. Keeping the academic streak alive, Alexa moved on to Oberlin College in Ohio, this time as a professor of Computer Science. There she stayed until 2017, when she unexpectedly decided to try her hand at software engineering at Google in Cambridge, Massachusetts. This fun-but-less-fun-than-teaching detour lasted 3 years and now you can find Alexa at Carleton University. Alexa estimates she has run enough miles to circle the globe around the 28th parallel, and eaten enough candy to feed, but not nourish, a small nation."
+,
+,
+Research Interests,
+,Algorithms
+Specific Research Interests,
+,"Computational Geometry, Geometric Networks, Graph Algorithms, Data Structures, Applications of Computational Geometry in Manufacturing"
+Biography,
+,"Dr. Smid received his master’s from Eindhoven University of Technology in the Netherlands and his Ph.D.&nbsp; from the University of Amsterdam. From 1990 to 1996, Dr. Smid worked as a research associate at the Max-Planck-Institute for Computer Science in Saarbrücken, Germany. Prior to joining Carleton’s faculty, Dr. Smid was a professor of Theoretical Computer Science with the Institute of Simulation and Graphics at the University of Magdeburg, Germany. He joined the School of Computer Science at Carleton University as an Associate Professor in 2001 and has been a professor with the school since 2004."
+Research Group,
+,"<a href=""http://cglab.ca/"" target=""_blank"" rel=""noopener noreferrer"">Computational Geometry Lab</a>"
+,
+,
+Research Interests,
+,"Computer Security, Operating Systems, Intrusion Detection, Complex Adaptive Systems, Artificial Life"
+Current Research,
+,
+,
+,
+Research Interests,
+,Human-Computer Interaction and Computer Security
+Specific Research Interests,
+,"Dr. Stobert’s research interests are in usable security systems, applying research from cognitive science to improve the design of security systems. She is interested in usable authentication, usable security for healthcare, and security education."
+,
+,
+,
+Research Interests,
+,"Artificial Intelligence, Multi-agent Systems, Game Theory, Graph Theory, Social Networks"
+Specific Research Interests,
+,"Computational Social Choice, Voting Theory, Social Network Simulations, Algorithmic Fairness, Fair Allocation"
+Current Research,
+,"I conduct research in Multi-agent Systems, a field of Artificial Intelligence that models and analyzes complex interactions between rational agents. In particular, I study computational social choice, leveraging tools and techniques from computer science to examine social choice problems such as voting and fair division. My interest is in strategic action within social networks, and I am particularly interested in interdisciplinary collaboration with domain researchers. My research techniques draw from economic game theory and agent based simulations."
+,
+,
+,
+,
+,
+Research Interests,
+Specific Research Interests,
+,"Geometric Modeling, Processing, and Visualization Shape Analysis"
+Current Research,
+,"Dr. van Kaick’s research focuses on the analysis, creation, and manipulation of 3D objects. His research seeks solutions to problems such as shape segmentation, shape correspondence or matching, and shape similarity estimation. Dr. van Kaick is interested in developing techniques to learn about the nature of shapes, including their geometry, topology, structure, part composition, relations between parts, and functionality. These analysis techniques are precursors to applications such as shape synthesis, editing and understanding, which are all of interest in diverse areas including design and fabrication,&nbsp;game development,&nbsp;computer animation, and medical imaging. His work has been published in computer graphics conferences such as SIGGRAPH and SIGGRAPH Asia."
+Biography,
+,"Dr. van Kaick received his master’s degree from the Federal University of Paraná, Brazil and his Ph.D. from Simon Fraser University. He was a postdoctoral researcher at both Simon Fraser University and Tel Aviv University, Israel where he was an Azrieli fellow. He serves regularly as a member of the program committees of well-known conferences in computer graphics, such as Eurographics, Pacific Graphics and Shape Modeling International. He has also served on the workshops, briefs and posters committees of SIGGRAPH Asia, a conference and exhibition for computer graphics and interactive techniques held every year in the Asian continent.&nbsp;Dr. van Kaick joined the School Of Computer Science at Carleton University in 2014."
+Research Group,
+,"<a href=""http://gigl.scs.carleton.ca/"" target=""_blank"" rel=""noopener noreferrer"">Graphics, Imaging, and Games Lab (GIGL)</a>"
+,
+,
+Research Interests,
+,"Authentication, Computer Security, Internet Security, Applied Cryptography, Information Security "
+Specific Research Interests,
+,"Authentication and Identity Management, System Security, Software Security, Application and Web Security, Network Security, Smartphone Security, Usability and Security, Passwords, Public-Key Infrastructure, SSL/TLS."
+Current Research,
+,"Dr. Van Oorschot’s research is&nbsp;centred on&nbsp;authentication, Internet security infrastructure such as SSL/TLS and certificate-based architectures, software security, client device security, and usable security. His interest in Internet authentication includes methods to augment ordinary passwords with additional dimensions such as geolocation, device recognition, and other means with zero or minimal burden on users. This complements his interest in public-key infrastructure (PKI), text and image-based passwords, and more generally, identity management taking into account both human users and software design constraints. Other current research interests include smartphone security, secure software installation, network scanning, and the interconnected areas of software, application and web security."
+Biography,
+,"Dr. Van Oorschot is a Professor and Canada Research Chair in Authentication and Computer Security. He is also the co-author of the Handbook of Applied Cryptography. From 2008 to 2013 he was the Scientific Director of NSERC Internetworked Systems Security Network, a pan-Canadian strategic research network exploring computer and Internet security.&nbsp; Dr. Van Oorschot received both his Master’s and Ph.D. from the University of Waterloo, which also later awarded him the&nbsp; J.W. Graham Medal in Computing and Innovation in 2000.&nbsp;In 2011, he was inducted as a Fellow of the Royal Society of Canada, the oldest association of scientists and scholars in Canada. He joined the School of Computer Science at Carleton University in 2002."
+Homepage,
+,"<a href=""https://people.scs.carleton.ca/~paulv/"" target=""_blank"" rel=""noopener noreferrer"">https://www.scs.carleton.ca/~paulv/</a>"
+Research Group,
+,"<a href=""https://www.ccsl.carleton.ca/about/"" target=""_blank"" rel=""noopener noreferrer"">Carleton Computer Security Lab (CCSL)</a>"
+ORCID,
+,"<a href=""https://orcid.org/0000-0002-5038-5370"" target=""_blank"" rel=""noopener noreferrer"">https://orcid.org/0000-0002-5038-5370</a>"
+,
+,
+Research Interests,
+,Artificial Intelligence and Machine Learning
+Current Research,
+,"Reinforcement Learning, Transfer Learning, and Federated Learning"
+,
+,
+Research Interests,
+,"Trusted computing, Hardware/architectural security support, Systems security, Authentication and privacy"
+Specific Research Interests,
+,"Dr. Zhao’s primary research interests mainly concern low-level platform security, including but not limited to hardware, firmware, hypervisor and OS. Specifically, he would like to find out the actual trustworthiness of underlying components that are assumed or have to be trusted, and based on the findings what can be done to eventually achieve trustworthy program execution. He is also interested in solutions to authentication, privacy preservation and data protection that make use of the low-level approaches."
+ORCID,
+,"<a href=""https://orcid.org/0000-0002-6376-4062"">https://orcid.org/0000-0002-6376-4062</a>"
+,
+,
+Research Interests,
+,"Inferential Data Science, Bayesian Algorithms, Machine Learning, Text and Image Processing, Opening Black Boxes, Computational Statistics"
+,
+,
+Research Interests,
+,Artificial intelligence; cognitive modeling; imagination; creativity; aesthetics; mental imagery; brain modeling
+Detailed Research Interests,
+,"Jim Davies runs the Science of Imagination Laboratory, which focuses on making computer models of human imagination–creating visual scenes that are novel but realistic. This involves psychologically-informed artificial intelligence, as well as spiking neural-network modeling."
+Research Group,
+,
+,
+Research Interests,
+,Human Computer Interaction
+Specific Research Interests,
+,"Next Generation Interaction Techniques, Deformable User Interactions, Flexible Displays, Novel Technologies for Rehabilitation, Accessibility Research"
+Research Group,
+,
+,
+,
+,
+,
+,
+,
+,
+,"Distributed computing; cloud and data center networks; algorithm design and evaluations in sensor, actuator and mobile agent networks; big data analytics; data privacy."
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,"I am a Ramón y Cajal researcher at the Department of Mathematics of Universitat Politècnica de Catalunya. I work at the UPC research group on Discrete, Combinatorial and Computational Geometry. I did my PhD at Utrecht University, under the supervision of Marc van Kreveld. Before going to Utrecht for my PhD, I studied at the Computer Science Department of the Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires."
+,
+,
+,
+,
+Research Interests,
+,"Artificial Intelligence, Swarm Intelligence, Genetic Algorithms, Genetic Programming, Neural Networks, Recommender Systems, Search Engines"
+Current Research,
+,"Dr. White’s research centres around the study of complex adaptive systems; specifically, influence measurement in social networks and the role it plays in the control of agent-based societies. His work investigates influencers in social networks and searches for&nbsp;ways to use swarm intelligence techniques for control in such networked environments and in adaptive information systems. His past work also includes research on trust and reputation systems, referral networks and evolutionary computation."
+Biography,
+,"Dr. White began his studies at Cambridge University, England receiving a Bachelor degree in Theoretical Physics and a Master of Physics degree in 1981. After several years working in industry including&nbsp;several years spent at Nortel, he returned to academia at Carleton University where he received a Master of Computer Science degree in 1993 and a Ph.D. in Electrical Engineering in 2000. Upon completing his&nbsp;Ph.D., he was appointed as an adjunct professor within the Systems and Computer Engineering Department at Carleton University. He joined Carleton’s School of Computer Science in 2001 where he now leads the Complex Adaptive Systems Group."
+,
+,
+,"Computer graphics, implicit surfaces, procedural modelling and animation, implicit surfaces, sketch based interfaces, non-photorealistic rendering."
+,
+,
+,
+Research Interests,
+,"Data Management, Data Science, Data Management for Business Intelligence, Knowledge Representation in AI, Computational Logic, Machine Learning, Intelligent Information Systems"
+Specific Research Interests,
+,"Data Integration, Data Quality, Semantic Web Data, Data Analytics, Data Warehouses and Multidimensional Databases, Uncertainty Management in Data and Knowledge, Statistical Relational Learning, Logico-Probabilistic Knowledge Representation, Ontology-Based Data Access, Answer Set Programming, Logic Programing, Complexity Theory, Foundations of Probability and Statistical Methods"
+Current Research,
+,"At the intersection of Data Management and Knowledge Representation, Dr. Bertossi’s research investigates uncertainty management in data and Knowledge. While inconsistency management in databases has been his main research area for years, Dr. Bertossi has more recently been investigating the notion and computation of causality within large data sets. Inconsistency and causality are two components of uncertainty. While solutions such as data cleaning aid in reducing uncertainty, the presence of big data makes dealing with uncertainty much more difficult and crucial. In lieu of this, Dr. Bertossi searches for ways to make use of inconsistent data in a semantically correct manner solving inconsistencies, when the data are used. With the reliance on big data across all industries from manufacturing to marketing analytics, developing models for dealing with uncertainty in the presence of bigger datasets will be of increasing importance."
+Biography,
+,"Dr. Bertossi received a Ph.D. in Mathematics from the Pontifical Catholic University of Chile in 1988. He then joined their faculty as a professor and chair of the Department of Computer Science. He also served as President of the Chilean Computer Science Society in 1996 and again from 1999 to 2000. He is a Faculty Fellow of the IBM Center for Advanced Studies, and was the theme leader for “Data Quality and Data Cleaning” of the “NSERC Strategic Network for Data Management for Business Intelligence”.&nbsp; He has been visiting professor at the computer science departments of the University of Toronto, the University of Wisconsin-Milwaukee and the Aix-Marseille University-Luminy. He has also been a visiting researcher at the Technical University Berlin and at the Free University of Bolzano-Bozen in Italy.&nbsp; In 2006 he was a visiting researcher at the Technical University of Vienna as a Pauli Fellow of the “Wolfgang Pauli Institute Vienna”. Dr. Bertossi joined the School of Computer Science at Carleton University in 2001."
+Research Group,
+,Intelligent Information Systems and Data Analytics (IISDA)
+,
+,"Professor Fiala was a <a href=""https://carleton.ca/scs/about-scs/history/"">founding member of the School of Computer Science</a>. Dr. Fiala was a faculty member for 1980 – 2001 and served one term as director for the school."
+,"Professor Fiala died unexpectedly but peacefully in his sleep on August 24, 2021"
+,
+,"John Neilson was a founding member of the School of Computer Science and retired from Carleton University in 1997. He passed away Friday, February 13, 2015."
+,
+,
+Research Interests,
+,"Computer Applications to Music., Object-Oriented Programming, Software Engineering"
+,
+,Retirement Year: 2015
+,
+,"Research Interests: Microcomputers, Numerical Applications"
+,Retirement year: 2015
+,
+,
+,
+Research Interests,
+,"Algorithms, Communication Networks, Data Structures, Discrete Mathematics, Distributed Computing, Distributed and Real-time Systems, Evolutionary Computing, Graph Theory, Mobile Computing, Network Computing, Parallel and Distributed Computing, Robotics, Theory of Computing, and Wireless Communication"
+,
+,
+Research Interests,
+,"Artificial Intelligence, Swarm Intelligence, Genetic Algorithms, Genetic Programming, Neural Networks, Recommender Systems, Search Engines"
+Current Research,
+,"Dr. White’s research centres around the study of complex adaptive systems; specifically, influence measurement in social networks and the role it plays in the control of agent-based societies. His work investigates influencers in social networks and searches for&nbsp;ways to use swarm intelligence techniques for control in such networked environments and in adaptive information systems. His past work also includes research on trust and reputation systems, referral networks and evolutionary computation."
+Biography,
+,"Dr. White began his studies at Cambridge University, England receiving a Bachelor degree in Theoretical Physics and a Master of Physics degree in 1981. After several years working in industry including&nbsp;several years spent at Nortel, he returned to academia at Carleton University where he received a Master of Computer Science degree in 1993 and a Ph.D. in Electrical Engineering in 2000. Upon completing his&nbsp;Ph.D., he was appointed as an adjunct professor within the Systems and Computer Engineering Department at Carleton University. He joined Carleton’s School of Computer Science in 2001 where he now leads the Complex Adaptive Systems Group."
+,
