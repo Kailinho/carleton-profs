@@ -1,139 +1,100 @@
-from bs4 import  BeautifulSoup
-import requests
-import re
-import pandas as pd
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.common.exceptions import NoSuchElementException
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.chrome.service import Service
-from lxml import etree
+import json
+import logging
+
+import requests as requests
+from bs4 import BeautifulSoup, Tag, SoupStrainer
+
+log_format = '%(name)s : %(levelname)s : %(asctime)s - %(message)s'
+logging.basicConfig(level=logging.INFO, format=log_format)
+# logging.basicConfig(level=logging.DEBUG)
+logger = logging.getLogger('Scrapper')
+logger.setLevel(logging.DEBUG)
+
+BASE_URL = "https://carleton.ca/scs/our-people/school-of-computer-science-faculty/"
+HEADER = {'Accept-Language': 'en-US',
+          'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36'}
 
 
-url = f"https://carleton.ca/scs/our-people/school-of-computer-science-faculty/"
+def get_person_table_info(table_info: Tag):
+    result = {}
+    try:
+        table = table_info.find('table', {"class": "people__table"}).select_one('tbody')
+        for row in table.find_all('tr'):
+            row_value_cell: Tag = row.find('td', {"class": "people__table-info"})
+            if link := row_value_cell.find('a'):
+                value = link['href']
+            else:
+                value = row_value_cell.text
+            result.update({row.find('td', {"class": "people__table-title"}).text: value})
+    except AttributeError:
+        return None
+
+    return result
+
+
+def get_person_blob_info(person_article: Tag) -> []:
+    result = {}
+    try:
+        titles = person_article.find_all('h3')
+        for title in titles:
+            big_data: Tag = title.next_sibling
+            while big_data.name != 'p':
+                big_data = big_data.next_sibling
+            result.update({title.text: big_data.text})
+    except AttributeError:
+        return None
+
+    return result
+
+
+def get_person_info(url: str) -> {}:
+    result = {}
+    resp = requests.get(url, headers=HEADER)
+    logger.debug(url)
+    person_article = BeautifulSoup(resp.content, 'html.parser', parse_only=SoupStrainer('article'))
+
+    person_detail = person_article.find("div", {"class": "people__details"})
+
+    result.update({"name": person_detail.select_one('h2').text})
+    result.update({"title": person_detail.select_one('p').text})
+
+    result.update({"contacts": get_person_table_info(person_detail)})
+    result.update({"research": get_person_blob_info(person_article)})
+    return result
+
+
+def get_faculty_people(faculty: Tag) -> []:
+    people_cards = faculty.find_all('a')
+    return [card['href'] for card in people_cards]
+
+
+def get_faculties_list_with_links(soup: Tag) -> dict[str, Tag]:
+    result: dict[str, []] = {}
+    faculties: list[Tag] = soup.find_all("h2")
+    for faculty in faculties:
+        logger.info(f"{faculty.text}")
+        faculty_data: Tag = faculty.next_element
+        while faculty_data.name != 'section':
+            faculty_data = faculty_data.next_element
+        result.update({faculty.text: get_faculty_people(faculty_data)})
+    return result
+
+
+def main():
+    resp = requests.get(BASE_URL, headers=HEADER)
+
+    soup = BeautifulSoup(resp.content, 'html.parser', parse_only=SoupStrainer('article'))
+    logger.info(f"{len(soup)=}")
+
+    faculties_with_links = get_faculties_list_with_links(soup)
+
+    with open('faculty.json', 'w') as f:
+        faculty_data = []
+        for link in faculties_with_links['School Faculty']:
+            faculty_data.append(get_person_info(link))
+        json.dump(faculty_data, f, indent=4)
 
 
 
-#Code using Selenium, comment out the code until line 46 to use beautifulsoup instead
-
-PATH = Service("C:\Program Files (x86)\chromedriver.exe")
-driver = webdriver.Chrome(service=PATH)
-driver.get(url)
-links = driver.find_elements(By.CLASS_NAME,"card__link")
-profLinks = []
-
-#Get all profs' links from main scs page
-for eachLink in links:
-        profLinks.append(eachLink.get_attribute("href"))
-
-data = []  
-for url1 in profLinks:
-        try:
-
-                driver.get(url1)
-                article = driver.find_element(By.XPATH,"//article[@role='article']")
-                children = article.find_elements(By.XPATH,"./*[(self::div or self::h3 or self::p) and not(contains(@class, 'content__metadata')) and not(contains(@class, 'content__meta'))]")
-                profName = driver.find_element(By.CSS_SELECTOR,"article").find_element(By.CLASS_NAME,"people__heading").get_attribute("innerHTML")
-                # profWebsite = driver.find_element(By.CSS_SELECTOR,"article").find_element(By.XPATH,"//td[text()='Website:']/following-sibling::td").find_element(By.CSS_SELECTOR,"a").get_attribute("href")
-                print(profName)
-                for child in children:
-                        child_data= {}
-                        # child_data["Name"] = profName
-                        # child_data["Website"] = profWebsite                        
-                        tag_name = child.tag_name
-                        href = child.get_attribute("href")
-                        inner = child.get_attribute("innerHTML")
-                        text = child.get_attribute("textContent")
-
-                        if tag_name == "h3":
-                                child_data["Key"] = inner
-                                print(inner)
-                        elif tag_name == "p":
-                                child_data["Value"] = inner
-                                print(inner)
-
-                        data.append(child_data)
-                        # elif tag_name =="a":
-                        #         print("Link: ",href)
-
-
-        except (NoSuchElementException,AttributeError,IndexError,NameError):
-                
-                print(NoSuchElementException)
-                print(AttributeError)
-                print(IndexError)
-                print(NameError)
-
-        # data.append([url1, profName, profWebsite, researchInterests, specificResearchInterests])
-
-df = pd.DataFrame(data)
-df.to_csv("scsprofs.csv", index=False)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#Code using Beautifulsoup
-
-# page = requests.get(url).text
-# doc = BeautifulSoup(page, "html.parser")
-# sections = doc.find("section")
-# profsUrl = sections.find_all("a",limit = 45,class_="card__link")
-# profLinks = []
-
-
-# for profUrl in profsUrl:
-#         profLinks.append(profUrl.get("href"))
-
-
-# data = []
-# for url1 in profLinks:
-#     page1 = requests.get(url1).text
-#     doc1 = BeautifulSoup(page1, "html.parser")
-#     try:
-#         headline = doc1.find("h2",class_="people__heading").string
-#         websiteTitle = doc1.select_one("tr:-soup-contains('Website:') a").text
-#         websiteUrl = doc1.select_one("tr:-soup-contains('Website:') a").get("href")
-
-#         info1 = doc1.select_one("h3", string=re.compile(r'^Research Interests$'))
-#         if info1:
-#                 researchInterests = info1.find_next_sibling("p").text
-#         else:
-#                 # info1 = "No Research Interests"
-#                 researchInterests = "No Research Interests"
-
-#         info2 = doc1.select_one("h3", string=re.compile(".*Specific Research Interests*"))
-#         if info2:
-#                 specificResearchInterests = info2.find_next_sibling("p").string
-#         else:
-#                 # info2 = "No Specific Research Interests"
-#                 specificResearchInterests = "No Specific Research Interests"
-
-
-#     except (AttributeError,IndexError):
-
-#         websiteTitle = "No website title"
-#         websiteUrl = "No website"
-#         info1 = "No Research Interests"
-#         researchInterests = "No Research Interests"
-#         info2 = "No Specific Research Interests"
-#         specificResearchInterests = "No Specific Research Interests"
-
-#     print(headline)
-#     data.append([url1,headline, websiteTitle, websiteUrl, researchInterests, specificResearchInterests])
-
-
-# df = pd.DataFrame(data,columns=["Scraped Url", "Name","Website Title","Website Url","Research Interests","Specific Research Interests"])
-# df.to_csv("scsprofs.csv", index=False)
-
-# Current Research, Research Group, Homepage , ORCID
+if __name__ == '__main__':
+    main()
