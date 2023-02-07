@@ -1,0 +1,337 @@
+[
+    {
+        "name": "Dr. Marzieh Amini",
+        "title": "Assistant Professor",
+        "contacts": {
+            "office": "AP230G",
+            "tel": "+1 (613) 520-2600 x1016",
+            "email": "mailto:Marzieh.Amini@carleton.ca",
+            "web": "https://www.csit.carleton.ca/~mamini/"
+        },
+        "research": {
+            "Research Areas": [
+                "Data Science",
+                "Video/Image Processing and Compression",
+                "Internet of Things (IoT)",
+                "Ad-hoc and Wireless Sensor Networks",
+                "Data Privacy",
+                "Machine Learning & Artificial Intelligence",
+                "Connected/Autonomous Vehicles"
+            ]
+        }
+    },
+    {
+        "name": "Dr. Ali Arya",
+        "title": "Associate Professor",
+        "contacts": {
+            "office": "CB4202",
+            "tel": "+1 (613) 520-2600 x4184",
+            "email": "mailto:arya@carleton.ca",
+            "web": "https://www.csit.carleton.ca/~arya"
+        },
+        "research": {
+            "Research Areas": [
+                "Digital Media",
+                "Human-Computer Interaction",
+                "Game Design, Development, & Interactions",
+                "Wearables",
+                "Virtual & Augmented Reality",
+                "Animation, Virtual Environments, and Simulation",
+                "Educational Technologies"
+            ]
+        }
+    },
+    {
+        "name": "Dr. Masoud Barati",
+        "title": "Assistant Professor",
+        "contacts": {
+            "office": "AP230L",
+            "tel": "N/A",
+            "email": "mailto:N/A",
+            "web": "N/A"
+        },
+        "research": {
+            "Research Areas": [
+                "Cloud, Fog, and Edge Computing",
+                "Internet of Things (IoT)",
+                "Ad-hoc and Wireless Sensor Networks",
+                "Network security (threat modelling, blockchain, usable security)",
+                "Data Privacy",
+                "Data Modelling"
+            ]
+        }
+    },
+    {
+        "name": "Dr. KC Collins",
+        "title": "",
+        "contacts": {
+            "office": "N/A",
+            "tel": "+1 (613) 520-2600",
+            "email": "mailto:kc.collins@carleton.ca",
+            "web": "N/A"
+        },
+        "research": {
+            "Research Areas": [
+                "Digital Media",
+                "Digital Sound and Audio",
+                "Virtual & Augmented Reality",
+                "Computer Networks (Planning, Design, Architecture)",
+                "Internet of Things (IoT)"
+            ]
+        }
+    },
+    {
+        "name": "Dr. Jie Gao",
+        "title": "Assistant Professor",
+        "contacts": {
+            "office": "CB4103",
+            "tel": "+1 (613)520-2600 ext 1451",
+            "email": "mailto:Jie.Gao6@carleton.ca",
+            "web": "https://sites.google.com/view/jiegao"
+        },
+        "research": {
+            "Research Areas": [
+                "Network Technology",
+                "Virtual & Augmented Reality",
+                "Computer Networks (Planning, Design, Architecture)",
+                "Cloud, Fog, and Edge Computing",
+                "Internet of Things (IoT)",
+                "Software Defined Networks (SDN)",
+                "Ad-hoc and Wireless Sensor Networks",
+                "Machine Learning & Artificial Intelligence",
+                "Connected/Autonomous Vehicles"
+            ]
+        }
+    },
+    {
+        "name": "Dr. Audrey Girouard",
+        "title": "Associate Professor",
+        "contacts": {
+            "office": "AP230D",
+            "tel": "+1 (613) 520-2600 x8817",
+            "email": "mailto:audrey.girouard@carleton.ca",
+            "web": "https://cil.csit.carleton.ca/"
+        },
+        "research": {
+            "Research Areas": [
+                "Digital Media",
+                "Human-Computer Interaction",
+                "Game Design, Development, & Interactions",
+                "Wearables"
+            ]
+        }
+    },
+    {
+        "name": "Dr. Lesley Istead",
+        "title": "Assistant Professor",
+        "contacts": {
+            "office": "N/A",
+            "tel": "N/A",
+            "email": "mailto:lesley.istead@carleton.ca",
+            "web": "N/A"
+        },
+        "research": null
+    },
+    {
+        "name": "Dr. Chris Joslin",
+        "title": "Full Professor",
+        "contacts": {
+            "office": "CB4302",
+            "tel": "+1 (613) 520-2600 x1889",
+            "email": "mailto:chris.joslin@carleton.ca",
+            "web": "https://www.csit.carleton.ca/~cjoslin"
+        },
+        "research": {
+            "Research Areas": [
+                "Digital Media",
+                "Human-Computer Interaction",
+                "Game Design, Development, & Interactions",
+                "Virtual & Augmented Reality",
+                "Animation, Virtual Environments, and Simulation",
+                "Video/Image Processing and Compression",
+                "Medical Imaging and Applications",
+                "Multimedia Streaming",
+                "Machine Learning & Artificial Intelligence",
+                "Connected/Autonomous Vehicles"
+            ]
+        }
+    },
+    {
+        "name": "Dr. Ashraf Matrawy",
+        "title": "Full Professor",
+        "contacts": {
+            "office": "CB4102",
+            "tel": "+1 (613) 520-2600 x2901",
+            "email": "mailto:ashraf.matrawy@carleton.ca",
+            "web": "http://www.sce.carleton.ca/~amatrawy"
+        },
+        "research": {
+            "Research Areas": [
+                "Network Technology",
+                "Data Science",
+                "Computer Networks (Planning, Design, Architecture)",
+                "Cloud, Fog, and Edge Computing",
+                "Internet of Things (IoT)",
+                "Software Defined Networks (SDN)",
+                "Network security (threat modelling, blockchain, usable security)",
+                "Big Data Analytics",
+                "Machine Learning & Artificial Intelligence",
+                "Connected/Autonomous Vehicles"
+            ]
+        }
+    },
+    {
+        "name": "Dr. Mehdi Niknam",
+        "title": "Instructor II",
+        "contacts": {
+            "office": "AP230M",
+            "tel": "+1 (613) 520-2600 x6160",
+            "email": "mailto:MehdiNiknam@cunet.carleton.ca",
+            "web": "N/A"
+        },
+        "research": {}
+    },
+    {
+        "name": "Dr. Omair Shafiq",
+        "title": "Assistant Professor",
+        "contacts": {
+            "office": "AP230F",
+            "tel": "+1 (613) 520-2600 x6038",
+            "email": "mailto:OmairShafiq@cunet.carleton.ca",
+            "web": "https://www.csit.carleton.ca/~oshafiq/"
+        },
+        "research": {
+            "Research Areas": [
+                "Digital Media",
+                "Data Science",
+                "Cloud, Fog, and Edge Computing",
+                "Internet of Things (IoT)",
+                "Big Data Analytics",
+                "Data Modelling",
+                "Machine Learning & Artificial Intelligence"
+            ]
+        }
+    },
+    {
+        "name": "Dr. Wei Shi",
+        "title": "Full Professor",
+        "contacts": {
+            "office": "CB4305",
+            "tel": "+1 (613) 520-2600 x5060",
+            "email": "mailto:wei.shi@carleton.ca",
+            "web": "https://www.csit.carleton.ca/wshi/"
+        },
+        "research": {
+            "Research Areas": [
+                "Digital Media",
+                "Network Technology",
+                "Data Science",
+                "Computer Networks (Planning, Design, Architecture)",
+                "Cloud, Fog, and Edge Computing",
+                "Internet of Things (IoT)",
+                "Ad-hoc and Wireless Sensor Networks",
+                "Network security (threat modelling, blockchain, usable security)",
+                "Data Privacy",
+                "Big Data Analytics"
+            ]
+        }
+    },
+    {
+        "name": "Dr. David Sprague",
+        "title": "Instructor II",
+        "contacts": {
+            "office": "AP230E",
+            "tel": "+1 (613) 520-2600 x1324",
+            "email": "mailto:david.sprague@carleton.ca",
+            "web": "N/A"
+        },
+        "research": {}
+    },
+    {
+        "name": "Dr. Marc St-Hilaire",
+        "title": "Full Professor",
+        "contacts": {
+            "office": "CB4304",
+            "tel": "+1 (613) 520-2600 x1844",
+            "email": "mailto:marc.sthilaire@carleton.ca",
+            "web": "https://www.csit.carleton.ca/~msthilaire"
+        },
+        "research": {
+            "Research Areas": [
+                "Network Technology",
+                "Computer Networks (Planning, Design, Architecture)",
+                "Cloud, Fog, and Edge Computing",
+                "Internet of Things (IoT)",
+                "Software Defined Networks (SDN)",
+                "Ad-hoc and Wireless Sensor Networks"
+            ]
+        }
+    },
+    {
+        "name": "Dr. Robert Teather",
+        "title": "Associate Professor",
+        "contacts": {
+            "office": "AP230I",
+            "tel": "+1 (613) 520-2600 x4176",
+            "email": "mailto:robert.teather@carleton.ca",
+            "web": "https://www.csit.carleton.ca/~rteather"
+        },
+        "research": {
+            "Research Areas": [
+                "Digital Media",
+                "Human-Computer Interaction",
+                "Game Design, Development, & Interactions",
+                "Virtual & Augmented Reality"
+            ]
+        }
+    },
+    {
+        "name": "Dr. David Thue",
+        "title": "Assistant Professor",
+        "contacts": {
+            "office": "AP230H",
+            "tel": "+1 (613) 520-2600 x1326",
+            "email": "mailto:david.thue@carleton.ca",
+            "web": "https://rise.csit.carleton.ca/"
+        },
+        "research": {
+            "Research Areas": [
+                "Digital Media",
+                "Data Science",
+                "Human-Computer Interaction",
+                "Game Design, Development, & Interactions",
+                "Animation, Virtual Environments, and Simulation",
+                "Interactive Storytelling",
+                "Machine Learning & Artificial Intelligence"
+            ]
+        }
+    },
+    {
+        "name": "Dr. F. Richard Yu",
+        "title": "Full Professor",
+        "contacts": {
+            "office": "CB4201",
+            "tel": "+1 (613) 520-2600 x2978",
+            "email": "mailto:Richard.Yu@carleton.ca",
+            "web": "https://www.csit.carleton.ca/~fyu"
+        },
+        "research": {
+            "Research Areas": [
+                "Digital Media",
+                "Network Technology",
+                "Data Science",
+                "Multimedia Streaming",
+                "Computer Networks (Planning, Design, Architecture)",
+                "Cloud, Fog, and Edge Computing",
+                "Internet of Things (IoT)",
+                "Software Defined Networks (SDN)",
+                "Ad-hoc and Wireless Sensor Networks",
+                "Network security (threat modelling, blockchain, usable security)",
+                "Data Privacy",
+                "Data Modelling",
+                "Machine Learning & Artificial Intelligence",
+                "Connected/Autonomous Vehicles"
+            ]
+        }
+    }
+]

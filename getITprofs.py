@@ -15,52 +15,60 @@ HEADER = {'Accept-Language': 'en-US',
           'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36'}
 
 
-def get_person_table_info(table_info: Tag):
+def get_person_info_li(table_info: Tag):
     result = {}
     try:
-        table = table_info.findall('li')
-        for row in table:
-            row_value_cell: Tag = row.find({"class": "people__table-info"})
-            if link := row_value_cell.find('a'):
-                value = link['href']
+        table = table_info.find_all('li')
+        for i, li in enumerate(table):
+            if i == 4:
+                break
+            if link := li.find('a'):
+                result.update({li['class'][0]: link['href']})
             else:
-                value = row_value_cell.text
-            result.update({row.find('td', {"class": "people__table-title"}).text: value})
+                result.update({li['class'][0]: li.text})
     except AttributeError:
         return None
 
     return result
+
+
 
 
 def get_person_blob_info(person_article: Tag) -> []:
     result = {}
     try:
-        titles = person_article.find_all('h3')
+        titles = person_article.find_all(['h2', 'h3'])
         for title in titles:
-            big_data: Tag = title.next_sibling
-            while big_data.name != 'p':
-                big_data = big_data.next_sibling
-            result.update({title.text: big_data.text})
+            big_data: Tag = title.find_next_sibling('p').find_next_sibling('ul')
+            big_data_list = []
+            for li in big_data.find_all('li'):
+                big_data_list.append(li.text)
+            result.update({title.text: big_data_list})
+            return result
     except AttributeError:
         return None
 
     return result
+
+
 
 
 def get_person_info(url: str) -> {}:
     result = {}
     resp = requests.get(url, headers=HEADER)
     logger.debug(url)
-    person_article = BeautifulSoup(resp.content, 'html.parser', parse_only=SoupStrainer(class_='profile-page'))
 
-    person_detail = person_article.find("ul", {"class": "contact"})
+    person_article = BeautifulSoup(resp.content, 'html.parser', parse_only=SoupStrainer('main'))
+    person_detail = person_article.find("div", {"class": "profile-name-desktop"})
+    person_contact = person_article.find("ul", {"class": "contact"})
+    person_research = person_article.find_all("section")[1]
 
-
-    result.update({"name": person_detail.select_one('h2').text})
+    result.update({"name": person_detail.select_one('h1').text})
     result.update({"title": person_detail.select_one('p').text})
-    result.update({"contacts": get_person_table_info(person_detail)})
-    result.update({"research": get_person_blob_info(person_article)})
+    result.update({"contacts": get_person_info_li(person_contact)})
+    result.update({"research": get_person_blob_info(person_research)})
     return result
+
 
 
 def get_faculty_people(faculty: Tag) -> []:
