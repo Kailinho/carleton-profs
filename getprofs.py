@@ -82,8 +82,6 @@ df.to_csv("scsprofs.csv", index=False)
 #                 info2 = "No Specific Research Interests"
 #                 specificResearchInterests = "No Specific Research Interests"
 
-#         # info3 = doc1.select_one("article > p:nth-of-type(3):not(.content__metadata):not(.content__meta) a").text.strip()
-#         # info4 = doc1.select_one("article > p:nth-of-type(4):not(.content__meta):not(.content__meta) a").text.strip()
 #     except (AttributeError,IndexError):
 
 #         websiteTitle = "No website title"
@@ -100,4 +98,3 @@ df.to_csv("scsprofs.csv", index=False)
 # df = pd.DataFrame(data,columns=["Scraped Url", "Name","Website Title","Website Url","Research Interests","Specific Research Interests"])
 # df.to_csv("scsprofs.csv", index=False)
 
-# Current Research, Research Group, Homepage , ORCID
