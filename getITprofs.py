@@ -10,7 +10,7 @@ logging.basicConfig(level=logging.INFO, format=log_format)
 logger = logging.getLogger('Scrapper')
 logger.setLevel(logging.DEBUG)
 
-BASE_URL = "https://carleton.ca/scs/our-people/school-of-computer-science-faculty/"
+BASE_URL = "https://www.csit.carleton.ca/index.php?pageID=PeopleFaculty"
 HEADER = {'Accept-Language': 'en-US',
           'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36'}
 
@@ -18,9 +18,9 @@ HEADER = {'Accept-Language': 'en-US',
 def get_person_table_info(table_info: Tag):
     result = {}
     try:
-        table = table_info.find('table', {"class": "people__table"}).select_one('tbody')
-        for row in table.find_all('tr'):
-            row_value_cell: Tag = row.find('td', {"class": "people__table-info"})
+        table = table_info.findall('li')
+        for row in table:
+            row_value_cell: Tag = row.find({"class": "people__table-info"})
             if link := row_value_cell.find('a'):
                 value = link['href']
             else:
@@ -51,15 +51,13 @@ def get_person_info(url: str) -> {}:
     result = {}
     resp = requests.get(url, headers=HEADER)
     logger.debug(url)
-    person_article = BeautifulSoup(resp.content, 'html.parser', parse_only=SoupStrainer('article'))
+    person_article = BeautifulSoup(resp.content, 'html.parser', parse_only=SoupStrainer(class_='profile-page'))
 
-    person_detail = person_article.find("div", {"class": "people__details"})
-    person_picture = person_article.find("div",{"class": "people__photo"} )
+    person_detail = person_article.find("ul", {"class": "contact"})
 
 
     result.update({"name": person_detail.select_one('h2').text})
     result.update({"title": person_detail.select_one('p').text})
-    result.update({"picture": person_picture.select_one('img')['src']})
     result.update({"contacts": get_person_table_info(person_detail)})
     result.update({"research": get_person_blob_info(person_article)})
     return result
@@ -67,32 +65,33 @@ def get_person_info(url: str) -> {}:
 
 def get_faculty_people(faculty: Tag) -> []:
     people_cards = faculty.find_all('a')
-    return [card['href'] for card in people_cards]
+    return [(card['href']) for card in people_cards]
+    
 
 
 def get_faculties_list_with_links(soup: Tag) -> dict[str, Tag]:
     result: dict[str, []] = {}
-    faculties: list[Tag] = soup.find_all("h2")
-    for faculty in faculties:
-        logger.info(f"{faculty.text}")
-        faculty_data: Tag = faculty.next_element
-        while faculty_data.name != 'section':
-            faculty_data = faculty_data.next_element
-        result.update({faculty.text: get_faculty_people(faculty_data)})
+    h1_tags = soup.find_all("h1")
+    for h1_tag in h1_tags:
+        if h1_tag.text == "Faculty & Full-Time Instructors":
+            section_tag = h1_tag.find_next("section")
+            result = get_faculty_people(section_tag)
+            break
     return result
+
 
 
 def main():
     resp = requests.get(BASE_URL, headers=HEADER)
 
-    soup = BeautifulSoup(resp.content, 'html.parser', parse_only=SoupStrainer('article'))
+    soup = BeautifulSoup(resp.content, 'html.parser', parse_only=SoupStrainer('main'))
     logger.info(f"{len(soup)=}")
 
     faculties_with_links = get_faculties_list_with_links(soup)
 
-    with open('faculty.json', 'w') as f:
+    with open('ITfaculty.json', 'w') as f:
         faculty_data = []
-        for link in faculties_with_links['School Faculty']:
+        for link in faculties_with_links:
             faculty_data.append(get_person_info(link))
         json.dump(faculty_data, f, indent=4)
 

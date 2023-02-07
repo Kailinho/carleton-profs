@@ -1,0 +1,886 @@
+[
+    {
+        "name": "Andy Adler",
+        "title": "Professor, P.Eng.",
+        "picture": "https://carleton.ca/sce/wp-content/uploads/adler-200x200.jpg",
+        "contacts": {
+            "Degrees:": "Ph.D. (\u00c9cole Polytechnique de Montr\u00e9al)",
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:adler@sce.carleton.ca",
+            "Office:": "Canal Building 6204",
+            "Website:": "http://www.sce.carleton.ca/faculty/adler/"
+        },
+        "research": {
+            "Research Interests:": [
+                "Medical Image Processing",
+                "Applications for Monitoring lung and heart activity",
+                "Image reconstruction models to account for errors",
+                "Applications for Monitoring lung and heart activity",
+                "Image reconstruction models to account for errors",
+                "Monitoring lung function in mice",
+                "Modelling of Airways physiology",
+                "Monitoring lung function in mice",
+                "Modelling of Airways physiology",
+                "Face Recognition systems",
+                "Issues in Biometric Application Design and Integration",
+                "Security Implications of biometrics",
+                "Face Recognition systems",
+                "Issues in Biometric Application Design and Integration",
+                "Security Implications of biometrics",
+                "Applications for Monitoring lung and heart activity",
+                "Image reconstruction models to account for errors",
+                "Monitoring lung function in mice",
+                "Modelling of Airways physiology",
+                "Face Recognition systems",
+                "Issues in Biometric Application Design and Integration",
+                "Security Implications of biometrics",
+                "\nShare: Twitter, Facebook\n\nShort URL:\nhttps://carleton.ca/sce/?p=269"
+            ]
+        }
+    },
+    {
+        "name": "Samuel Ajila",
+        "title": "Associate Professor, P.Eng.",
+        "picture": "https://carleton.ca/sce/wp-content/uploads/Ajila-200x200.jpg",
+        "contacts": {
+            "Degrees:": "Ph.D. (Nancy, France)",
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:ajila@sce.carleton.ca",
+            "Office:": "7038 Minto CASE",
+            "Website:": "http://www.sce.carleton.ca/faculty/ajila/ajila.html"
+        },
+        "research": {
+            "Biographical Notes:": [
+                "2017 IEEE Senior Member",
+                "2018 ACM Senior Member"
+            ],
+            "Research Interests:": [
+                "Software Requirements Engineering;",
+                "Model Driven Approach & Aspect Oriented Design;",
+                "Cloud Resource Provisioning and Management;",
+                "Software Deployment in the Cloud and Multi-tenancy;",
+                "Big Data Analytics: Software Repository, Multi-media, and Networks Radio Traffic Data.",
+                "\nShare: Twitter, Facebook\n\nShort URL:\nhttps://carleton.ca/sce/?p=271"
+            ]
+        }
+    },
+    {
+        "name": "Hala Assal",
+        "title": "Assistant Professor",
+        "picture": "https://carleton.ca/sce/wp-content/uploads/Hala_SCE-200x200.jpeg",
+        "contacts": {
+            "Degrees:": "Ph.D. (Carleton University)",
+            "Email:": "mailto:assal@sce.carleton.ca",
+            "Office:": "MC 7040 ",
+            "Website:": "https://www.sce.carleton.ca/faculty/assal/"
+        },
+        "research": {
+            "Research Interests:": [
+                "Human-centric research",
+                "User-centric cybersecurity and privacy",
+                "Human-centric software security",
+                "Security and privacy in emerging technologies",
+                "\nShare: Twitter, Facebook\n\nShort URL:\nhttps://carleton.ca/sce/?p=2472"
+            ]
+        }
+    },
+    {
+        "name": "Mohamed Atia",
+        "title": "Associate Professor, P.Eng",
+        "picture": "https://carleton.ca/sce/wp-content/uploads/Mohamed-Atia-Photo-200x200.png",
+        "contacts": {
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:MohamedAtia@cunet.carleton.ca",
+            "Office:": "Minto 7030",
+            "Website:": "https://carleton.ca/mohamedatia/"
+        },
+        "research": {}
+    },
+    {
+        "name": "Donald Bailey",
+        "title": "Instructor III, Limited Engineering Licensee",
+        "picture": "",
+        "contacts": {
+            "Degrees:": "M.Eng. (Carleton)",
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:Donald.Bailey@sce.carleton.ca",
+            "Office:": "Mackenzie 4438",
+            "Website:": "http://www.sce.carleton.ca/faculty/bailey.html"
+        },
+        "research": {}
+    },
+    {
+        "name": "Amir Banihashemi",
+        "title": "Professor, P.Eng.",
+        "picture": "https://carleton.ca/sce/wp-content/uploads/Banihashemi-200x200.jpg",
+        "contacts": {
+            "Degrees:": "Ph.D. (Waterloo)",
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:Amir.Banihashemi@sce.carleton.ca",
+            "Office:": "Minto 7034",
+            "Website:": "http://www.sce.carleton.ca/faculty/banihashemi.html"
+        },
+        "research": {
+            "Biographical Notes:": [
+                "IEEE Ottawa Section Outstanding Engineer Award 2017 with citation: \u201cfor outstanding and pioneering contributions in theory and practice of error correction coding schemes and digital communications.\u201d",
+                "Carleton University Research Achievement Award 2012",
+                "Carleton University Faculty Graduate Mentoring Award 2011",
+                "Carleton University Research Achievement Award 2006"
+            ],
+            "Research Interests:": [
+                "Digital and Wireless Communications, Coding and Information Theory, Signal Processing and Algorithms",
+                "\nShare: Twitter, Facebook\n\nShort URL:\nhttps://carleton.ca/sce/?p=273"
+            ]
+        }
+    },
+    {
+        "name": "Safaa Bedawi",
+        "title": "Instructor II, P.Eng.",
+        "picture": "",
+        "contacts": {
+            "Degrees:": "Ph.D. (jointly from Assiut University and University of Waterloo )",
+            "Email:": "mailto:SafaaBedawi@cunet.carleton.ca"
+        },
+        "research": {}
+    },
+    {
+        "name": "Adrian Chan",
+        "title": "Professor, P.Eng.",
+        "picture": "https://carleton.ca/sce/wp-content/uploads/adrian-chan-200x200.jpg",
+        "contacts": {
+            "Degrees:": "Ph.D. (New Brunswick)",
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:Adrian.Chan@carleton.ca",
+            "Office:": "Canal Building 6201",
+            "Website:": "http://www.sce.carleton.ca/faculty/chan/index.php"
+        },
+        "research": {
+            "Biographical Notes:": [
+                "Faculty Graduate Mentoring Award, Carleton University, 2017",
+                "Outstanding Biomedical Engineer of the Year, Canadian Medical and Biological Engineering Society (CMBES), 2015",
+                "Provost\u2019s Fellowship in Teaching, Carleton University, 2013",
+                "Research Achievement Award, Carleton University, 2013",
+                "Best Professor Award, Carleton Student Engineering Society, 2012",
+                "3M Teaching Fellowship, Society for Teaching and Learning in Higher Education (STLHE) and 3M Canada, 2012",
+                "Outstanding Engineering Educator Award, IEEE Ottawa, 2011",
+                "Teaching Achievement Award, Carleton University, 2009",
+                "Early Career Achievement Award, Canadian Medical and Biological Engineering Society (CMBES), 2008",
+                "Capital Educators\u2019 Award, Ottawa Centre for Research and Innovation (OCRI), 2008",
+                "Young Alumni Achievement Award, University of New Brunswick, 2006",
+                "Spirit Recognition Award, Carleton University, 2006",
+                "Senior Member, Institute of Electrical and Electronics Engineering (IEEE), 2006",
+                "Named one of Carleton\u2019s \u201cFavorite Professors\u201d, Macleans, 2006",
+                "50 Top People in the Capital, Ottawa Life Magazine, 2005",
+                "Ottawa Life Sciences Council, Dr. Michael Smith Promising Scientist Award, 2004",
+                "25 Best and Brightest, Macleans, 2004"
+            ],
+            "Research Interests:": [
+                "Non-invasive sensor systems",
+                "Biomedical signal processing",
+                "Biomedical image processing",
+                "Machine learning",
+                "Pattern classification",
+                "Accessibility",
+                "\nShare: Twitter, Facebook\n\nShort URL:\nhttps://carleton.ca/sce/?p=274"
+            ]
+        }
+    },
+    {
+        "name": "Richard Dansereau",
+        "title": "Professor, P.Eng.",
+        "picture": "https://carleton.ca/sce/wp-content/uploads/Dansereau-200x200.jpg",
+        "contacts": {
+            "Degrees:": "Ph.D. (Manitoba)",
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:rdanse@sce.carleton.ca",
+            "Office:": "Mackenzie 4482",
+            "Website:": "http://carleton.ca/richarddansereau"
+        },
+        "research": {
+            "Research Interests:": [
+                "Multimodal signal processing and audio-video signal processing",
+                "Biomedical and biometric applications of digital signal processing",
+                "Image and speech signal processing",
+                "Fractal and multifractal complexity measures: R\u00e9nyi dimension measures",
+                "\nShare: Twitter, Facebook\n\nShort URL:\nhttps://carleton.ca/sce/?p=276"
+            ]
+        }
+    },
+    {
+        "name": "Babak Esfandiari",
+        "title": "Professor, Limited Engineering Licensee",
+        "picture": "https://carleton.ca/sce/wp-content/uploads/Babak-Esfandiari-200x200.jpg",
+        "contacts": {
+            "Degrees:": "Ph.D. (Montpellier II)",
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:babak@sce.carleton.ca",
+            "Office:": "4478 McKenzie",
+            "Website:": "https://carleton.ca/nmai/people/babak-esfandiari/"
+        },
+        "research": {
+            "Research Interests:": [
+                "Agent-based systems.",
+                "Network computing.",
+                "Applications of artificial intelligence.",
+                "Object-oriented design and languages.",
+                "Network management and supervision.",
+                "\nShare: Twitter, Facebook\n\nShort URL:\nhttps://carleton.ca/sce/?p=77"
+            ]
+        }
+    },
+    {
+        "name": "Gregory Franks",
+        "title": "Associate Professor, P.Eng.",
+        "picture": "https://carleton.ca/sce/wp-content/uploads/Franks-200x200.jpg",
+        "contacts": {
+            "Degrees:": "Ph.D. (Carleton)",
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:Greg.Franks@sce.carleton.ca",
+            "Office:": "Canal Building 5204",
+            "Website:": "http://www.sce.carleton.ca/faculty/franks/franks.html"
+        },
+        "research": {
+            "Research Interests:": [
+                "Performance modelling of distributed software, based on an extension of queueing models called \u201clayered queueing networks\u201d.",
+                "Performance modelling techniques and algorithms (simulation, queueing and Petri Nets), and applications to computer systems.",
+                "Reverse Engineering.",
+                "Operating System design and implementation.",
+                "",
+                "\nShare: Twitter, Facebook\n\nShort URL:\nhttps://carleton.ca/sce/?p=278"
+            ]
+        }
+    },
+    {
+        "name": "Ramy H. Gohary",
+        "title": "Associate Professor, Limited Engineering Licensee",
+        "picture": "https://carleton.ca/sce/wp-content/uploads/Ramy-H.-Gohary_300x300_acf_cropped.v1-200x200.jpg",
+        "contacts": {
+            "Degrees:": "Ph.D. (McMaster)",
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:gohary@sce.carleton.ca",
+            "Office:": "Mackenzie 4474",
+            "Website:": "http://www.sce.carleton.ca/~gohary/"
+        },
+        "research": {
+            "Research Interests:": [
+                "Machine-to-machine communications",
+                "Internet-of-Things",
+                "Analysis and design of MIMO wireless communication systems",
+                "Applications of convex optimization and differential geometry in signal processing and communications",
+                "Information-theoretic aspects of multiuser communication systems",
+                "Cooperative communications",
+                "Number-theoretic applications in communications",
+                "Fairness and cross-layered designs",
+                "Distributed antenna systems",
+                "Applications of iterative detection and decoding techniques in multiple antenna and multiuser systems",
+                "\nShare: Twitter, Facebook\n\nShort URL:\nhttps://carleton.ca/sce/?p=353"
+            ]
+        }
+    },
+    {
+        "name": "Shaghayegh (Rose)  Gomar",
+        "title": "Instructor II, Ph.D, EIT",
+        "picture": "https://carleton.ca/sce/wp-content/uploads/Rose-200x200.jpg",
+        "contacts": {
+            "Degrees:": "Ph.D. in Electrical and Computer Engineering (University of Windsor)",
+            "Email:": "mailto:RoseGomar@cunet.carleton.ca",
+            "Office:": "ME4521"
+        },
+        "research": {}
+    },
+    {
+        "name": "Rafik Goubran",
+        "title": "Professor, P.Eng.",
+        "picture": "https://carleton.ca/sce/wp-content/uploads/Rafik-200x200.jpg",
+        "contacts": {
+            "Degrees:": "Ph.D. (Carleton)",
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:goubran@sce.carleton.ca",
+            "Office:": "Tory 503H",
+            "Website:": "http://www.sce.carleton.ca/faculty/goubran.html"
+        },
+        "research": {
+            "Research Interests:": [
+                "Digital signal processing and its applications in biomedical engineering and audio processing.",
+                "\nShare: Twitter, Facebook\n\nShort URL:\nhttps://carleton.ca/sce/?p=279"
+            ]
+        }
+    },
+    {
+        "name": "James Green",
+        "title": "Professor, P.Eng.",
+        "picture": "https://carleton.ca/sce/wp-content/uploads/Green-1-200x200.jpg",
+        "contacts": {
+            "Degrees:": "Ph.D. (Queen's), P.Eng.",
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:jrgreen@sce.carleton.ca",
+            "Office:": "Canal Building 6203",
+            "Website:": "http://www.sce.carleton.ca/faculty/green/green.php"
+        },
+        "research": {
+            "Research Interests:": [
+                "My research focus has been in the following areas:",
+                "Bioinformatics, proteomics, and prediction of protein structure, function, interaction, and post-translational modification",
+                "Machine intelligence, pattern classification, data mining",
+                "Development of novel assistive technology and devices",
+                "I also have interest in: medical informatics, robotics, machine vision, and microprocessor applications",
+                "Current projects include:",
+                "Species-specific prediction of microRNA from genomic sequence or transcriptomics data",
+                "Prediction of protein-protein interactions from sequence",
+                "Development of various novel assistive devices for persons who are disabled and the elderly",
+                "Hardware acceleration of bioinformatics algorithms using GPGPU, including real-time mass spectrometry",
+                "Identification of post-translational modifications in proteins, including sumoylation, glycosylation, and hydroxylation.",
+                "\nShare: Twitter, Facebook\n\nShort URL:\nhttps://carleton.ca/sce/?p=281"
+            ]
+        }
+    },
+    {
+        "name": "Roshdy Hafez",
+        "title": "Professor, P.Eng.",
+        "picture": "https://carleton.ca/sce/wp-content/uploads/Hafez-200x200.jpg",
+        "contacts": {
+            "Degrees:": "Ph.D. (Carleton)",
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:Roshdy.Hafez@sce.carleton.ca",
+            "Office:": "Mackenzie 4440",
+            "Website:": "http://www.sce.carleton.ca/faculty/hafez.html"
+        },
+        "research": {
+            "Research Interests:": [
+                "Broadband Wireless Access",
+                "Wireless Applications in Transportation Management and Safety",
+                "Wireless LAN\u2019s and Ad-Hoc networking",
+                "Wireless Sensor Networks",
+                "Integrated Fiber/Wireless local loops",
+                "\nShare: Twitter, Facebook\n\nShort URL:\nhttps://carleton.ca/sce/?p=282"
+            ]
+        }
+    },
+    {
+        "name": "Changcheng Huang",
+        "title": "Professor, P.Eng.",
+        "picture": "https://carleton.ca/sce/wp-content/uploads/Huang-200x200.jpg",
+        "contacts": {
+            "Degrees:": "Ph.D. (Carleton)",
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:huang@sce.carleton.ca",
+            "Office:": "Mackenzie 4486",
+            "Website:": "https://www.sce.carleton.ca/faculty/huang/huang.html"
+        },
+        "research": {
+            "Research Interests:": [
+                "Stochastic Control in Computer Networks",
+                "Modelling and Simulation Techniques",
+                "Resource Optimization in Wireless Networks",
+                "Reliability Mechanisms for Optical Networks",
+                "Network Protocol Design and Implementation Issues",
+                "\nShare: Twitter, Facebook\n\nShort URL:\nhttps://carleton.ca/sce/?p=283"
+            ]
+        }
+    },
+    {
+        "name": "Mohamed Ibnkahla",
+        "title": "Professor, P.Eng.",
+        "picture": "https://carleton.ca/sce/wp-content/uploads/Ibnkahla-1-200x200.jpg",
+        "contacts": {
+            "Degrees:": "Ph.D. (Toulouse)",
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:ibnkahla@sce.carleton.ca",
+            "Office:": "Mackenzie 4484",
+            "Website:": "http://www.sce.carleton.ca/faculty/ibnkahla/"
+        },
+        "research": {
+            "Research Interests:": [
+                "Wireless sensor networks, Internet of Things (IoT), cognitive radio networks, adaptive signal processing, reconfigurable networks, sensor integration, radio frequency identification (RFID) systems.",
+                "Applications in \u00a0smart homes, security, safety, healthcare, smart grid, renewable energies and green society, smart cities, intelligent transportation systems, environment monitoring, retail and logistics.",
+                "",
+                "\nShare: Twitter, Facebook\n\nShort URL:\nhttps://carleton.ca/sce/?p=284"
+            ]
+        }
+    },
+    {
+        "name": "Jason Jaskolka",
+        "title": "Associate Professor, P.Eng.",
+        "picture": "https://carleton.ca/sce/wp-content/uploads/Jason_profile_pic-200x200.png",
+        "contacts": {
+            "Degrees:": "Ph.D. (McMaster)",
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:jason.jaskolka@carleton.ca",
+            "Office:": "Canal Building 6206",
+            "Website:": "https://carleton.ca/jaskolka/",
+            "LinkedIn:": "https://www.linkedin.com/in/jason-jaskolka-160ab434/",
+            "Twitter:": "https://twitter.com/JasonJaskolka"
+        },
+        "research": {}
+    },
+    {
+        "name": "Nafiseh Kahani",
+        "title": "Assistant Professor",
+        "picture": "https://carleton.ca/sce/wp-content/uploads/NafisehKahani-200x200.jpg",
+        "contacts": {
+            "Degrees:": "Ph.D. (Queen\u2019s University)",
+            "Email:": "mailto:kahani@sce.carleton.ca",
+            "Website:": "https://carleton.ca/kahani/"
+        },
+        "research": {}
+    },
+    {
+        "name": "Thomas Kunz",
+        "title": "Professor, Limited Engineering Licensee",
+        "picture": "https://carleton.ca/sce/wp-content/uploads/KunzSmall-200x200.jpg",
+        "contacts": {
+            "Degrees:": "Dr.Ing. (Technical University of Darmstadt, Germany)",
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:tkunz@sce.carleton.ca",
+            "Office:": "Canal Building 5202",
+            "Website:": "http://www.sce.carleton.ca/faculty/kunz.html"
+        },
+        "research": {
+            "Research Interests:": [
+                "Internet of Things (Smart Grid/Smart City).",
+                "Mobile computing systems and the mobile Internet.",
+                "Mobile ad-hoc networks.",
+                "Wireless sensor networks.",
+                "Tactical radio networks.",
+                "Adaptive mobile applications.",
+                "Software-defined networking.",
+                "Network function virtualization.",
+                "",
+                "\nShare: Twitter, Facebook\n\nShort URL:\nhttps://carleton.ca/sce/?p=285"
+            ]
+        }
+    },
+    {
+        "name": "Yvan Labiche",
+        "title": "Professor, P.Eng.",
+        "picture": "https://carleton.ca/sce/wp-content/uploads/Labiche-200x200.jpg",
+        "contacts": {
+            "Degrees:": "Ph.D., P.Eng., CTFL",
+            "Phone:": "tel:613-520-2600",
+            "Office:": "Department main office: Mackenzie 4456",
+            "Website:": "http://carleton.ca/squall/squall-principal-investigator/"
+        },
+        "research": {
+            "Research Interests:": [
+                "object-oriented systems",
+                "systems designed with the Unified Modeling Language (UML)",
+                "high-dependability systems",
+                "object-oriented systems",
+                "systems designed with the Unified Modeling Language (UML)",
+                "high-dependability systems",
+                "Model driven development and object-oriented analysis/design with the Unified Modeling Language (UML)",
+                "Software quality assurance and control based on quantitative methods and measurement, experimental software engineering",
+                "Applications of artificial intelligence and evolutionary computing to software engineering",
+                "object-oriented systems",
+                "systems designed with the Unified Modeling Language (UML)",
+                "high-dependability systems",
+                "\nShare: Twitter, Facebook\n\nShort URL:\nhttps://carleton.ca/sce/?p=79"
+            ]
+        }
+    },
+    {
+        "name": "Ioannis Lambadaris",
+        "title": "Chancellor\u2019s Professor, P.Eng.",
+        "picture": "https://carleton.ca/sce/wp-content/uploads/Ioannis-Lambadaris_300x300_acf_cropped.v1-1-200x200.jpg",
+        "contacts": {
+            "Degrees:": "Ph.D. (Maryland)",
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:ioannis@sce.carleton.ca",
+            "Office:": "Mackenzie 4448 (4448ME)",
+            "Website:": "http://www.sce.carleton.ca/faculty/lambadaris/lambadaris.html"
+        },
+        "research": {
+            "Research Interests:": [
+                "Applied Stochastic Processes and Control",
+                "Performance Analysis of IP Networks",
+                "Cross Layer design for Wireless Networks",
+                "Wireless Ad-hoc networks",
+                "Network Security",
+                "\nShare: Twitter, Facebook\n\nShort URL:\nhttps://carleton.ca/sce/?p=286"
+            ]
+        }
+    },
+    {
+        "name": "Peter X. Liu",
+        "title": "Professor, P.Eng.",
+        "picture": "https://carleton.ca/sce/wp-content/uploads/Liu-200x200.jpg",
+        "contacts": {
+            "Degrees:": "Ph.D. (Alberta)",
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:xpliu@sce.carleton.ca",
+            "Office:": "ME4488",
+            "Website:": "http://www.sce.carleton.ca/faculty/liu.html"
+        },
+        "research": {
+            "Awards and Distinctions:": [
+                "Carleton University Research Achievement Award 2016",
+                "Fellow of Engineering Institute of Canada (FEIC) 2015",
+                "Canada Research Chair in Interactive Network Computing and Teleoperation 2013",
+                "Carleton University Research Achievement Award 2007",
+                "Province of Ontario Early Researcher Award 2006",
+                "Carleton University Carty Research Fellowship 2006"
+            ],
+            "Research Interests:": [
+                "Interactive networked systems: teleoperation, telerobotics and telehaptics with applications to telemedicine",
+                "Haptics with applications to medical simulations",
+                "Robotics, control and intelligent Systems",
+                "Context-aware smart networks",
+                "Wireless sensor networks",
+                "\nShare: Twitter, Facebook\n\nShort URL:\nhttps://carleton.ca/sce/?p=287"
+            ]
+        }
+    },
+    {
+        "name": "Chung-Horng Lung",
+        "title": "Professor, P.Eng.",
+        "picture": "https://carleton.ca/sce/wp-content/uploads/Lung-1-200x200.jpg",
+        "contacts": {
+            "Degrees:": "Ph.D. (Arizona State)",
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:chlung@sce.carleton.ca",
+            "Office:": "Mackenzie 4434",
+            "Website:": "http://www.sce.carleton.ca/faculty/lung.html"
+        },
+        "research": {
+            "Research Interests:": [
+                "Software Engineering: Software Architecture, Service-Oriented Computing, Generative Programming, Self-Managing Systems, Software Reengineering.",
+                "Networks: Software Defined Networking (SDN), Traffic Engineering, Quality of Service, Content-Based Routing, Wireless Communications, Ad-Hoc Networks, Sensor Networks, and Network-Based Control Systems.",
+                "Cloud Computing and Distributed Computing: Internet of Things (IoT), Big Data Analytics, Resource Management, Web Services, Real-time Concurrent Software.",
+                "\nShare: Twitter, Facebook\n\nShort URL:\nhttps://carleton.ca/sce/?p=288"
+            ]
+        }
+    },
+    {
+        "name": "Shikharesh Majumdar",
+        "title": "Chancellor Professor, P.Eng.",
+        "picture": "https://carleton.ca/sce/wp-content/uploads/Majumdar-1-200x200.jpg",
+        "contacts": {
+            "Degrees:": "Ph.D. (Saskatchewan)",
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:majumdar@sce.carleton.ca",
+            "Office:": "Canal Building 5203",
+            "Website:": "http://www.sce.carleton.ca/faculty/majumdar.html"
+        },
+        "research": {
+            "Research Interests:": [
+                "Current",
+                "Parallel and Distributed Systems.",
+                "Performance Modelling and Performance Evaluation of Computer Systems.",
+                "Operating Systems.",
+                "Middleware",
+                "Resource Management on Clouds and Grids",
+                "Resource Management on Wireless Sensor Networks",
+                "Web Services and Service Oriented Architecture",
+                "Recent Past",
+                "High Performance CORBA-based Middleware Systems.",
+                "Management of multiple processes and parallel I/O.",
+                "Scalable Web Servers.",
+                "\nShare: Twitter, Facebook\n\nShort URL:\nhttps://carleton.ca/sce/?p=289"
+            ]
+        }
+    },
+    {
+        "name": "Lynn Marshall",
+        "title": "Instructor II, P.Eng.",
+        "picture": "https://carleton.ca/sce/wp-content/uploads/marshall-200x200.jpg",
+        "contacts": {
+            "Degrees:": "Ph.D. (University of Manchester)",
+            "Email:": "mailto:lynn.marshall@carleton.ca",
+            "Website:": "https://www.sce.carleton.ca/faculty/lynnmar/"
+        },
+        "research": {}
+    },
+    {
+        "name": "Ian Marsland",
+        "title": "Associate Professor, P.Eng.",
+        "picture": "https://carleton.ca/sce/wp-content/uploads/Marsland-200x200.jpeg",
+        "contacts": {
+            "Degrees:": "Ph.D. (British Columbia)",
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:ianm@sce.carleton.ca",
+            "Office:": "ME 4442",
+            "Website:": "http://www.sce.carleton.ca/faculty/marsland.html"
+        },
+        "research": {
+            "Research Interests:": [
+                "General area of interest: Wireless digital communications (stationary and mobile)",
+                "Noncoherent receiver design",
+                "Error control coding (convolutional and turbo codes)",
+                "Applications of iterative decoding",
+                "\nShare: Twitter, Facebook\n\nShort URL:\nhttps://carleton.ca/sce/?p=290"
+            ]
+        }
+    },
+    {
+        "name": "Leila Mosta\u00e7o-Guidolin",
+        "title": "Assistant Professor, P.Eng.",
+        "picture": "https://carleton.ca/sce/wp-content/uploads/Webp.net-resizeimage-200x200.jpg",
+        "contacts": {
+            "Degrees:": "Ph.D.",
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:leila@sce.carleton.ca",
+            "Office:": "Canal Building 6202",
+            "Website:": "https://carleton.ca/mostacoguidolin/%20%20%20"
+        },
+        "research": {}
+    },
+    {
+        "name": "Yuu Ono",
+        "title": "Associate Professor, P.Eng.",
+        "picture": "https://carleton.ca/sce/wp-content/uploads/ono-200x200.jpg",
+        "contacts": {
+            "Degrees:": "Ph.D. (Tohoku, Japan)",
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:yuuono@sce.carleton.ca",
+            "Office:": "Canal Building 6205",
+            "Website:": "http://www.sce.carleton.ca/faculty/ono/"
+        },
+        "research": {
+            "Research Interests:": [
+                "Sensors development and applications",
+                "Biomedical monitoring/diagnosis/characterization",
+                "Ultrasonic imaging and acoustic microscopy",
+                "\nShare: Twitter, Facebook\n\nShort URL:\nhttps://carleton.ca/sce/?p=291"
+            ]
+        }
+    },
+    {
+        "name": "Fateme  Rajabiyazdi",
+        "title": "Assistant Professor",
+        "picture": "https://carleton.ca/sce/wp-content/uploads/ProfilePicFateme-200x200.jpeg",
+        "contacts": {
+            "Degrees:": "Ph.D. (University of Calgary)",
+            "Email:": "mailto:rajabiyazdi@sce.carleton.ca",
+            "Website:": "https://carleton.ca/rajabiyazdi/"
+        },
+        "research": {
+            "Research Interests:": [
+                "Information visualization",
+                "Human-computer interaction",
+                "Health data visualization",
+                "Shared display interactions",
+                "\nShare: Twitter, Facebook\n\nShort URL:\nhttps://carleton.ca/sce/?p=2459"
+            ]
+        }
+    },
+    {
+        "name": "Sreeraman Rajan",
+        "title": "Professor",
+        "picture": "https://carleton.ca/sce/wp-content/uploads/rajan-200x200.jpg",
+        "contacts": {
+            "Degrees:": "Ph.D. (New Brunswick)",
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:sreeramanr@sce.carleton.ca",
+            "Office:": "Mackenzie 4480",
+            "Website:": "http://www.sce.carleton.ca/faculty/rajan/contact.html"
+        },
+        "research": {
+            "Research Interests:": [
+                "sensors and sensor systems (biomedical, defence and security applications), compressive sensing, signal processing (including biomedical signal processing, statistical signal processing, adaptive signal processing), machine learning, pattern classification.",
+                "\nShare: Twitter, Facebook\n\nShort URL:\nhttps://carleton.ca/sce/?p=294"
+            ]
+        }
+    },
+    {
+        "name": "Carlos Rossa",
+        "title": "Associate Professor, P.Eng.",
+        "picture": "https://carleton.ca/sce/wp-content/uploads/Carlos_profile-200x200.jpg",
+        "contacts": {
+            "Degrees:": "Ph.D. (Sorbonne Universit\u00e9 (UPMC))",
+            "Phone:": "tel:613-520-2600 ext. 4219",
+            "Email:": "mailto:rossa@sce.carleton.ca",
+            "Office:": "CB 5201",
+            "Website:": "https://biomechatronics.ca"
+        },
+        "research": {}
+    },
+    {
+        "name": "Cristina Ruiz Martin",
+        "title": "Instructor II, P.Eng.",
+        "picture": "https://carleton.ca/sce/wp-content/uploads/cristina1-200x200.jpg",
+        "contacts": {
+            "Degrees:": "Ph.D. (Cotutelle between Carleton University (Canada) and Universidad de Valladolid (Spain).",
+            "Email:": "mailto:cristinaruizmartin@sce.carleton.ca",
+            "Office:": "ME4523",
+            "Website:": "https://arslab.sce.carleton.ca/index.php/people/cristina-ruiz-martin/",
+            "LinkedIn:": "https://www.linkedin.com/in/cruizm/",
+            "Twitter:": "https://twitter.com/cruizm_89"
+        },
+        "research": {
+            "Biographical Notes:": [
+                "Cristina Ruiz Mart\u00edn is PhD from both Universidad de Valladolid (Spain) and Carleton University (Ottawa, Canada). She has done her PhD in cotutelle. She received her MSc in Industrial Engineering (2014) and Project Management (2013) from Universidad de Valladolid."
+            ],
+            "Research interests:": [
+                "Organizational Resilience",
+                "Discrete-Event Modeling and Simulation",
+                "Agent-Based Modeling",
+                "Network Theory",
+                "\nShare: Twitter, Facebook\n\nShort URL:\nhttps://carleton.ca/sce/?p=2298"
+            ]
+        }
+    },
+    {
+        "name": "Howard Schwartz",
+        "title": "Professor, P.Eng.",
+        "picture": "https://carleton.ca/sce/wp-content/uploads/Schwartz-200x200.png",
+        "contacts": {
+            "Degrees:": "Ph.D. (Massachusetts Institute of Technology)",
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:Howard.Schwartz@sce.carleton.ca",
+            "Office:": "VSIM 3215",
+            "Website:": "http://www.sce.carleton.ca/faculty/schwartz/index.html"
+        },
+        "research": {
+            "Research Interests:": [
+                "Adaptive and Learning Systems.",
+                "Multi Robot Learning and Adaptation.",
+                "Cooperative Control of Multiple Autonomous Robots.",
+                "Control of robot manipulators.",
+                "Adaptive Control.",
+                "System Identification.",
+                "\nShare: Twitter, Facebook\n\nShort URL:\nhttps://carleton.ca/sce/?p=296"
+            ]
+        }
+    },
+    {
+        "name": "Chao Shen",
+        "title": "Assistant Professor",
+        "picture": "https://carleton.ca/sce/wp-content/uploads/Shen-200x200.jpg",
+        "contacts": {
+            "Degrees:": "PhD (University of Victoria)",
+            "Email:": "mailto:shenchao@sce.carleton.ca",
+            "Office:": "4444 Mackenzie Building",
+            "Website:": "https://sites.google.com/view/chaoshen/home"
+        },
+        "research": {}
+    },
+    {
+        "name": "Mostafa  Taha",
+        "title": "Assistant Professor",
+        "picture": "https://carleton.ca/sce/wp-content/uploads/taha-200x200.jpg",
+        "contacts": {
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:mtaha@sce.carleton.ca",
+            "Office:": "Room ME4436",
+            "Website:": "https://carleton.ca/mtaha/"
+        },
+        "research": {}
+    },
+    {
+        "name": "Jerome Talim",
+        "title": "Assistant Professor, P.Eng.",
+        "picture": "https://carleton.ca/sce/wp-content/uploads/Talim-200x200.jpg",
+        "contacts": {
+            "Degrees:": "Ph.D. (Nice-Sophia Antipolis, France)",
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:jtalim@sce.carleton.ca",
+            "Office:": "Mackenzie 4446",
+            "Website:": "http://www.sce.carleton.ca/faculty/talim.html"
+        },
+        "research": {
+            "Research Interests:": [
+                "Web Development, Distributed Systems, Internet of things",
+                "Performance Evaluation, Resources Sharing, Routing optimization",
+                "\nShare: Twitter, Facebook\n\nShort URL:\nhttps://carleton.ca/sce/?p=297"
+            ]
+        }
+    },
+    {
+        "name": "Gabriel Wainer",
+        "title": "Professor, Limited Engineering Licensee",
+        "picture": "https://carleton.ca/sce/wp-content/uploads/wainer-200x200.jpg",
+        "contacts": {
+            "Degrees:": "Ph.D. (Buenos Aires)",
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:Gabriel.Wainer@sce.carleton.ca",
+            "Office:": "VSIM 3216",
+            "Website:": "http://www.sce.carleton.ca/faculty/wainer/"
+        },
+        "research": {
+            "Biographical Notes:": [
+                "2017\u00a0runner-up Best Paper Award in CNS\u201917 (SpringSim 2017) for \u201cFormal Modeling and Simulation To Analyze The Dynamics Of Malware Propagation In Networks Using Cell-DEVS\u201d (by B. Kazi, G. Wainer)",
+                "2017 Best Paper Award in SimAUD 2017 for \u201cContext-sensitive Personal Spaces for Dense Crowd Flow\u201d (by O. Hesham, G. Wainer) (130 submissions).",
+                "2016 Fellow, the Society for Modeling and Simulation International (SCS).",
+                "2016 Best Paper Award at the Summer Computer Simulation Conference for \u201cCentroidal Particles for Interactive Crowd Simulation\u201d (by O. Hesham and G. Wainer) obtained the Best Paper Award . Montr\u00e9al, QC (of 99 submissions).",
+                "2016 Overall Multiconference Best Paper Award at the SummerSim Multiconference for \u201cCentroidal Particles for Interactive Crowd Simulation\u201d (by O. Hesham and G. Wainer) (of 175 submissions).",
+                "2015 Distinguished Service Award by the Society for Modeling and Simulation\nInternational (SCS).",
+                "2015 Best Doctoral Consortium Paper Award at the IFAC/IFIP/IFORS Symposium on Information Control in Manufacturing (INCOM) for C. Ruiz-Martin, A. L\u00f3pez, G. Wainer \u201cApplying Complex Network Theory in the Assessment of Organizational Resilience\u201d.",
+                "2015 Honorable Mention, Mobile App competition paper at the Spring Simulation Conference for \u201cMobile Simulation: Bringing Simulations to Smartphones\u201d. M. Etemad, S. Wang, G. Wainer.",
+                "2014 Carleton University Research Achievement Award.",
+                "2013 Carleton University 2012-3 Faculty Graduate Mentoring Award.",
+                "2013 Distinguished Professional Achievement Award by the Society for Modeling and Simulation International (SCS) \u201cfor his numerous citations in the field of discrete-event simulation\u201d.",
+                "2012 Best Symposium Award. Symposium of Theory of Modeling and Simulation. Spring Simulation Conference.",
+                "2011 Outstanding Professional Contribution Award by the Society for Modeling and Simulation International (SCS) \u201cfor his contributions to advancing the\nstate-of-the-art of discrete-event simulation and real-time simulation\u201d.",
+                "2011 runner-up Best Paper Award at Summersim for \u201cVCELL: A 3D Real-time Visual Simulation in Support of Combat\u201d (by A. Ahmed, M. Moallemi, G. Wainer, S. Mahmoud) (of 120 submissions).",
+                "2011 Best Paper Award at the Symposium of Theory of Modeling and Simulation/DEVS 11 for \u201cI-DEVS: a framework for imprecise computing in DEVS\u201d (by O. Moallemi and G. Wainer) (of 91 submissions).",
+                "2011 Cited as Top-3 ranked Author in the field of Simulation (Last 10 years) by the Microsoft Academic Research site (February 1, 2011).",
+                "2010 The First Bernard P. Zeigler DEVS Modeling and Simulation Award.",
+                "2010 runner-up Best Paper Award at Springsim for \u201cAdvanced IDE for Modeling and Simulation of Discrete Event Systems\u201d (by M. Bonaventura, G. Wainer, R. Castro)\u00a0(of 350 submissions).",
+                "2010 runner-up Best Paper Award at the 2010 Symposium of Theory of Modeling and Simulation/DEVS for \u201cRational Time-Advance DEVS (RTA-DEVS)\u201d (by H. Saadawi, G. Wainer) (of 94 submissions).",
+                "2010 runner-up Best Paper Award at the 2010 ACM/SCS Summer Computer Simulation Conference for \u201cApplying the TPS Method To Modeling And Simulation Of Biological Systems\u201d (by R. Goldstein, N. Farran, H. Yigang, S. Lissari, G. Wainer) (of 152 submissions).",
+                "2008 Senior Member of IEEE.",
+                "2007 SCS Leadership Award.",
+                "2005 Carleton University Research Achievement Award."
+            ],
+            "Research Interests:": [
+                "\u2013 DEVS formalism\n\u2013 Real-Time modelling\n\u2013 Cellular models\n\u2013 Modelling and simulation methodologies and tools\n\u2013 Parallel/distributed/Web-based simulation\n\u2013 Real-Time operating systems",
+                "A funded PhD position is available in the area of Wireless Communication and 5G Networks. The successful candidate should have a solid background in the area of Wireless Communications. A background in Mathematical Optimization and Machine Learning is an asset.",
+                "================",
+                "Check our collaboration projects with Ericsson Canada",
+                "Channel Reconstruction for LTE/NR Performance Verification for Research and Leadership in Wireless Networks\nSpectrum Sharing with Machine Learning\nM-MIMO Channel Estimation using Distributed Machine Learning and Edge Computing Technologies\nEricsson-Carleton Partnership",
+                "================",
+                "\nShare: Twitter, Facebook\n\nShort URL:\nhttps://carleton.ca/sce/?p=299"
+            ]
+        }
+    },
+    {
+        "name": "Michael Weiss",
+        "title": "Associate Professor",
+        "picture": "https://carleton.ca/sce/wp-content/uploads/Weiss-200x200.jpg",
+        "contacts": {
+            "Degrees:": "Dr.rer.nat. (Mannheim), Dipl.-Ing. (Munich)",
+            "Phone:": "tel:1642",
+            "Email:": "mailto:Michael.Weiss@carleton.ca",
+            "Office:": "St. Patrick's 308",
+            "Website:": "http://www.sce.carleton.ca/faculty/weiss/"
+        },
+        "research": {}
+    },
+    {
+        "name": "Halim Yanikomeroglu",
+        "title": "Professor, P.Eng.",
+        "picture": "https://carleton.ca/sce/wp-content/uploads/Yanikojmeroglu-200x200.jpg",
+        "contacts": {
+            "Degrees:": "Ph.D. (Toronto)",
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:Halim.Yanikomeroglu@sce.carleton.ca",
+            "Office:": "Minto 7032",
+            "Website:": "http://www.sce.carleton.ca/faculty/yanikomeroglu.html"
+        },
+        "research": {
+            "Biographical Notes:": [
+                "IEEE Fellow (2017)",
+                "IEEE Communications Society Distinguished Lecturer (2015-2018)",
+                "IEEE Vehicular Technology Society Distinguished Speaker (2014-)"
+            ],
+            "Research Interests:": [
+                "My interests span the physical, medium access, and networking layers, and the cross-layer aspects of Wireless Communications, including:",
+                "Cellular networks (5G, 4G, LTE/LTE-A)",
+                "Radio access networks",
+                "Relay/multihop/mesh networks",
+                "Cooperative communications",
+                "Radio resource management",
+                "Distributed antenna systems, radio-over-fibre, micro/pico/femto-cells",
+                "Antenna architectures, macro/microdiversity, MIMO",
+                "Multiple access, OFDMA, MAC",
+                "Routing, scheduling",
+                "Sensor networks",
+                "Cognitive radio, spectrum, opportunistic spectrum access",
+                "Interference modeling",
+                "User-in-the-loop in wireless networks",
+                "Intelligent transportation systems",
+                "\nShare: Twitter, Facebook\n\nShort URL:\nhttps://carleton.ca/sce/?p=300"
+            ]
+        }
+    }
+]

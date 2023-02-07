@@ -1,0 +1,594 @@
+[
+    {
+        "name": "Saban Alaca",
+        "title": "Professor ",
+        "picture": "https://carleton.ca/math/wp-content/uploads/Saban-Alaca1.jpg",
+        "contacts": {
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:salaca@math.carleton.ca",
+            "Office:": "4364 HP",
+            "Website:": "http://people.math.carleton.ca/~salaca"
+        },
+        "research": {
+            "Research Interests:": "Number Theory."
+        }
+    },
+    {
+        "name": "Ayse Alaca",
+        "title": "Associate Professor ",
+        "picture": "https://carleton.ca/math/wp-content/uploads/Ayse-Alaca.jpg",
+        "contacts": {
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:aalaca@math.carleton.ca",
+            "Office:": "4376 HP",
+            "Website:": "http://people.math.carleton.ca/~aalaca/"
+        },
+        "research": {
+            "Research Interests:": "Number Theory and Analysis."
+        }
+    },
+    {
+        "name": "Ahmed  Almaskut ",
+        "title": "Instructor",
+        "picture": "",
+        "contacts": {
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:aalmasku@math.carleton.ca",
+            "Office:": "4348 Herzberg Laboratories"
+        },
+        "research": {}
+    },
+    {
+        "name": "Dave Amundsen",
+        "title": "Associate Professor",
+        "picture": "https://carleton.ca/math/wp-content/uploads/Dave-Amundsen.jpg",
+        "contacts": {
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:dave@math.carleton.ca",
+            "Office:": "4259 HP ",
+            "Website:": "http://people.math.carleton.ca/~dave"
+        },
+        "research": {
+            "Research Interests:": "Nonlinear Partial Differential Equations, Wave Phenomena, Pattern Formation, Fluid Mechanics, Nonlinear Optics, Mathematical Biology, Mathematical Modelling, Numerical Analysis."
+        }
+    },
+    {
+        "name": "Yuly Billig",
+        "title": "Professor ",
+        "picture": "https://carleton.ca/math/wp-content/uploads/Yuly-Billig.jpg",
+        "contacts": {
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:billig@math.carleton.ca",
+            "Office:": "4221 HP",
+            "Website:": "http://people.math.carleton.ca/~billig"
+        },
+        "research": {
+            "Research Interests": "Representation theory of infinite-dimensional Lie algebras, Vertex algebras, Applications to soliton\nnon-linear PDEs."
+        }
+    },
+    {
+        "name": "Inna Bumagin",
+        "title": "Associate Professor",
+        "picture": "https://carleton.ca/math/wp-content/uploads/Inna-Bumagin.jpg",
+        "contacts": {
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:bumagin@math.carleton.ca",
+            "Office:": "4370 HP",
+            "Website:": "http://people.math.carleton.ca/~bumagin"
+        },
+        "research": {
+            "Research Interests:": "Geometric Group Theory."
+        }
+    },
+    {
+        "name": "Song Cai",
+        "title": "Associate Professor",
+        "picture": "https://carleton.ca/math/wp-content/uploads/P1000878-200x200.jpg",
+        "contacts": {
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:scai@math.carleton.ca",
+            "Office:": "5215 HP",
+            "Website:": "http://people.math.carleton.ca/~scai"
+        },
+        "research": {
+            "Research Interests:": "Empirical Likelihood, Asymptotic Theory, Density Ratio Model, Spatio-temporal Modeling, Non- and Semi-parametric Inference, Statistical Computing",
+            "": "Research Interests: Empirical Likelihood, Asymptotic Theory, Density Ratio Model, Spatio-temporal Modeling, Non- and Semi-parametric Inference, Statistical Computing"
+        }
+    },
+    {
+        "name": "Lucy Campbell",
+        "title": "Associate Professor",
+        "picture": "https://carleton.ca/math/wp-content/uploads/Lucy-Campbell.jpg",
+        "contacts": {
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:campbell@math.carleton.ca",
+            "Office:": "4269 HP ",
+            "Website:": "http://people.math.carleton.ca/~campbell"
+        },
+        "research": {
+            "Research Interests:": "Fluid Dynamics, Applied Partial Differential Equations, Numerical Analysis."
+        }
+    },
+    {
+        "name": "Dave Campbell",
+        "title": "Professor",
+        "picture": "",
+        "contacts": {
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:davecampbell@math.carleton.ca"
+        },
+        "research": {}
+    },
+    {
+        "name": "Kevin Cheung",
+        "title": "Associate Professor ",
+        "picture": "https://carleton.ca/math/wp-content/uploads/Kevin-Cheung.jpg",
+        "contacts": {
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:kcheung@math.carleton.ca",
+            "Office:": "4360 HP",
+            "Website:": "http://people.math.carleton.ca/~kcheung"
+        },
+        "research": {
+            "Research Interests:": "Combinatorial Optimization, Integer and Logic Programming, Mathematical Programming Computation."
+        }
+    },
+    {
+        "name": "Jason Crann",
+        "title": "Associate Professor",
+        "picture": "https://carleton.ca/math/wp-content/uploads/default_blank_person.png",
+        "contacts": {
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:jcrann@math.carleton.ca",
+            "Office:": "4201 HP",
+            "Website:": "https://sites.google.com/site/jaycrannmath"
+        },
+        "research": {
+            "Research Interests": "Harmonic analysis on locally compact quantum groups\nOperator modules and homology\nQuantum information theory"
+        }
+    },
+    {
+        "name": "Sanjeena Dang",
+        "title": "Associate Professor & CRC in Data Science & Analytics",
+        "picture": "https://carleton.ca/math/wp-content/uploads/Sanjeena-Dang-e1625861642864-200x200.jpg",
+        "contacts": {
+            "Degrees:": "Ph.D. in Statistics at the University of Guelph in 2012. ",
+            "Phone:": "tel:(613) 520-2600 x 1014",
+            "Email:": "mailto:Sanjeena.Dang@carleton.ca",
+            "Office:": "Health Sciences Building - room 4202",
+            "Website:": "http://www.sanjeena.com"
+        },
+        "research": {
+            "Research Interests:": "Sanjeena\u2019s current research focuses on clustering and classification of high dimensional data with applications in bioinformatics. Her key areas of research are: Computational Statistics, Biostatistics, Bioinformatics, Machine Learning, High dimensional data, Mixture Models, and Variational Approximations."
+        }
+    },
+    {
+        "name": "Utkarsh Dang",
+        "title": "Assistant Professor (Cross Appointment - Health Sciences)",
+        "picture": "https://carleton.ca/math/wp-content/uploads/Utkarsh-Dang-200x200.jpg",
+        "contacts": {
+            "Degrees:": "PhD (Guelph)",
+            "Email:": "mailto:Utkarsh.Dang@carleton.ca",
+            "Office:": "3312 Health Sciences Building",
+            "Website:": "https://sites.google.com/view/utkarshdang"
+        },
+        "research": {
+            "Primary field of Specialization:": "Biostatistics and bioinformatics",
+            "Research Interests:": "Utkarsh is a statistician and data scientist who works in health outcomes and precision medicine, clinical trials, biomarkers, and statistical learning. Utkarsh\u2019s work in health outcomes is on biomarkers and understanding phenotypic and treatment response variability. His work in clustering involves developing novel mixture models with applications in model-based clustering and classification while his work in phylogenetics involves developing novel algorithms with applications in bioinformatics."
+        }
+    },
+    {
+        "name": "Elena Devdariani",
+        "title": "Instructor",
+        "picture": "",
+        "contacts": {
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:elenad@math.carleton.ca",
+            "Office:": "4350HP",
+            "Website:": "http://people.math.carleton.ca/~elenad/"
+        },
+        "research": {
+            "Research Interests:": "Optimization and Optimal Control, Nonlinear Systems with State-Control Constraints, Feedback Control for Nonlinear Systems.\n\n\nShare: Twitter, Facebook\n\nShort URL:\nhttps://carleton.ca/math/?p=1273"
+        }
+    },
+    {
+        "name": "Patrick Farrell",
+        "title": "Professor",
+        "picture": "https://carleton.ca/math/wp-content/uploads/Pat-Farrell.jpg",
+        "contacts": {
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:pfarrell@math.carleton.ca",
+            "Office:": "5412 HP"
+        },
+        "research": {
+            "Research Interests:": "Categorical Data Analysis, Biostatistics, Sampling, Applied Statistics."
+        }
+    },
+    {
+        "name": "Brandon Fodden",
+        "title": "Instructor",
+        "picture": "https://carleton.ca/math/wp-content/uploads/default_blank_person.png",
+        "contacts": {
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:bfodden@math.carleton.ca",
+            "Office:": "4356HP",
+            "Website:": "http://people.math.carleton.ca/~bfodden"
+        },
+        "research": {}
+    },
+    {
+        "name": "Jason (Zhicheng) Gao",
+        "title": "Professor",
+        "picture": "https://carleton.ca/math/wp-content/uploads/Jason-Gao-200x200.jpg",
+        "contacts": {
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:zgao@math.carleton.ca",
+            "Office:": "4366 HP",
+            "Website:": "http://people.math.carleton.ca/~zgao"
+        },
+        "research": {
+            "Research Interests:": "Combinatorial Enumerations, Graph Theory, and Mathematics of Gambling and Gaming."
+        }
+    },
+    {
+        "name": "Root Gorelick",
+        "title": "Professor (Cross Appointment - Biology)",
+        "picture": "https://carleton.ca/math/wp-content/uploads/default_blank_person.png",
+        "contacts": {
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:Root_Gorelick@carleton.ca",
+            "Office:": "4625 CTTC",
+            "Website:": "http://rootgorelick.com/"
+        },
+        "research": {}
+    },
+    {
+        "name": "Wayne Horn",
+        "title": "Instructor",
+        "picture": "https://carleton.ca/math/wp-content/uploads/Wayne-Horn.jpg",
+        "contacts": {
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:whorn@math.carleton.ca",
+            "Office:": "4352HP",
+            "Website:": "http://people.math.carleton.ca/~whorn/"
+        },
+        "research": {
+            "Research Interests:": "Queueing Theory, Stochastic Processes, Games of Chance."
+        }
+    },
+    {
+        "name": "Minyi Huang",
+        "title": "Professor",
+        "picture": "https://carleton.ca/math/wp-content/uploads/Minyi-Huang-1-200x200.jpg",
+        "contacts": {
+            "Phone:": "tel:(613) 520-2600",
+            "Email:": "mailto:mhuang@math.carleton.ca",
+            "Office:": "5269 Herzberg",
+            "Website:": "http://people.math.carleton.ca/~mhuang/"
+        },
+        "research": {
+            "Research Interests:": "Mean Field Stochastic Control, Stochastic Algorithms in Multi-Agent Systems,\u00a0Wireless Networks"
+        }
+    },
+    {
+        "name": "Colin Ingalls",
+        "title": "Full Professor",
+        "picture": "https://carleton.ca/math/wp-content/uploads/Coliningalls2.jpg",
+        "contacts": {
+            "Phone:": "tel:(613) 520-2600",
+            "Email:": "mailto:cingalls@math.carleton.ca",
+            "Office:": "4229 HP ",
+            "Website:": "http://people.math.carleton.ca/~cingalls/"
+        },
+        "research": {
+            "Research Interests:": "Noncommutative Algebra, Algebraic Geometry"
+        }
+    },
+    {
+        "name": "Wojciech Jaworski",
+        "title": "Associate Professor",
+        "picture": "https://carleton.ca/math/wp-content/uploads/Wojciech-Jaworski.jpg",
+        "contacts": {
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:wjaworsk@math.carleton.ca",
+            "Office:": "4205 HP",
+            "Website:": "http://carleton.ca/math/wp-content/uploads/Jaworski_may_19_2009.pdf"
+        },
+        "research": {
+            "Research Interests:": "Probability Measures on Topological Groups, and Related Problems in Functional and Harmonic Analysis, Ergodic Theory, and the Theory of Topological Groups."
+        }
+    },
+    {
+        "name": "Emmanuel Lorin",
+        "title": "Professor",
+        "picture": "https://carleton.ca/math/wp-content/uploads/Emmanuel-Lorin.jpg",
+        "contacts": {
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:elorin@math.carleton.ca",
+            "Office:": "4239 HP",
+            "Website:": "http://people.math.carleton.ca/~elorin"
+        },
+        "research": {
+            "Research Interests:": "Partial Differential Equations, Numerical Analysis, Mathematical Modeling."
+        }
+    },
+    {
+        "name": "Sam Melkonian",
+        "title": "Associate Professor",
+        "picture": "https://carleton.ca/math/wp-content/uploads/default_blank_person.png",
+        "contacts": {
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:melkonia@math.carleton.ca",
+            "Office:": "4279 HP",
+            "Website:": "http://people.math.carleton.ca/~melkonia/melkonian.html"
+        },
+        "research": {
+            "Research Interests:": "Nonlinear Differential Equations."
+        }
+    },
+    {
+        "name": "Paul Mezo",
+        "title": "Professor",
+        "picture": "https://carleton.ca/math/wp-content/uploads/Paul-Mezo.jpg",
+        "contacts": {
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:mezo@math.carleton.ca",
+            "Office:": "4217 HP",
+            "Website:": "http://people.math.carleton.ca/~mezo"
+        },
+        "research": {
+            "Research Interests:": "Representations of Algebraic and Metaplectic Groups, Langlands Program, Trace Formula Comparisons, Endoscopy."
+        }
+    },
+    {
+        "name": "Shirley E. Mills",
+        "title": "Associate Professor",
+        "picture": "https://carleton.ca/math/wp-content/uploads/Shirley-Mills.jpg",
+        "contacts": {
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:smills@math.carleton.ca",
+            "Office:": "5203 HP",
+            "Website:": "http://people.math.carleton.ca/~smills"
+        },
+        "research": {
+            "Research Interests": "Data Mining, Applied Statistics."
+        }
+    },
+    {
+        "name": "Angelo Mingarelli",
+        "title": "Professor",
+        "picture": "https://carleton.ca/math/wp-content/uploads/Angelo-Mingarelli.jpg",
+        "contacts": {
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:angelo@math.carleton.ca",
+            "Office:": "4380HP",
+            "Website:": "http://people.math.carleton.ca/~angelo"
+        },
+        "research": {
+            "Research Interests:": "Celestial Mechanics, Spectral Theory of Differential Operators, Fuzzy Cellular Automata, Irrationality Questions in Number Theory."
+        }
+    },
+    {
+        "name": "Abbas Momeni",
+        "title": "Associate Professor",
+        "picture": "https://carleton.ca/math/wp-content/uploads/Abbas-Momeni-200x200.jpg",
+        "contacts": {
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:momeni@math.carleton.ca",
+            "Office:": "4249 HP ",
+            "Website:": "http://people.math.carleton.ca/~momeni/"
+        },
+        "research": {
+            "Research Interests:": "Partial Differential Equations, Nonlinear Analysis and Optimal Mass Transportation."
+        }
+    },
+    {
+        "name": "Matthias Neufang",
+        "title": "Professor",
+        "picture": "https://carleton.ca/math/wp-content/uploads/mattias_neufang_cropped-200x200.jpg",
+        "contacts": {
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:mneufang@math.carleton.ca",
+            "Office:": "4332 HP",
+            "Website:": "http://people.math.carleton.ca/~mneufang/"
+        },
+        "research": {}
+    },
+    {
+        "name": "Jason Nielsen",
+        "title": "Associate Professor",
+        "picture": "https://carleton.ca/math/wp-content/uploads/Jason-Neilson.jpg",
+        "contacts": {
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:jdn@math.carleton.ca",
+            "Office:": "5217 HP",
+            "Website:": "http://people.math.carleton.ca/~jdn"
+        },
+        "research": {
+            "Research Interests:": "Functional Data Analysis, Longitudinal Data Analysis, Mixture Models, Computational Statistics/Numerical Analysis."
+        }
+    },
+    {
+        "name": "Mohamedou Ould Haye",
+        "title": "Associate Professor ",
+        "picture": "https://carleton.ca/math/wp-content/uploads/Mohamedou-Ould-Haye.jpg",
+        "contacts": {
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:mohamedouhaye@cunet.carleton.ca ",
+            "Office:": "5239 HP ",
+            "Website:": "https://mypage.science.carleton.ca/~ouldhaye/"
+        },
+        "research": {
+            "Research Interests:": "Stochastic Processes, Time Series Analysis, Limit Theorems, Estimation, Long memory, Forecasting, Dependence."
+        }
+    },
+    {
+        "name": "Daniel Panario",
+        "title": "Professor",
+        "picture": "https://carleton.ca/math/wp-content/uploads/Daniel-Panario.jpg",
+        "contacts": {
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:daniel@math.carleton.ca",
+            "Office:": "4372 HP",
+            "Website:": "http://people.math.carleton.ca/~daniel"
+        },
+        "research": {
+            "Research Interests:": "Finite Fields and Their Applications; Combinatorics; Analysis of\u00a0Algorithms."
+        }
+    },
+    {
+        "name": "Nicolas Rodrigue",
+        "title": "Associate Professor, Department of Biology (Cross appointment \u2013 Biology)",
+        "picture": "https://carleton.ca/math/wp-content/uploads/Rodrigue-143x143.jpg",
+        "contacts": {
+            "Degrees:": "BA (Bishop's), BSc (McGill), MSc (\u00c9cole de technologie sup\u00e9rieure), PhD (Montreal)",
+            "Phone:": "tel:613-520-2600 x 4194",
+            "Email:": "mailto:nicolas.rodrigue@carleton.ca",
+            "Office:": "4610 CTTC",
+            "Website:": "http://mypage.science.carleton.ca/~nr/"
+        },
+        "research": {}
+    },
+    {
+        "name": "Gennady Shaikhet",
+        "title": "Associate Professor",
+        "picture": "https://carleton.ca/math/wp-content/uploads/Gennady-Shaikhet.jpg",
+        "contacts": {
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:GennadyShaikhet@cunet.carleton.ca",
+            "Office:": "5259 HP",
+            "Website:": "http://people.math.carleton.ca/~gennady"
+        },
+        "research": {
+            "Research Interests:": "Stochastic Processes and Applications, Approximations and Control of Large Scale Service Systems, Queueing Networks, Financial Engineering."
+        }
+    },
+    {
+        "name": "Sanjoy Sinha",
+        "title": "Professor",
+        "picture": "https://carleton.ca/math/wp-content/uploads/Sanjoy-Sinha.jpg",
+        "contacts": {
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:sinha@math.carleton.ca",
+            "Office:": "5221 HP",
+            "Website:": "http://people.math.carleton.ca/~sinha/"
+        },
+        "research": {
+            "Research Interests:": "Biostatistics, Longitudinal Data Analysis, Missing Data Analysis, Mixed Models and Robust Inference.\n\nShare: Twitter, Facebook\n\nShort URL:\nhttps://carleton.ca/math/?p=1292"
+        }
+    },
+    {
+        "name": "Charles Starling",
+        "title": "Assistant Professor",
+        "picture": "",
+        "contacts": {
+            "Degrees:": "Ph.D. University of Ottawa",
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:cstar@math.carleton.ca",
+            "Office:": "4215 Herzberg Laboratories",
+            "Website:": "http://people.math.carleton.ca/~cstar/"
+        },
+        "research": {
+            "Research Interests": ":"
+        }
+    },
+    {
+        "name": "Natalia Stepanova",
+        "title": "Professor",
+        "picture": "https://carleton.ca/math/wp-content/uploads/Natalia-Stepanova.jpg",
+        "contacts": {
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:nstep@math.carleton.ca",
+            "Office:": "5229HP",
+            "Website:": "http://people.math.carleton.ca/~nstep/"
+        },
+        "research": {
+            "Research Interests:": "High-Dimensional Statistical Inference, Nonparametric Estimation, Nonparametric Hypothesis Testing.",
+            ",": "Research Interests:\nHigh-Dimensional Statistical Inference Nonparametric Estimation Nonparametric Hypothesis Testing."
+        }
+    },
+    {
+        "name": "Brett Stevens",
+        "title": "Professor",
+        "picture": "https://carleton.ca/math/wp-content/uploads/Brett-Stevens1.jpg",
+        "contacts": {
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:brett@math.carleton.ca",
+            "Office:": "4374 HP",
+            "Website:": "http://people.math.carleton.ca/~brett"
+        },
+        "research": {
+            "Research Interests:": "Design Theory, Gray Codes, De Bruijn Sequences and Universal Cycles, Combinatorial Game Theory, Graph Theory, Mathematical Biology, Philosophy of Mathematics."
+        }
+    },
+    {
+        "name": "Barbara Szyskowicz",
+        "title": "Professor",
+        "picture": "https://carleton.ca/math/wp-content/uploads/Barbara-Szyszkowicz-200x200.jpg",
+        "contacts": {
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:bszyszko@math.carleton.ca",
+            "Office:": "5249 HP"
+        },
+        "research": {
+            "Research Interests:": "Probability Theory and Mathematical Statistics,\u00a0 Strong and Weak Approximations of Stochastic Processes,\u00a0 Weighted Metrics,\u00a0 LimitTheorems,\u00a0 Change-point Analysis,\u00a0 Nonparametric Methods."
+        }
+    },
+    {
+        "name": "Paul Villeneuve",
+        "title": "Professor (Cross appointment - Health Sciences)",
+        "picture": "https://carleton.ca/math/wp-content/uploads/paulv-200x200.jpg",
+        "contacts": {
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:paul.villeneuve@carleton.ca",
+            "Office:": "6307 HSB",
+            "Website:": "http://carleton.ca/eoel"
+        },
+        "research": {
+            "Research Interests:": "Epidemiology, Environmental and Occupational Health, Longitudinal Studies,\nCase-control studies and record linkage."
+        }
+    },
+    {
+        "name": "Steven (Qiang) Wang",
+        "title": "Professor",
+        "picture": "https://carleton.ca/math/wp-content/uploads/Steven-Wang.jpg",
+        "contacts": {
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:wang@math.carleton.ca",
+            "Office:": "4368 HP",
+            "Website:": "http://people.math.carleton.ca/~wang"
+        },
+        "research": {
+            "Research Interests:": "Finite Fields and Applications in Cryptography and Coding Theory, Combinatorics, Algebra and Number Theory."
+        }
+    },
+    {
+        "name": "Yunran Wei",
+        "title": "Assistant Professor",
+        "picture": "https://carleton.ca/math/wp-content/uploads/Yunran-Wei-1-200x200.jpg",
+        "contacts": {
+            "Degrees:": "Ph.D. in Actuarial Science, Master of Mathematics in Statistics, Bachelor of Mathematics in pure mathematics from the University of Waterloo. ",
+            "Phone:": "tel:(613) 520-2600",
+            "Email:": "mailto:Yunran.Wei@carleton.ca",
+            "Office:": "4354 HP",
+            "Website:": "https://sites.google.com/site/yunranwei/"
+        },
+        "research": {
+            "Research Interests:": "Include but are not limited to: Quantitative Risk Management, Actuarial science, Decision Theory, Mathematical Finance, Operations Research\u00a0and FinTech/InsurTech."
+        }
+    },
+    {
+        "name": "Yiqiang Zhao",
+        "title": "Professor",
+        "picture": "https://carleton.ca/math/wp-content/uploads/Yiqiang-Zhao.jpg",
+        "contacts": {
+            "Phone:": "tel:613-520-2600",
+            "Email:": "mailto:zhao@math.carleton.ca",
+            "Office:": "4328 HP",
+            "Website:": "http://people.math.carleton.ca/~zhao"
+        },
+        "research": {
+            "Research Interests": ":\nApplied Probability, Queueing Theory and Queueing Networks, Stochastic Modelling and Performance Analysis for Wireless and Computer Networks, Credit Risk Modelling, Derivative Markets and Pricing."
+        }
+    }
+]
