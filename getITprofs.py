@@ -97,11 +97,11 @@ def main():
 
     faculties_with_links = get_faculties_list_with_links(soup)
 
-    with open('ITfaculty.json', 'w') as f:
+    with open('ITfaculty.json', 'w', encoding="utf-8") as f:
         faculty_data = []
         for link in faculties_with_links:
             faculty_data.append(get_person_info(link))
-        json.dump(faculty_data, f, indent=4)
+        json.dump(faculty_data, f, indent=4 ,ensure_ascii=False)
 
 
 

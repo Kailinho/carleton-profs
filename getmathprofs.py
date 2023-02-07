@@ -91,11 +91,11 @@ def main():
     #     print(json.dumps(get_person_info(link), indent=4))
 
 
-    with open('mathfaculty.json', 'w') as f:
+    with open('mathfaculty.json', 'w', encoding="utf-8" ) as f:
         faculty_data = []
         for link in faculties_with_links:
             faculty_data.append(get_person_info(link))
-        json.dump(faculty_data, f, indent=4)
+        json.dump(faculty_data, f, indent=4, ensure_ascii=False)
 
 
 

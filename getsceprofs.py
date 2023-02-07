@@ -49,7 +49,7 @@ def get_person_blob_info(person_article: Tag) -> dict:
                                     big_data.append(sub_li.text)
                             else:
                                 big_data.append(li.text)
-                    elif next_el.name == 'p' :
+                    elif next_el.name == 'p' and ('content__meta' not in next_el.get('class', []) and 'content__metadata' not in next_el.get('class', [])):
                         big_data.append(next_el.text)
                 if next_el.name == 'h4':
                     break
@@ -58,6 +58,7 @@ def get_person_blob_info(person_article: Tag) -> dict:
     except AttributeError:
         return None
     return result
+
 
 
 
@@ -105,11 +106,11 @@ def main():
 
     faculties_with_links = get_faculties_list_with_links(soup)
 
-    with open('scefaculty.json', 'w') as f:
+    with open('scefaculty.json', 'w', encoding="utf-8") as f:
         faculty_data = []
         for link in faculties_with_links:
             faculty_data.append(get_person_info(link))
-        json.dump(faculty_data, f, indent=4)
+        json.dump(faculty_data, f, indent=4, ensure_ascii=False)
     # for link in faculties_with_links:
     #     print(json.dumps(get_person_info(link), indent=4))
 
