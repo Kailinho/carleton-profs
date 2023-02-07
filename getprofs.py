@@ -54,10 +54,12 @@ def get_person_info(url: str) -> {}:
     person_article = BeautifulSoup(resp.content, 'html.parser', parse_only=SoupStrainer('article'))
 
     person_detail = person_article.find("div", {"class": "people__details"})
+    person_picture = person_article.find("div",{"class": "people__photo"} )
+
 
     result.update({"name": person_detail.select_one('h2').text})
     result.update({"title": person_detail.select_one('p').text})
-
+    result.update({"picture": person_picture.select_one('img')['src']})
     result.update({"contacts": get_person_table_info(person_detail)})
     result.update({"research": get_person_blob_info(person_article)})
     return result
