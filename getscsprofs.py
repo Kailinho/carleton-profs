@@ -38,7 +38,7 @@ def get_person_blob_info(person_article: Tag) -> []:
         titles = person_article.find_all('h3')
         for title in titles:
             big_data: Tag = title.next_sibling
-            while big_data.name != 'p':
+            while big_data.name != 'p' and ('content__meta' not in big_data.parent.get('class', []) and 'content__metadata' not in big_data.parent.get('class', [])):
                 big_data = big_data.next_sibling
             result.update({title.text: big_data.text})
     except AttributeError:
@@ -56,14 +56,14 @@ def get_person_info(url: str) -> {}:
     person_detail = person_article.find("div", {"class": "people__details"})
     person_picture = person_article.find("div",{"class": "people__photo"} )
 
-
     result.update({"name": person_detail.select_one('h2').text})
+    result.update({"department":"School of Computer Science"})
+    result.update({"url": url})
     result.update({"title": person_detail.select_one('p').text})
     result.update({"picture": person_picture.select_one('img')['src']})
     result.update({"contacts": get_person_table_info(person_detail)})
     result.update({"research": get_person_blob_info(person_article)})
     return result
-
 
 def get_faculty_people(faculty: Tag) -> []:
     people_cards = faculty.find_all('a')
@@ -92,8 +92,10 @@ def main():
 
     with open('scsfaculty.json', 'w', encoding="utf-8") as f:
         faculty_data = []
+        counter = 0;
         for link in faculties_with_links['School Faculty']:
             faculty_data.append(get_person_info(link))
+            counter += 1
         json.dump(faculty_data, f, indent=4, ensure_ascii=False)
 
 

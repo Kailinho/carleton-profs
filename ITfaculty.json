@@ -1,7 +1,10 @@
 [
     {
         "name": "Dr. Marzieh Amini",
+        "department": "School of Information Technology",
+        "url": "http://www.csit.carleton.ca/marzieh.amini",
         "title": "Assistant Professor",
+        "picture": "https://www.csit.carleton.ca/fetchImage.php?ImgType=photos&ImgFile=mamini.jpg",
         "contacts": {
             "office": "AP230G",
             "tel": "+1 (613) 520-2600 x1016",
@@ -22,7 +25,10 @@
     },
     {
         "name": "Dr. Ali Arya",
+        "department": "School of Information Technology",
+        "url": "http://www.csit.carleton.ca/ali.arya",
         "title": "Associate Professor",
+        "picture": "https://www.csit.carleton.ca/fetchImage.php?ImgType=photos&ImgFile=aarya.jpg",
         "contacts": {
             "office": "CB4202",
             "tel": "+1 (613) 520-2600 x4184",
@@ -31,7 +37,6 @@
         },
         "research": {
             "Research Areas": [
-                "Digital Media",
                 "Human-Computer Interaction",
                 "Game Design, Development, & Interactions",
                 "Wearables",
@@ -43,11 +48,14 @@
     },
     {
         "name": "Dr. Masoud Barati",
-        "title": "Assistant Professor",
+        "department": "School of Information Technology",
+        "url": "http://www.csit.carleton.ca/masoud.barati",
+        "title": "",
+        "picture": "https://www.csit.carleton.ca/fetchImage.php?ImgType=photos&ImgFile=mbarati.jpg",
         "contacts": {
-            "office": "AP230L",
-            "tel": "N/A",
-            "email": "mailto:N/A",
+            "office": "AP230 F",
+            "tel": "+1 (613) 520-2600 x1479",
+            "email": "mailto:Masoud.Barati@carleton.ca",
             "web": "N/A"
         },
         "research": {
@@ -55,7 +63,7 @@
                 "Cloud, Fog, and Edge Computing",
                 "Internet of Things (IoT)",
                 "Ad-hoc and Wireless Sensor Networks",
-                "Network security (threat modelling, blockchain, usable security)",
+                "Network security (Threat modelling, blockchain, usable security)",
                 "Data Privacy",
                 "Data Modelling"
             ]
@@ -63,7 +71,10 @@
     },
     {
         "name": "Dr. KC Collins",
+        "department": "School of Information Technology",
+        "url": "http://www.csit.carleton.ca/kc.collins",
         "title": "",
+        "picture": "https://www.csit.carleton.ca/fetchImage.php?ImgType=photos&ImgFile=KCCollins.jpg",
         "contacts": {
             "office": "N/A",
             "tel": "+1 (613) 520-2600",
@@ -72,7 +83,6 @@
         },
         "research": {
             "Research Areas": [
-                "Digital Media",
                 "Digital Sound and Audio",
                 "Virtual & Augmented Reality",
                 "Computer Networks (Planning, Design, Architecture)",
@@ -82,7 +92,10 @@
     },
     {
         "name": "Dr. Jie Gao",
+        "department": "School of Information Technology",
+        "url": "http://www.csit.carleton.ca/jie.gao",
         "title": "Assistant Professor",
+        "picture": "https://www.csit.carleton.ca/fetchImage.php?ImgType=photos&ImgFile=JieGao.jpg",
         "contacts": {
             "office": "CB4103",
             "tel": "+1 (613)520-2600 ext 1451",
@@ -105,7 +118,10 @@
     },
     {
         "name": "Dr. Audrey Girouard",
+        "department": "School of Information Technology",
+        "url": "http://www.csit.carleton.ca/audrey.girouard",
         "title": "Associate Professor",
+        "picture": "https://www.csit.carleton.ca/fetchImage.php?ImgType=photos&ImgFile=agirouard.jpg",
         "contacts": {
             "office": "AP230D",
             "tel": "+1 (613) 520-2600 x8817",
@@ -114,7 +130,6 @@
         },
         "research": {
             "Research Areas": [
-                "Digital Media",
                 "Human-Computer Interaction",
                 "Game Design, Development, & Interactions",
                 "Wearables"
@@ -123,18 +138,24 @@
     },
     {
         "name": "Dr. Lesley Istead",
+        "department": "School of Information Technology",
+        "url": "http://www.csit.carleton.ca/lesley.istead",
         "title": "Assistant Professor",
+        "picture": "https://www.csit.carleton.ca/fetchImage.php?ImgType=photos&ImgFile=LesleyIstead.jpg",
         "contacts": {
             "office": "N/A",
             "tel": "N/A",
             "email": "mailto:lesley.istead@carleton.ca",
-            "web": "N/A"
+            "web": "https://3dfilm.csit.carleton.ca "
         },
         "research": null
     },
     {
         "name": "Dr. Chris Joslin",
+        "department": "School of Information Technology",
+        "url": "http://www.csit.carleton.ca/chris.joslin",
         "title": "Full Professor",
+        "picture": "https://www.csit.carleton.ca/fetchImage.php?ImgType=photos&ImgFile=cjoslin.jpg",
         "contacts": {
             "office": "CB4302",
             "tel": "+1 (613) 520-2600 x1889",
@@ -143,7 +164,6 @@
         },
         "research": {
             "Research Areas": [
-                "Digital Media",
                 "Human-Computer Interaction",
                 "Game Design, Development, & Interactions",
                 "Virtual & Augmented Reality",
@@ -158,7 +178,10 @@
     },
     {
         "name": "Dr. Ashraf Matrawy",
+        "department": "School of Information Technology",
+        "url": "http://www.csit.carleton.ca/ashraf.matrawy",
         "title": "Full Professor",
+        "picture": "https://www.csit.carleton.ca/fetchImage.php?ImgType=photos&ImgFile=amatrawy.jpg",
         "contacts": {
             "office": "CB4102",
             "tel": "+1 (613) 520-2600 x2901",
@@ -173,7 +196,7 @@
                 "Cloud, Fog, and Edge Computing",
                 "Internet of Things (IoT)",
                 "Software Defined Networks (SDN)",
-                "Network security (threat modelling, blockchain, usable security)",
+                "Network security (Threat modelling, blockchain, usable security)",
                 "Big Data Analytics",
                 "Machine Learning & Artificial Intelligence",
                 "Connected/Autonomous Vehicles"
@@ -182,7 +205,10 @@
     },
     {
         "name": "Dr. Mehdi Niknam",
+        "department": "School of Information Technology",
+        "url": "http://www.csit.carleton.ca/mehdi.niknam",
         "title": "Instructor II",
+        "picture": "https://www.csit.carleton.ca/fetchImage.php?ImgType=photos&ImgFile=MehdiNiknam.jpg",
         "contacts": {
             "office": "AP230M",
             "tel": "+1 (613) 520-2600 x6160",
@@ -193,7 +219,10 @@
     },
     {
         "name": "Dr. Omair Shafiq",
+        "department": "School of Information Technology",
+        "url": "http://www.csit.carleton.ca/omair.shafiq",
         "title": "Assistant Professor",
+        "picture": "https://www.csit.carleton.ca/fetchImage.php?ImgType=photos&ImgFile=oshafiq.jpg",
         "contacts": {
             "office": "AP230F",
             "tel": "+1 (613) 520-2600 x6038",
@@ -202,7 +231,6 @@
         },
         "research": {
             "Research Areas": [
-                "Digital Media",
                 "Data Science",
                 "Cloud, Fog, and Edge Computing",
                 "Internet of Things (IoT)",
@@ -214,7 +242,10 @@
     },
     {
         "name": "Dr. Wei Shi",
+        "department": "School of Information Technology",
+        "url": "http://www.csit.carleton.ca/wei.shi",
         "title": "Full Professor",
+        "picture": "https://www.csit.carleton.ca/fetchImage.php?ImgType=photos&ImgFile=wshi.jpg",
         "contacts": {
             "office": "CB4305",
             "tel": "+1 (613) 520-2600 x5060",
@@ -223,14 +254,13 @@
         },
         "research": {
             "Research Areas": [
-                "Digital Media",
                 "Network Technology",
                 "Data Science",
                 "Computer Networks (Planning, Design, Architecture)",
                 "Cloud, Fog, and Edge Computing",
                 "Internet of Things (IoT)",
                 "Ad-hoc and Wireless Sensor Networks",
-                "Network security (threat modelling, blockchain, usable security)",
+                "Network security (Threat modelling, blockchain, usable security)",
                 "Data Privacy",
                 "Big Data Analytics"
             ]
@@ -238,7 +268,10 @@
     },
     {
         "name": "Dr. David Sprague",
+        "department": "School of Information Technology",
+        "url": "http://www.csit.carleton.ca/david.sprague",
         "title": "Instructor II",
+        "picture": "https://www.csit.carleton.ca/fetchImage.php?ImgType=photos&ImgFile=dsprague.jpg",
         "contacts": {
             "office": "AP230E",
             "tel": "+1 (613) 520-2600 x1324",
@@ -249,7 +282,10 @@
     },
     {
         "name": "Dr. Marc St-Hilaire",
+        "department": "School of Information Technology",
+        "url": "http://www.csit.carleton.ca/marc.st-hilaire",
         "title": "Full Professor",
+        "picture": "https://www.csit.carleton.ca/fetchImage.php?ImgType=photos&ImgFile=msthilaire.jpg",
         "contacts": {
             "office": "CB4304",
             "tel": "+1 (613) 520-2600 x1844",
@@ -269,16 +305,18 @@
     },
     {
         "name": "Dr. Robert Teather",
+        "department": "School of Information Technology",
+        "url": "http://www.csit.carleton.ca/robert.teather",
         "title": "Associate Professor",
+        "picture": "https://www.csit.carleton.ca/fetchImage.php?ImgType=photos&ImgFile=rteather.jpg",
         "contacts": {
             "office": "AP230I",
-            "tel": "+1 (613) 520-2600 x4176",
+            "tel": "N/A",
             "email": "mailto:robert.teather@carleton.ca",
             "web": "https://www.csit.carleton.ca/~rteather"
         },
         "research": {
             "Research Areas": [
-                "Digital Media",
                 "Human-Computer Interaction",
                 "Game Design, Development, & Interactions",
                 "Virtual & Augmented Reality"
@@ -287,7 +325,10 @@
     },
     {
         "name": "Dr. David Thue",
+        "department": "School of Information Technology",
+        "url": "http://www.csit.carleton.ca/david.thue",
         "title": "Assistant Professor",
+        "picture": "https://www.csit.carleton.ca/fetchImage.php?ImgType=photos&ImgFile=dthue.jpg",
         "contacts": {
             "office": "AP230H",
             "tel": "+1 (613) 520-2600 x1326",
@@ -296,7 +337,6 @@
         },
         "research": {
             "Research Areas": [
-                "Digital Media",
                 "Data Science",
                 "Human-Computer Interaction",
                 "Game Design, Development, & Interactions",
@@ -308,7 +348,10 @@
     },
     {
         "name": "Dr. F. Richard Yu",
+        "department": "School of Information Technology",
+        "url": "http://www.csit.carleton.ca/richard.yu",
         "title": "Full Professor",
+        "picture": "https://www.csit.carleton.ca/fetchImage.php?ImgType=photos&ImgFile=fyu.jpg",
         "contacts": {
             "office": "CB4201",
             "tel": "+1 (613) 520-2600 x2978",
@@ -317,7 +360,6 @@
         },
         "research": {
             "Research Areas": [
-                "Digital Media",
                 "Network Technology",
                 "Data Science",
                 "Multimedia Streaming",
@@ -326,7 +368,7 @@
                 "Internet of Things (IoT)",
                 "Software Defined Networks (SDN)",
                 "Ad-hoc and Wireless Sensor Networks",
-                "Network security (threat modelling, blockchain, usable security)",
+                "Network security (Threat modelling, blockchain, usable security)",
                 "Data Privacy",
                 "Data Modelling",
                 "Machine Learning & Artificial Intelligence",

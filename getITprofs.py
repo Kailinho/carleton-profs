@@ -11,6 +11,7 @@ logger = logging.getLogger('Scrapper')
 logger.setLevel(logging.DEBUG)
 
 BASE_URL = "https://www.csit.carleton.ca/index.php?pageID=PeopleFaculty"
+BASE_PIC_URL = 'https://www.csit.carleton.ca/'
 HEADER = {'Accept-Language': 'en-US',
           'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36'}
 
@@ -60,11 +61,15 @@ def get_person_info(url: str) -> {}:
 
     person_article = BeautifulSoup(resp.content, 'html.parser', parse_only=SoupStrainer('main'))
     person_detail = person_article.find("div", {"class": "profile-name-desktop"})
+    person_pic = person_article.find("div", {"class" : "photo"} ).get('style').split("../")[1].replace("');", "")
     person_contact = person_article.find("ul", {"class": "contact"})
     person_research = person_article.find_all("section")[1]
 
     result.update({"name": person_detail.select_one('h1').text})
+    result.update({"department":"School of Information Technology"})
+    result.update({"url": url})
     result.update({"title": person_detail.select_one('p').text})
+    result.update({"picture": BASE_PIC_URL + person_pic})
     result.update({"contacts": get_person_info_li(person_contact)})
     result.update({"research": get_person_blob_info(person_research)})
     return result

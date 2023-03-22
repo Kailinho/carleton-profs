@@ -1,6 +1,8 @@
 [
     {
         "name": "Andy Adler",
+        "department": "School of Systems and Computer Engineering",
+        "url": "https://carleton.ca/sce/people/adler/",
         "title": "Professor, P.Eng.",
         "picture": "https://carleton.ca/sce/wp-content/uploads/adler-200x200.jpg",
         "contacts": {
@@ -39,6 +41,8 @@
     },
     {
         "name": "Samuel Ajila",
+        "department": "School of Systems and Computer Engineering",
+        "url": "https://carleton.ca/sce/people/ajila/",
         "title": "Associate Professor, P.Eng.",
         "picture": "https://carleton.ca/sce/wp-content/uploads/Ajila-200x200.jpg",
         "contacts": {
@@ -64,6 +68,8 @@
     },
     {
         "name": "Hala Assal",
+        "department": "School of Systems and Computer Engineering",
+        "url": "https://carleton.ca/sce/people/assal/",
         "title": "Assistant Professor",
         "picture": "https://carleton.ca/sce/wp-content/uploads/Hala_SCE-200x200.jpeg",
         "contacts": {
@@ -83,6 +89,8 @@
     },
     {
         "name": "Mohamed Atia",
+        "department": "School of Systems and Computer Engineering",
+        "url": "https://carleton.ca/sce/people/atia/",
         "title": "Associate Professor, P.Eng",
         "picture": "https://carleton.ca/sce/wp-content/uploads/Mohamed-Atia-Photo-200x200.png",
         "contacts": {
@@ -95,6 +103,8 @@
     },
     {
         "name": "Donald Bailey",
+        "department": "School of Systems and Computer Engineering",
+        "url": "https://carleton.ca/sce/people/bailey/",
         "title": "Instructor III, Limited Engineering Licensee",
         "picture": "",
         "contacts": {
@@ -108,6 +118,8 @@
     },
     {
         "name": "Amir Banihashemi",
+        "department": "School of Systems and Computer Engineering",
+        "url": "https://carleton.ca/sce/people/banihashemi/",
         "title": "Professor, P.Eng.",
         "picture": "https://carleton.ca/sce/wp-content/uploads/Banihashemi-200x200.jpg",
         "contacts": {
@@ -131,6 +143,8 @@
     },
     {
         "name": "Safaa Bedawi",
+        "department": "School of Systems and Computer Engineering",
+        "url": "https://carleton.ca/sce/people/bedawi/",
         "title": "Instructor II, P.Eng.",
         "picture": "",
         "contacts": {
@@ -141,6 +155,8 @@
     },
     {
         "name": "Adrian Chan",
+        "department": "School of Systems and Computer Engineering",
+        "url": "https://carleton.ca/sce/people/chan/",
         "title": "Professor, P.Eng.",
         "picture": "https://carleton.ca/sce/wp-content/uploads/adrian-chan-200x200.jpg",
         "contacts": {
@@ -182,6 +198,8 @@
     },
     {
         "name": "Richard Dansereau",
+        "department": "School of Systems and Computer Engineering",
+        "url": "https://carleton.ca/sce/people/dansereau/",
         "title": "Professor, P.Eng.",
         "picture": "https://carleton.ca/sce/wp-content/uploads/Dansereau-200x200.jpg",
         "contacts": {
@@ -202,6 +220,8 @@
     },
     {
         "name": "Babak Esfandiari",
+        "department": "School of Systems and Computer Engineering",
+        "url": "https://carleton.ca/sce/people/esfandiari/",
         "title": "Professor, Limited Engineering Licensee",
         "picture": "https://carleton.ca/sce/wp-content/uploads/Babak-Esfandiari-200x200.jpg",
         "contacts": {
@@ -223,6 +243,8 @@
     },
     {
         "name": "Gregory Franks",
+        "department": "School of Systems and Computer Engineering",
+        "url": "https://carleton.ca/sce/people/franks/",
         "title": "Associate Professor, P.Eng.",
         "picture": "https://carleton.ca/sce/wp-content/uploads/Franks-200x200.jpg",
         "contacts": {
@@ -237,13 +259,14 @@
                 "Performance modelling of distributed software, based on an extension of queueing models called “layered queueing networks”.",
                 "Performance modelling techniques and algorithms (simulation, queueing and Petri Nets), and applications to computer systems.",
                 "Reverse Engineering.",
-                "Operating System design and implementation.",
-                ""
+                "Operating System design and implementation."
             ]
         }
     },
     {
         "name": "Ramy H. Gohary",
+        "department": "School of Systems and Computer Engineering",
+        "url": "https://carleton.ca/sce/people/gohary/",
         "title": "Associate Professor, Limited Engineering Licensee",
         "picture": "https://carleton.ca/sce/wp-content/uploads/Ramy-H.-Gohary_300x300_acf_cropped.v1-200x200.jpg",
         "contacts": {
@@ -270,6 +293,8 @@
     },
     {
         "name": "Shaghayegh (Rose)  Gomar",
+        "department": "School of Systems and Computer Engineering",
+        "url": "https://carleton.ca/sce/people/gomar/",
         "title": "Instructor II, Ph.D, EIT",
         "picture": "https://carleton.ca/sce/wp-content/uploads/Rose-200x200.jpg",
         "contacts": {
@@ -281,6 +306,8 @@
     },
     {
         "name": "Rafik Goubran",
+        "department": "School of Systems and Computer Engineering",
+        "url": "https://carleton.ca/sce/people/goubran/",
         "title": "Professor, P.Eng.",
         "picture": "https://carleton.ca/sce/wp-content/uploads/Rafik-200x200.jpg",
         "contacts": {
@@ -298,6 +325,8 @@
     },
     {
         "name": "James Green",
+        "department": "School of Systems and Computer Engineering",
+        "url": "https://carleton.ca/sce/people/green/",
         "title": "Professor, P.Eng.",
         "picture": "https://carleton.ca/sce/wp-content/uploads/Green-1-200x200.jpg",
         "contacts": {
@@ -325,6 +354,8 @@
     },
     {
         "name": "Roshdy Hafez",
+        "department": "School of Systems and Computer Engineering",
+        "url": "https://carleton.ca/sce/people/hafez/",
         "title": "Professor, P.Eng.",
         "picture": "https://carleton.ca/sce/wp-content/uploads/Hafez-200x200.jpg",
         "contacts": {
@@ -346,6 +377,8 @@
     },
     {
         "name": "Changcheng Huang",
+        "department": "School of Systems and Computer Engineering",
+        "url": "https://carleton.ca/sce/people/huang/",
         "title": "Professor, P.Eng.",
         "picture": "https://carleton.ca/sce/wp-content/uploads/Huang-200x200.jpg",
         "contacts": {
@@ -367,6 +400,8 @@
     },
     {
         "name": "Mohamed Ibnkahla",
+        "department": "School of Systems and Computer Engineering",
+        "url": "https://carleton.ca/sce/people/ibnkahla/",
         "title": "Professor, P.Eng.",
         "picture": "https://carleton.ca/sce/wp-content/uploads/Ibnkahla-1-200x200.jpg",
         "contacts": {
@@ -379,13 +414,14 @@
         "research": {
             "Research Interests:": [
                 "Wireless sensor networks, Internet of Things (IoT), cognitive radio networks, adaptive signal processing, reconfigurable networks, sensor integration, radio frequency identification (RFID) systems.",
-                "Applications in  smart homes, security, safety, healthcare, smart grid, renewable energies and green society, smart cities, intelligent transportation systems, environment monitoring, retail and logistics.",
-                ""
+                "Applications in  smart homes, security, safety, healthcare, smart grid, renewable energies and green society, smart cities, intelligent transportation systems, environment monitoring, retail and logistics."
             ]
         }
     },
     {
         "name": "Jason Jaskolka",
+        "department": "School of Systems and Computer Engineering",
+        "url": "https://carleton.ca/sce/people/jaskolka/",
         "title": "Associate Professor, P.Eng.",
         "picture": "https://carleton.ca/sce/wp-content/uploads/Jason_profile_pic-200x200.png",
         "contacts": {
@@ -401,6 +437,8 @@
     },
     {
         "name": "Nafiseh Kahani",
+        "department": "School of Systems and Computer Engineering",
+        "url": "https://carleton.ca/sce/people/kahani/",
         "title": "Assistant Professor",
         "picture": "https://carleton.ca/sce/wp-content/uploads/NafisehKahani-200x200.jpg",
         "contacts": {
@@ -412,6 +450,8 @@
     },
     {
         "name": "Thomas Kunz",
+        "department": "School of Systems and Computer Engineering",
+        "url": "https://carleton.ca/sce/people/kunz/",
         "title": "Professor, Limited Engineering Licensee",
         "picture": "https://carleton.ca/sce/wp-content/uploads/KunzSmall-200x200.jpg",
         "contacts": {
@@ -430,13 +470,14 @@
                 "Tactical radio networks.",
                 "Adaptive mobile applications.",
                 "Software-defined networking.",
-                "Network function virtualization.",
-                ""
+                "Network function virtualization."
             ]
         }
     },
     {
         "name": "Yvan Labiche",
+        "department": "School of Systems and Computer Engineering",
+        "url": "https://carleton.ca/sce/people/labiche/",
         "title": "Professor, P.Eng.",
         "picture": "https://carleton.ca/sce/wp-content/uploads/Labiche-200x200.jpg",
         "contacts": {
@@ -464,6 +505,8 @@
     },
     {
         "name": "Ioannis Lambadaris",
+        "department": "School of Systems and Computer Engineering",
+        "url": "https://carleton.ca/sce/people/lambadaris/",
         "title": "Chancellor’s Professor, P.Eng.",
         "picture": "https://carleton.ca/sce/wp-content/uploads/Ioannis-Lambadaris_300x300_acf_cropped.v1-1-200x200.jpg",
         "contacts": {
@@ -485,6 +528,8 @@
     },
     {
         "name": "Peter X. Liu",
+        "department": "School of Systems and Computer Engineering",
+        "url": "https://carleton.ca/sce/people/liu/",
         "title": "Professor, P.Eng.",
         "picture": "https://carleton.ca/sce/wp-content/uploads/Liu-200x200.jpg",
         "contacts": {
@@ -514,6 +559,8 @@
     },
     {
         "name": "Chung-Horng Lung",
+        "department": "School of Systems and Computer Engineering",
+        "url": "https://carleton.ca/sce/people/lung/",
         "title": "Professor, P.Eng.",
         "picture": "https://carleton.ca/sce/wp-content/uploads/Lung-1-200x200.jpg",
         "contacts": {
@@ -533,6 +580,8 @@
     },
     {
         "name": "Shikharesh Majumdar",
+        "department": "School of Systems and Computer Engineering",
+        "url": "https://carleton.ca/sce/people/majumdar/",
         "title": "Chancellor Professor, P.Eng.",
         "picture": "https://carleton.ca/sce/wp-content/uploads/Majumdar-1-200x200.jpg",
         "contacts": {
@@ -561,6 +610,8 @@
     },
     {
         "name": "Lynn Marshall",
+        "department": "School of Systems and Computer Engineering",
+        "url": "https://carleton.ca/sce/people/marshall/",
         "title": "Instructor II, P.Eng.",
         "picture": "https://carleton.ca/sce/wp-content/uploads/marshall-200x200.jpg",
         "contacts": {
@@ -572,6 +623,8 @@
     },
     {
         "name": "Ian Marsland",
+        "department": "School of Systems and Computer Engineering",
+        "url": "https://carleton.ca/sce/people/marsland/",
         "title": "Associate Professor, P.Eng.",
         "picture": "https://carleton.ca/sce/wp-content/uploads/Marsland-200x200.jpeg",
         "contacts": {
@@ -592,6 +645,8 @@
     },
     {
         "name": "Leila Mostaço-Guidolin",
+        "department": "School of Systems and Computer Engineering",
+        "url": "https://carleton.ca/sce/people/mostaco-guidolin/",
         "title": "Assistant Professor, P.Eng.",
         "picture": "https://carleton.ca/sce/wp-content/uploads/Webp.net-resizeimage-200x200.jpg",
         "contacts": {
@@ -605,6 +660,8 @@
     },
     {
         "name": "Yuu Ono",
+        "department": "School of Systems and Computer Engineering",
+        "url": "https://carleton.ca/sce/people/ono/",
         "title": "Associate Professor, P.Eng.",
         "picture": "https://carleton.ca/sce/wp-content/uploads/ono-200x200.jpg",
         "contacts": {
@@ -624,6 +681,8 @@
     },
     {
         "name": "Fateme  Rajabiyazdi",
+        "department": "School of Systems and Computer Engineering",
+        "url": "https://carleton.ca/sce/people/rajabiyazdi/",
         "title": "Assistant Professor",
         "picture": "https://carleton.ca/sce/wp-content/uploads/ProfilePicFateme-200x200.jpeg",
         "contacts": {
@@ -642,6 +701,8 @@
     },
     {
         "name": "Sreeraman Rajan",
+        "department": "School of Systems and Computer Engineering",
+        "url": "https://carleton.ca/sce/people/rajan/",
         "title": "Professor",
         "picture": "https://carleton.ca/sce/wp-content/uploads/rajan-200x200.jpg",
         "contacts": {
@@ -659,6 +720,8 @@
     },
     {
         "name": "Carlos Rossa",
+        "department": "School of Systems and Computer Engineering",
+        "url": "https://carleton.ca/sce/people/rossa/",
         "title": "Associate Professor, P.Eng.",
         "picture": "https://carleton.ca/sce/wp-content/uploads/Carlos_profile-200x200.jpg",
         "contacts": {
@@ -672,6 +735,8 @@
     },
     {
         "name": "Cristina Ruiz Martin",
+        "department": "School of Systems and Computer Engineering",
+        "url": "https://carleton.ca/sce/people/ruiz/",
         "title": "Instructor II, P.Eng.",
         "picture": "https://carleton.ca/sce/wp-content/uploads/cristina1-200x200.jpg",
         "contacts": {
@@ -696,6 +761,8 @@
     },
     {
         "name": "Howard Schwartz",
+        "department": "School of Systems and Computer Engineering",
+        "url": "https://carleton.ca/sce/people/schwartz/",
         "title": "Professor, P.Eng.",
         "picture": "https://carleton.ca/sce/wp-content/uploads/Schwartz-200x200.png",
         "contacts": {
@@ -718,6 +785,8 @@
     },
     {
         "name": "Chao Shen",
+        "department": "School of Systems and Computer Engineering",
+        "url": "https://carleton.ca/sce/people/shen/",
         "title": "Assistant Professor",
         "picture": "https://carleton.ca/sce/wp-content/uploads/Shen-200x200.jpg",
         "contacts": {
@@ -730,6 +799,8 @@
     },
     {
         "name": "Mostafa  Taha",
+        "department": "School of Systems and Computer Engineering",
+        "url": "https://carleton.ca/sce/people/taha/",
         "title": "Assistant Professor",
         "picture": "https://carleton.ca/sce/wp-content/uploads/taha-200x200.jpg",
         "contacts": {
@@ -742,6 +813,8 @@
     },
     {
         "name": "Jerome Talim",
+        "department": "School of Systems and Computer Engineering",
+        "url": "https://carleton.ca/sce/people/talim/",
         "title": "Assistant Professor, P.Eng.",
         "picture": "https://carleton.ca/sce/wp-content/uploads/Talim-200x200.jpg",
         "contacts": {
@@ -760,6 +833,8 @@
     },
     {
         "name": "Gabriel Wainer",
+        "department": "School of Systems and Computer Engineering",
+        "url": "https://carleton.ca/sce/people/wainer/",
         "title": "Professor, Limited Engineering Licensee",
         "picture": "https://carleton.ca/sce/wp-content/uploads/wainer-200x200.jpg",
         "contacts": {
@@ -807,6 +882,8 @@
     },
     {
         "name": "Michael Weiss",
+        "department": "School of Systems and Computer Engineering",
+        "url": "https://carleton.ca/sce/people/weiss/",
         "title": "Associate Professor",
         "picture": "https://carleton.ca/sce/wp-content/uploads/Weiss-200x200.jpg",
         "contacts": {
@@ -820,6 +897,8 @@
     },
     {
         "name": "Halim Yanikomeroglu",
+        "department": "School of Systems and Computer Engineering",
+        "url": "https://carleton.ca/sce/people/yanikomeroglu/",
         "title": "Professor, P.Eng.",
         "picture": "https://carleton.ca/sce/wp-content/uploads/Yanikojmeroglu-200x200.jpg",
         "contacts": {

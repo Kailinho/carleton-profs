@@ -1,7 +1,6 @@
 [
     {
         "name": "Rabe Abdalkareem",
-        "department": "School of Computer Science",
         "url": "https://carleton.ca/scs/people/rabe-abdalkareem/",
         "title": "Assistant Professor",
         "picture": "https://carleton.ca/scs/wp-content/uploads/Rabe_Abdalkareem-2021-200x200.jpg",
@@ -16,7 +15,6 @@
     },
     {
         "name": "AbdelRahman Abdou",
-        "department": "School of Computer Science",
         "url": "https://carleton.ca/scs/people/abdelrahman-abdou/",
         "title": "Assistant Professor",
         "picture": "https://carleton.ca/scs/wp-content/uploads/abdel-abdou2-200x200.jpg",
@@ -35,7 +33,6 @@
     },
     {
         "name": "Michel Barbeau",
-        "department": "School of Computer Science",
         "url": "https://carleton.ca/scs/people/michel-barbeau/",
         "title": "Director and  & DSA Program Director",
         "picture": "https://carleton.ca/scs/wp-content/uploads/barbeau-200x200.jpg",
@@ -58,7 +55,6 @@
     },
     {
         "name": "David Barrera",
-        "department": "School of Computer Science",
         "url": "https://carleton.ca/scs/people/david-barrera/",
         "title": "Assistant Professor",
         "picture": "https://carleton.ca/scs/wp-content/uploads/david_b-200x200.jpg",
@@ -76,7 +72,6 @@
     },
     {
         "name": "Olga Baysal",
-        "department": "School of Computer Science",
         "url": "https://carleton.ca/scs/people/olga-baysal/",
         "title": "Associate Professor & Director for the Institute for Data Science ",
         "picture": "https://carleton.ca/scs/wp-content/uploads/photo1_400x400-200x200.png",
@@ -97,7 +92,6 @@
     },
     {
         "name": "Robert Biddle",
-        "department": "School of Computer Science",
         "url": "https://carleton.ca/scs/people/robert-biddle/",
         "title": "Professor",
         "picture": "https://carleton.ca/scs/wp-content/uploads/biddle-1-200x200.jpg",
@@ -115,7 +109,6 @@
     },
     {
         "name": "Prosenjit Bose",
-        "department": "School of Computer Science",
         "url": "https://carleton.ca/scs/people/prosenjit-bose/",
         "title": "Chancellor's Professor & Associate Dean (Research and International) & Director of the Ottawa-Carleton Institute for Computer Science",
         "picture": "https://carleton.ca/scs/wp-content/uploads/jit2-200x200.jpg",
@@ -128,12 +121,12 @@
         },
         "research": {
             "Research Interests": "Algorithms, Data Structures, Computational Geometry, Graph Theory",
-            "Specific Research Interests": "Design and Analysis of Algorithms and Data Structures, Applied Geometric Computing (applications to manufacturing, computer vision, pattern recognition), Discrete and Computational Geometry, Computer Vision, Data Structures, Discrete Mathematics, Graph Algorithms, Graph Theory, Image Processing, Pattern Recognition, Randomized Algorithms, Routing in Networks"
+            "Specific Research Interests": "Design and Analysis of Algorithms and Data Structures, Applied Geometric Computing (applications to manufacturing, computer vision, pattern recognition), Discrete and Computational Geometry, Computer Vision, Data Structures, Discrete Mathematics, Graph Algorithms, Graph Theory, Image Processing, Pattern Recognition, Randomized Algorithms, Routing in Networks",
+            "Research Group": "\nShare: Twitter, Facebook\n\nShort URL:\nhttps://carleton.ca/scs/?p=1130"
         }
     },
     {
         "name": "Sonia Chiasson",
-        "department": "School of Computer Science",
         "url": "https://carleton.ca/scs/people/sonia-chiasson/",
         "title": "Professor & HCI Program Co-Director",
         "picture": "https://carleton.ca/scs/wp-content/uploads/chiasson2-200x200.jpg",
@@ -154,7 +147,6 @@
     },
     {
         "name": "Robert Collier",
-        "department": "School of Computer Science",
         "url": "https://carleton.ca/scs/people/robert-collier/",
         "title": "Instructor III",
         "picture": "https://carleton.ca/scs/wp-content/uploads/robert_collier-200x200.jpg",
@@ -170,7 +162,6 @@
     },
     {
         "name": "Jean-Pierre Corriveau",
-        "department": "School of Computer Science",
         "url": "https://carleton.ca/scs/people/jean-pierre-corriveau/",
         "title": "Associate Professor & Graduate Director",
         "picture": "https://carleton.ca/scs/wp-content/uploads/corriveau-200x200.jpg",
@@ -190,7 +181,6 @@
     },
     {
         "name": "Frank Dehne",
-        "department": "School of Computer Science",
         "url": "https://carleton.ca/scs/people/frank-dehne/",
         "title": "Chancellor's Professor",
         "picture": "https://carleton.ca/scs/wp-content/uploads/frankd2021-200x200.jpg",
@@ -209,7 +199,6 @@
     },
     {
         "name": "Dwight Deugo",
-        "department": "School of Computer Science",
         "url": "https://carleton.ca/scs/people/dwight-deugo/",
         "title": "Vice-Provost and Associate Vice-President (Academic)",
         "picture": "https://carleton.ca/scs/wp-content/uploads/dwight-200x200.jpg",
@@ -229,7 +218,6 @@
     },
     {
         "name": "Ahmed El-Roby",
-        "department": "School of Computer Science",
         "url": "https://carleton.ca/scs/people/ahmed-el-roby/",
         "title": "Assistant Professor",
         "picture": "https://carleton.ca/scs/wp-content/uploads/ahmed-200x200.jpg",
@@ -246,7 +234,6 @@
     },
     {
         "name": "Yuhong Guo",
-        "department": "School of Computer Science",
         "url": "https://carleton.ca/scs/people/yuhong-guo/",
         "title": "Professor &  Canada Research Chair",
         "picture": "https://carleton.ca/scs/wp-content/uploads/yuhong_guo-200x200.jpg",
@@ -265,7 +252,6 @@
     },
     {
         "name": "Darryl Hill",
-        "department": "School of Computer Science",
         "url": "https://carleton.ca/scs/people/darryl-hill/",
         "title": "Instructor II",
         "picture": "https://carleton.ca/scs/wp-content/uploads/darryl2-200x200.jpg",
@@ -277,7 +263,6 @@
     },
     {
         "name": "Connor Hillen",
-        "department": "School of Computer Science",
         "url": "https://carleton.ca/scs/people/connor-hillen/",
         "title": "Instructor I",
         "picture": "https://carleton.ca/scs/wp-content/uploads/hillen-1200x1200-1-200x200.jpg",
@@ -289,7 +274,6 @@
     },
     {
         "name": "Jason Hinek",
-        "department": "School of Computer Science",
         "url": "https://carleton.ca/scs/people/m-jason-hinek/",
         "title": "Instructor III",
         "picture": "https://carleton.ca/scs/wp-content/uploads/jason_hinek-200x200.jpg",
@@ -303,7 +287,6 @@
     },
     {
         "name": "Matthew Holden",
-        "department": "School of Computer Science",
         "url": "https://carleton.ca/scs/people/matthew-holden/",
         "title": "Assistant Professor",
         "picture": "https://carleton.ca/scs/wp-content/uploads/holten-200x200.jpg",
@@ -321,7 +304,6 @@
     },
     {
         "name": "Douglas Howe",
-        "department": "School of Computer Science",
         "url": "https://carleton.ca/scs/people/douglas-howe/",
         "title": "Professor ",
         "picture": "https://carleton.ca/scs/wp-content/uploads/howe2-200x200.jpg",
@@ -338,7 +320,6 @@
     },
     {
         "name": "Majid Komeili",
-        "department": "School of Computer Science",
         "url": "https://carleton.ca/scs/people/majid-komeili/",
         "title": "Assistant Professor",
         "picture": "https://carleton.ca/scs/wp-content/uploads/majid-200x200.jpg",
@@ -350,12 +331,12 @@
         },
         "research": {
             "Research Interests": "Machine learning, deep learning, and related areas in computer vision and natural language processing.",
-            "Specific Research Interests": "I am interested in interpretable machine learning, deep neural networks, and transfer learning. The goal is to create ML models with explainability in mind or to develop methods that can decipher existing black-box ML models. I am also interested in how ML models can learn to perform new tasks with a limited amount of labeled data; a capability that human is very good at."
+            "Specific Research Interests": "I am interested in interpretable machine learning, deep neural networks, and transfer learning. The goal is to create ML models with explainability in mind or to develop methods that can decipher existing black-box ML models. I am also interested in how ML models can learn to perform new tasks with a limited amount of labeled data; a capability that human is very good at.",
+            "": "\nShare: Twitter, Facebook\n\nShort URL:\nhttps://carleton.ca/scs/?p=4848"
         }
     },
     {
         "name": "Evangelos Kranakis",
-        "department": "School of Computer Science",
         "url": "https://carleton.ca/scs/people/evangelos-kranakis/",
         "title": "Chancellor's Professor",
         "picture": "https://carleton.ca/scs/wp-content/uploads/kranakis-200x200.jpg",
@@ -377,7 +358,6 @@
     },
     {
         "name": "Wilf LaLonde",
-        "department": "School of Computer Science",
         "url": "https://carleton.ca/scs/people/wilf-lalonde/",
         "title": "Professor",
         "picture": "https://carleton.ca/scs/wp-content/uploads/wilf-200x200.jpg",
@@ -394,7 +374,6 @@
     },
     {
         "name": "Mark Lanthier",
-        "department": "School of Computer Science",
         "url": "https://carleton.ca/scs/people/mark-lanthier/",
         "title": "Assistant Professor & Associate Director Undergrad",
         "picture": "https://carleton.ca/scs/wp-content/uploads/lathier-200x200.jpg",
@@ -414,7 +393,6 @@
     },
     {
         "name": "Christine Laurendeau",
-        "department": "School of Computer Science",
         "url": "https://carleton.ca/scs/people/christine-laurendeau/",
         "title": " Instructor III and  Assoc. Director (Recruitment/Outreach)",
         "picture": "https://carleton.ca/scs/wp-content/uploads/laurendeau-200x200.jpg",
@@ -431,7 +409,6 @@
     },
     {
         "name": "Mengchi Liu",
-        "department": "School of Computer Science",
         "url": "https://carleton.ca/scs/people/mengchi-liu/",
         "title": "Professor",
         "picture": "https://carleton.ca/scs/wp-content/uploads/mengchi-200x200.jpg",
@@ -448,7 +425,6 @@
     },
     {
         "name": "Anil Maheshwari",
-        "department": "School of Computer Science",
         "url": "https://carleton.ca/scs/people/anil-maheshwari/",
         "title": "Professor",
         "picture": "https://carleton.ca/scs/wp-content/uploads/anil_maheshwari-200x200.jpg",
@@ -466,7 +442,6 @@
     },
     {
         "name": "Dave McKenney",
-        "department": "School of Computer Science",
         "url": "https://carleton.ca/scs/people/dave-mckenney/",
         "title": "Instructor II",
         "picture": "https://carleton.ca/scs/wp-content/uploads/dave_mckenney-200x200.jpg",
@@ -479,7 +454,6 @@
     },
     {
         "name": "Nadine Moacdieh",
-        "department": "School of Computer Science",
         "url": "https://carleton.ca/scs/people/nadine-moacdieh/",
         "title": "Assistant Professor",
         "picture": "https://carleton.ca/scs/wp-content/uploads/Nadine-Moacdieh-1200-200x200.jpg",
@@ -495,7 +469,6 @@
     },
     {
         "name": "Pat Morin",
-        "department": "School of Computer Science",
         "url": "https://carleton.ca/scs/people/pat-morin/",
         "title": "Professor",
         "picture": "https://carleton.ca/scs/wp-content/uploads/pat_morin-200x200.jpg",
@@ -515,7 +488,6 @@
     },
     {
         "name": "David Mould",
-        "department": "School of Computer Science",
         "url": "https://carleton.ca/scs/people/david-mould/",
         "title": "Professor",
         "picture": "https://carleton.ca/scs/wp-content/uploads/david_mould-200x200.jpg",
@@ -536,7 +508,6 @@
     },
     {
         "name": "Doron Nussbaum",
-        "department": "School of Computer Science",
         "url": "https://carleton.ca/scs/people/doron-nussbaum/",
         "title": "Associate Professor",
         "picture": "https://carleton.ca/scs/wp-content/uploads/doron_nussbaum-200x200.jpg",
@@ -553,7 +524,6 @@
     },
     {
         "name": "John Oommen",
-        "department": "School of Computer Science",
         "url": "https://carleton.ca/scs/people/john-oommen/",
         "title": "Chancellor's Professor",
         "picture": "https://carleton.ca/scs/wp-content/uploads/john_oommen-200x200.jpg",
@@ -574,7 +544,6 @@
     },
     {
         "name": "Andrew Runka",
-        "department": "School of Computer Science",
         "url": "https://carleton.ca/scs/people/andrew-runka/",
         "title": "Instructor II and Assistant Dean (Academic Integrity)",
         "picture": "https://carleton.ca/scs/wp-content/uploads/runka-200x200.jpg",
@@ -587,7 +556,6 @@
     },
     {
         "name": "Jörg-Rüdiger Sack",
-        "department": "School of Computer Science",
         "url": "https://carleton.ca/scs/people/jorg-rudiger-sack/",
         "title": "Chancellor's Professor",
         "picture": "https://carleton.ca/scs/wp-content/uploads/sack-200x200.jpg",
@@ -606,7 +574,6 @@
     },
     {
         "name": "Nicola Santoro",
-        "department": "School of Computer Science",
         "url": "https://carleton.ca/scs/people/nicola-santoro/",
         "title": "Distinguished Research Professor",
         "picture": "https://carleton.ca/scs/wp-content/uploads/santoro-200x200.jpg",
@@ -623,7 +590,6 @@
     },
     {
         "name": "Alina Shaikhet",
-        "department": "School of Computer Science",
         "url": "https://carleton.ca/scs/people/alina-shaikhet-2/",
         "title": "Instructor II",
         "picture": "https://carleton.ca/scs/wp-content/uploads/alina-1200-200x200.jpg",
@@ -638,7 +604,6 @@
     },
     {
         "name": "Alexa Sharp",
-        "department": "School of Computer Science",
         "url": "https://carleton.ca/scs/people/alexa-sharp/",
         "title": "Instructor II",
         "picture": "https://carleton.ca/scs/wp-content/uploads/alexa-sharp-960-200x200.jpg",
@@ -653,7 +618,6 @@
     },
     {
         "name": "Michiel Smid",
-        "department": "School of Computer Science",
         "url": "https://carleton.ca/scs/people/michiel-smid/",
         "title": "Professor",
         "picture": "https://carleton.ca/scs/wp-content/uploads/michiel_smid-200x200.jpg",
@@ -672,7 +636,6 @@
     },
     {
         "name": "Anil Somayaji",
-        "department": "School of Computer Science",
         "url": "https://carleton.ca/scs/people/anil-somayaji/",
         "title": "Associate Professor",
         "picture": "https://carleton.ca/scs/wp-content/uploads/anil_somayaji-200x200.jpg",
@@ -682,12 +645,12 @@
             "Website:": "http://people.scs.carleton.ca/~soma/"
         },
         "research": {
-            "Research Interests": "Computer Security, Operating Systems, Intrusion Detection, Complex Adaptive Systems, Artificial Life"
+            "Research Interests": "Computer Security, Operating Systems, Intrusion Detection, Complex Adaptive Systems, Artificial Life",
+            "Current Research": "\nShare: Twitter, Facebook\n\nShort URL:\nhttps://carleton.ca/scs/?p=654"
         }
     },
     {
         "name": "Elizabeth Stobert",
-        "department": "School of Computer Science",
         "url": "https://carleton.ca/scs/people/elizabeth-stobert/",
         "title": "Assistant Professor & HCI Program Co-Director",
         "picture": "https://carleton.ca/scs/wp-content/uploads/elizabeth-1-200x200.jpg",
@@ -699,12 +662,12 @@
         },
         "research": {
             "Research Interests": "Human-Computer Interaction and Computer Security",
-            "Specific Research Interests": "Dr. Stobert’s research interests are in usable security systems, applying research from cognitive science to improve the design of security systems. She is interested in usable authentication, usable security for healthcare, and security education."
+            "Specific Research Interests": "Dr. Stobert’s research interests are in usable security systems, applying research from cognitive science to improve the design of security systems. She is interested in usable authentication, usable security for healthcare, and security education.",
+            "": "\nShare: Twitter, Facebook\n\nShort URL:\nhttps://carleton.ca/scs/?p=4926"
         }
     },
     {
         "name": "Alan Tsang",
-        "department": "School of Computer Science",
         "url": "https://carleton.ca/scs/people/alan-tsang/",
         "title": "Assistant Professor",
         "picture": "https://carleton.ca/scs/wp-content/uploads/alan-tsang-800-200x200.jpg",
@@ -720,7 +683,6 @@
     },
     {
         "name": "Oliver Van Kaick",
-        "department": "School of Computer Science",
         "url": "https://carleton.ca/scs/people/oliver-van-kaick/",
         "title": "Associate Professor",
         "picture": "https://carleton.ca/scs/wp-content/uploads/oliver-200x200.jpg",
@@ -741,7 +703,6 @@
     },
     {
         "name": "Paul Van Oorschot",
-        "department": "School of Computer Science",
         "url": "https://carleton.ca/scs/people/paul-van-oorschot/",
         "title": "Professor & Canada Research Chair",
         "picture": "https://carleton.ca/scs/wp-content/uploads/paulv-200x200.jpg",
@@ -764,7 +725,6 @@
     },
     {
         "name": "Junfeng Wen",
-        "department": "School of Computer Science",
         "url": "https://carleton.ca/scs/people/junfeng-wen/",
         "title": "Assistant Professor",
         "picture": "https://carleton.ca/scs/wp-content/uploads/junjeng1200-200x200.jpg",
@@ -780,7 +740,6 @@
     },
     {
         "name": "Lianying Zhao",
-        "department": "School of Computer Science",
         "url": "https://carleton.ca/scs/people/lianying-zhao/",
         "title": "Assistant Professor",
         "picture": "https://carleton.ca/scs/wp-content/uploads/lianying-200x200.jpg",

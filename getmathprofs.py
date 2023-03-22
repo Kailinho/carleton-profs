@@ -58,6 +58,8 @@ def get_person_info(url: str) -> {}:
 
 
     result.update({"name": person_detail.select_one('h2').text})
+    result.update({"department":"School of Mathematics and Statistics"})
+    result.update({"url": url})
     result.update({"title": person_detail.select_one('p').text})
     picture = person_picture.select_one('img')['src'] if person_picture else""
     result.update({"picture": picture})

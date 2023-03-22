@@ -1,6 +1,8 @@
 [
     {
         "name": "Saban Alaca",
+        "department": "School of Mathematics and Statistics",
+        "url": "https://carleton.ca/math/people/saban-alaca/",
         "title": "Professor ",
         "picture": "https://carleton.ca/math/wp-content/uploads/Saban-Alaca1.jpg",
         "contacts": {
@@ -15,6 +17,8 @@
     },
     {
         "name": "Ayse Alaca",
+        "department": "School of Mathematics and Statistics",
+        "url": "https://carleton.ca/math/people/ayse-alaca/",
         "title": "Associate Professor ",
         "picture": "https://carleton.ca/math/wp-content/uploads/Ayse-Alaca.jpg",
         "contacts": {
@@ -29,6 +33,8 @@
     },
     {
         "name": "Ahmed  Almaskut ",
+        "department": "School of Mathematics and Statistics",
+        "url": "https://carleton.ca/math/people/ahmed-almaskut/",
         "title": "Instructor",
         "picture": "",
         "contacts": {
@@ -40,6 +46,8 @@
     },
     {
         "name": "Dave Amundsen",
+        "department": "School of Mathematics and Statistics",
+        "url": "https://carleton.ca/math/people/dave-amundsen/",
         "title": "Associate Professor",
         "picture": "https://carleton.ca/math/wp-content/uploads/Dave-Amundsen.jpg",
         "contacts": {
@@ -54,6 +62,8 @@
     },
     {
         "name": "Yuly Billig",
+        "department": "School of Mathematics and Statistics",
+        "url": "https://carleton.ca/math/people/yuly-billig/",
         "title": "Professor ",
         "picture": "https://carleton.ca/math/wp-content/uploads/Yuly-Billig.jpg",
         "contacts": {
@@ -68,6 +78,8 @@
     },
     {
         "name": "Inna Bumagin",
+        "department": "School of Mathematics and Statistics",
+        "url": "https://carleton.ca/math/people/inna-bumagin/",
         "title": "Associate Professor",
         "picture": "https://carleton.ca/math/wp-content/uploads/Inna-Bumagin.jpg",
         "contacts": {
@@ -82,6 +94,8 @@
     },
     {
         "name": "Song Cai",
+        "department": "School of Mathematics and Statistics",
+        "url": "https://carleton.ca/math/people/song-cai/",
         "title": "Associate Professor",
         "picture": "https://carleton.ca/math/wp-content/uploads/P1000878-200x200.jpg",
         "contacts": {
@@ -91,12 +105,13 @@
             "Website:": "http://people.math.carleton.ca/~scai"
         },
         "research": {
-            "Research Interests:": "Empirical Likelihood, Asymptotic Theory, Density Ratio Model, Spatio-temporal Modeling, Non- and Semi-parametric Inference, Statistical Computing",
-            "": "Research Interests: Empirical Likelihood, Asymptotic Theory, Density Ratio Model, Spatio-temporal Modeling, Non- and Semi-parametric Inference, Statistical Computing"
+            "Research Interests:": "Empirical Likelihood, Asymptotic Theory, Density Ratio Model, Spatio-temporal Modeling, Non- and Semi-parametric Inference, Statistical Computing"
         }
     },
     {
         "name": "Lucy Campbell",
+        "department": "School of Mathematics and Statistics",
+        "url": "https://carleton.ca/math/people/lucy-campbell/",
         "title": "Associate Professor",
         "picture": "https://carleton.ca/math/wp-content/uploads/Lucy-Campbell.jpg",
         "contacts": {
@@ -111,6 +126,8 @@
     },
     {
         "name": "Dave Campbell",
+        "department": "School of Mathematics and Statistics",
+        "url": "https://carleton.ca/math/people/dave-campbell/",
         "title": "Professor",
         "picture": "",
         "contacts": {
@@ -121,6 +138,8 @@
     },
     {
         "name": "Kevin Cheung",
+        "department": "School of Mathematics and Statistics",
+        "url": "https://carleton.ca/math/people/kevin-cheung/",
         "title": "Associate Professor ",
         "picture": "https://carleton.ca/math/wp-content/uploads/Kevin-Cheung.jpg",
         "contacts": {
@@ -135,6 +154,8 @@
     },
     {
         "name": "Jason Crann",
+        "department": "School of Mathematics and Statistics",
+        "url": "https://carleton.ca/math/people/sites-google-com-site-jaycrannmath/",
         "title": "Associate Professor",
         "picture": "https://carleton.ca/math/wp-content/uploads/default_blank_person.png",
         "contacts": {
@@ -149,6 +170,8 @@
     },
     {
         "name": "Sanjeena Dang",
+        "department": "School of Mathematics and Statistics",
+        "url": "https://carleton.ca/math/people/sanjeena-dang/",
         "title": "Associate Professor & CRC in Data Science & Analytics",
         "picture": "https://carleton.ca/math/wp-content/uploads/Sanjeena-Dang-e1625861642864-200x200.jpg",
         "contacts": {
@@ -164,6 +187,8 @@
     },
     {
         "name": "Utkarsh Dang",
+        "department": "School of Mathematics and Statistics",
+        "url": "https://carleton.ca/math/people/utkarsh-dang/",
         "title": "Assistant Professor (Cross Appointment - Health Sciences)",
         "picture": "https://carleton.ca/math/wp-content/uploads/Utkarsh-Dang-200x200.jpg",
         "contacts": {
@@ -179,6 +204,8 @@
     },
     {
         "name": "Elena Devdariani",
+        "department": "School of Mathematics and Statistics",
+        "url": "https://carleton.ca/math/people/elena-devdariani/",
         "title": "Instructor",
         "picture": "",
         "contacts": {
@@ -188,11 +215,13 @@
             "Website:": "http://people.math.carleton.ca/~elenad/"
         },
         "research": {
-            "Research Interests:": "Optimization and Optimal Control, Nonlinear Systems with State-Control Constraints, Feedback Control for Nonlinear Systems.\n\n\nShare: Twitter, Facebook\n\nShort URL:\nhttps://carleton.ca/math/?p=1273"
+            "Research Interests:": "Optimization and Optimal Control, Nonlinear Systems with State-Control Constraints, Feedback Control for Nonlinear Systems."
         }
     },
     {
         "name": "Patrick Farrell",
+        "department": "School of Mathematics and Statistics",
+        "url": "https://carleton.ca/math/people/patrick-farrell/",
         "title": "Professor",
         "picture": "https://carleton.ca/math/wp-content/uploads/Pat-Farrell.jpg",
         "contacts": {
@@ -206,6 +235,8 @@
     },
     {
         "name": "Brandon Fodden",
+        "department": "School of Mathematics and Statistics",
+        "url": "https://carleton.ca/math/people/brandon-fodden/",
         "title": "Instructor",
         "picture": "https://carleton.ca/math/wp-content/uploads/default_blank_person.png",
         "contacts": {
@@ -218,6 +249,8 @@
     },
     {
         "name": "Jason (Zhicheng) Gao",
+        "department": "School of Mathematics and Statistics",
+        "url": "https://carleton.ca/math/people/jason-gao/",
         "title": "Professor",
         "picture": "https://carleton.ca/math/wp-content/uploads/Jason-Gao-200x200.jpg",
         "contacts": {
@@ -232,6 +265,8 @@
     },
     {
         "name": "Root Gorelick",
+        "department": "School of Mathematics and Statistics",
+        "url": "https://carleton.ca/math/people/root-gorelick/",
         "title": "Professor (Cross Appointment - Biology)",
         "picture": "https://carleton.ca/math/wp-content/uploads/default_blank_person.png",
         "contacts": {
@@ -244,6 +279,8 @@
     },
     {
         "name": "Wayne Horn",
+        "department": "School of Mathematics and Statistics",
+        "url": "https://carleton.ca/math/people/wayne-horn/",
         "title": "Instructor",
         "picture": "https://carleton.ca/math/wp-content/uploads/Wayne-Horn.jpg",
         "contacts": {
@@ -258,6 +295,8 @@
     },
     {
         "name": "Minyi Huang",
+        "department": "School of Mathematics and Statistics",
+        "url": "https://carleton.ca/math/people/minyi-huang/",
         "title": "Professor",
         "picture": "https://carleton.ca/math/wp-content/uploads/Minyi-Huang-1-200x200.jpg",
         "contacts": {
@@ -272,6 +311,8 @@
     },
     {
         "name": "Colin Ingalls",
+        "department": "School of Mathematics and Statistics",
+        "url": "https://carleton.ca/math/people/colin-ingalls/",
         "title": "Full Professor",
         "picture": "https://carleton.ca/math/wp-content/uploads/Coliningalls2.jpg",
         "contacts": {
@@ -286,6 +327,8 @@
     },
     {
         "name": "Wojciech Jaworski",
+        "department": "School of Mathematics and Statistics",
+        "url": "https://carleton.ca/math/people/wojciech-jaworski/",
         "title": "Associate Professor",
         "picture": "https://carleton.ca/math/wp-content/uploads/Wojciech-Jaworski.jpg",
         "contacts": {
@@ -300,6 +343,8 @@
     },
     {
         "name": "Emmanuel Lorin",
+        "department": "School of Mathematics and Statistics",
+        "url": "https://carleton.ca/math/people/emmanuel-lorin/",
         "title": "Professor",
         "picture": "https://carleton.ca/math/wp-content/uploads/Emmanuel-Lorin.jpg",
         "contacts": {
@@ -314,6 +359,8 @@
     },
     {
         "name": "Sam Melkonian",
+        "department": "School of Mathematics and Statistics",
+        "url": "https://carleton.ca/math/people/sam-melkonian/",
         "title": "Associate Professor",
         "picture": "https://carleton.ca/math/wp-content/uploads/default_blank_person.png",
         "contacts": {
@@ -328,6 +375,8 @@
     },
     {
         "name": "Paul Mezo",
+        "department": "School of Mathematics and Statistics",
+        "url": "https://carleton.ca/math/people/paul-mezo/",
         "title": "Professor",
         "picture": "https://carleton.ca/math/wp-content/uploads/Paul-Mezo.jpg",
         "contacts": {
@@ -342,6 +391,8 @@
     },
     {
         "name": "Shirley E. Mills",
+        "department": "School of Mathematics and Statistics",
+        "url": "https://carleton.ca/math/people/shirley-mills/",
         "title": "Associate Professor",
         "picture": "https://carleton.ca/math/wp-content/uploads/Shirley-Mills.jpg",
         "contacts": {
@@ -356,6 +407,8 @@
     },
     {
         "name": "Angelo Mingarelli",
+        "department": "School of Mathematics and Statistics",
+        "url": "https://carleton.ca/math/people/angelo-mingarelli/",
         "title": "Professor",
         "picture": "https://carleton.ca/math/wp-content/uploads/Angelo-Mingarelli.jpg",
         "contacts": {
@@ -370,6 +423,8 @@
     },
     {
         "name": "Abbas Momeni",
+        "department": "School of Mathematics and Statistics",
+        "url": "https://carleton.ca/math/people/abbas-momeni/",
         "title": "Associate Professor",
         "picture": "https://carleton.ca/math/wp-content/uploads/Abbas-Momeni-200x200.jpg",
         "contacts": {
@@ -384,6 +439,8 @@
     },
     {
         "name": "Matthias Neufang",
+        "department": "School of Mathematics and Statistics",
+        "url": "https://carleton.ca/math/people/matthias-neufang/",
         "title": "Professor",
         "picture": "https://carleton.ca/math/wp-content/uploads/mattias_neufang_cropped-200x200.jpg",
         "contacts": {
@@ -396,6 +453,8 @@
     },
     {
         "name": "Jason Nielsen",
+        "department": "School of Mathematics and Statistics",
+        "url": "https://carleton.ca/math/people/jason-nielsen/",
         "title": "Associate Professor",
         "picture": "https://carleton.ca/math/wp-content/uploads/Jason-Neilson.jpg",
         "contacts": {
@@ -410,6 +469,8 @@
     },
     {
         "name": "Mohamedou Ould Haye",
+        "department": "School of Mathematics and Statistics",
+        "url": "https://carleton.ca/math/people/mohamedou-ould-haye/",
         "title": "Associate Professor ",
         "picture": "https://carleton.ca/math/wp-content/uploads/Mohamedou-Ould-Haye.jpg",
         "contacts": {
@@ -424,6 +485,8 @@
     },
     {
         "name": "Daniel Panario",
+        "department": "School of Mathematics and Statistics",
+        "url": "https://carleton.ca/math/people/daniel-panario/",
         "title": "Professor",
         "picture": "https://carleton.ca/math/wp-content/uploads/Daniel-Panario.jpg",
         "contacts": {
@@ -438,6 +501,8 @@
     },
     {
         "name": "Nicolas Rodrigue",
+        "department": "School of Mathematics and Statistics",
+        "url": "https://carleton.ca/math/people/nicolas-rodrigue/",
         "title": "Associate Professor, Department of Biology (Cross appointment – Biology)",
         "picture": "https://carleton.ca/math/wp-content/uploads/Rodrigue-143x143.jpg",
         "contacts": {
@@ -451,6 +516,8 @@
     },
     {
         "name": "Gennady Shaikhet",
+        "department": "School of Mathematics and Statistics",
+        "url": "https://carleton.ca/math/people/gennady-shaikhet/",
         "title": "Associate Professor",
         "picture": "https://carleton.ca/math/wp-content/uploads/Gennady-Shaikhet.jpg",
         "contacts": {
@@ -465,6 +532,8 @@
     },
     {
         "name": "Sanjoy Sinha",
+        "department": "School of Mathematics and Statistics",
+        "url": "https://carleton.ca/math/people/sanjoy-k-sinha/",
         "title": "Professor",
         "picture": "https://carleton.ca/math/wp-content/uploads/Sanjoy-Sinha.jpg",
         "contacts": {
@@ -474,11 +543,13 @@
             "Website:": "http://people.math.carleton.ca/~sinha/"
         },
         "research": {
-            "Research Interests:": "Biostatistics, Longitudinal Data Analysis, Missing Data Analysis, Mixed Models and Robust Inference.\n\nShare: Twitter, Facebook\n\nShort URL:\nhttps://carleton.ca/math/?p=1292"
+            "Research Interests:": "Biostatistics, Longitudinal Data Analysis, Missing Data Analysis, Mixed Models and Robust Inference."
         }
     },
     {
         "name": "Charles Starling",
+        "department": "School of Mathematics and Statistics",
+        "url": "https://carleton.ca/math/people/charles-starling/",
         "title": "Assistant Professor",
         "picture": "",
         "contacts": {
@@ -494,6 +565,8 @@
     },
     {
         "name": "Natalia Stepanova",
+        "department": "School of Mathematics and Statistics",
+        "url": "https://carleton.ca/math/people/natalia-stepanova/",
         "title": "Professor",
         "picture": "https://carleton.ca/math/wp-content/uploads/Natalia-Stepanova.jpg",
         "contacts": {
@@ -509,6 +582,8 @@
     },
     {
         "name": "Brett Stevens",
+        "department": "School of Mathematics and Statistics",
+        "url": "https://carleton.ca/math/people/brett-stevens/",
         "title": "Professor",
         "picture": "https://carleton.ca/math/wp-content/uploads/Brett-Stevens1.jpg",
         "contacts": {
@@ -523,6 +598,8 @@
     },
     {
         "name": "Barbara Szyskowicz",
+        "department": "School of Mathematics and Statistics",
+        "url": "https://carleton.ca/math/people/barbara-szyskowicz/",
         "title": "Professor",
         "picture": "https://carleton.ca/math/wp-content/uploads/Barbara-Szyszkowicz-200x200.jpg",
         "contacts": {
@@ -536,6 +613,8 @@
     },
     {
         "name": "Paul Villeneuve",
+        "department": "School of Mathematics and Statistics",
+        "url": "https://carleton.ca/math/people/paul-villeneuve/",
         "title": "Professor (Cross appointment - Health Sciences)",
         "picture": "https://carleton.ca/math/wp-content/uploads/paulv-200x200.jpg",
         "contacts": {
@@ -550,6 +629,8 @@
     },
     {
         "name": "Steven (Qiang) Wang",
+        "department": "School of Mathematics and Statistics",
+        "url": "https://carleton.ca/math/people/steven-wang/",
         "title": "Professor",
         "picture": "https://carleton.ca/math/wp-content/uploads/Steven-Wang.jpg",
         "contacts": {
@@ -564,6 +645,8 @@
     },
     {
         "name": "Yunran Wei",
+        "department": "School of Mathematics and Statistics",
+        "url": "https://carleton.ca/math/people/yunran-wei/",
         "title": "Assistant Professor",
         "picture": "https://carleton.ca/math/wp-content/uploads/Yunran-Wei-1-200x200.jpg",
         "contacts": {
@@ -579,6 +662,8 @@
     },
     {
         "name": "Yiqiang Zhao",
+        "department": "School of Mathematics and Statistics",
+        "url": "https://carleton.ca/math/people/yiqiang-zhao/",
         "title": "Professor",
         "picture": "https://carleton.ca/math/wp-content/uploads/Yiqiang-Zhao.jpg",
         "contacts": {
