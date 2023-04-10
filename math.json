@@ -13,7 +13,8 @@
         },
         "research": {
             "Research Interests:": "Number Theory."
-        }
+        },
+        "research_data": "Research Interests: Number Theory."
     },
     {
         "name": "Ayse Alaca",
@@ -29,7 +30,8 @@
         },
         "research": {
             "Research Interests:": "Number Theory and Analysis."
-        }
+        },
+        "research_data": "Research Interests: Number Theory and Analysis."
     },
     {
         "name": "Ahmed  Almaskut ",
@@ -42,7 +44,8 @@
             "Email:": "mailto:aalmasku@math.carleton.ca",
             "Office:": "4348 Herzberg Laboratories"
         },
-        "research": {}
+        "research": {},
+        "research_data": ""
     },
     {
         "name": "Dave Amundsen",
@@ -58,7 +61,8 @@
         },
         "research": {
             "Research Interests:": "Nonlinear Partial Differential Equations, Wave Phenomena, Pattern Formation, Fluid Mechanics, Nonlinear Optics, Mathematical Biology, Mathematical Modelling, Numerical Analysis."
-        }
+        },
+        "research_data": "Research Interests: Nonlinear Partial Differential Equations, Wave Phenomena, Pattern Formation, Fluid Mechanics, Nonlinear Optics, Mathematical Biology, Mathematical Modelling, Numerical Analysis."
     },
     {
         "name": "Yuly Billig",
@@ -74,7 +78,8 @@
         },
         "research": {
             "Research Interests": "Representation theory of infinite-dimensional Lie algebras, Vertex algebras, Applications to soliton\nnon-linear PDEs."
-        }
+        },
+        "research_data": "Research Interests Representation theory of infinite-dimensional Lie algebras, Vertex algebras, Applications to soliton\nnon-linear PDEs."
     },
     {
         "name": "Inna Bumagin",
@@ -90,7 +95,8 @@
         },
         "research": {
             "Research Interests:": "Geometric Group Theory."
-        }
+        },
+        "research_data": "Research Interests: Geometric Group Theory."
     },
     {
         "name": "Song Cai",
@@ -105,8 +111,10 @@
             "Website:": "http://people.math.carleton.ca/~scai"
         },
         "research": {
-            "Research Interests:": "Empirical Likelihood, Asymptotic Theory, Density Ratio Model, Spatio-temporal Modeling, Non- and Semi-parametric Inference, Statistical Computing"
-        }
+            "Research Interests:": "Empirical Likelihood, Asymptotic Theory, Density Ratio Model, Spatio-temporal Modeling, Non- and Semi-parametric Inference, Statistical Computing",
+            "": "Research Interests: Empirical Likelihood, Asymptotic Theory, Density Ratio Model, Spatio-temporal Modeling, Non- and Semi-parametric Inference, Statistical Computing"
+        },
+        "research_data": "Research Interests: Empirical Likelihood, Asymptotic Theory, Density Ratio Model, Spatio-temporal Modeling, Non- and Semi-parametric Inference, Statistical Computing Research Interests: Empirical Likelihood, Asymptotic Theory, Density Ratio Model, Spatio-temporal Modeling, Non- and Semi-parametric Inference, Statistical Computing"
     },
     {
         "name": "Lucy Campbell",
@@ -122,7 +130,8 @@
         },
         "research": {
             "Research Interests:": "Fluid Dynamics, Applied Partial Differential Equations, Numerical Analysis."
-        }
+        },
+        "research_data": "Research Interests: Fluid Dynamics, Applied Partial Differential Equations, Numerical Analysis."
     },
     {
         "name": "Dave Campbell",
@@ -134,7 +143,8 @@
             "Phone:": "tel:613-520-2600",
             "Email:": "mailto:davecampbell@math.carleton.ca"
         },
-        "research": {}
+        "research": {},
+        "research_data": ""
     },
     {
         "name": "Kevin Cheung",
@@ -150,7 +160,8 @@
         },
         "research": {
             "Research Interests:": "Combinatorial Optimization, Integer and Logic Programming, Mathematical Programming Computation."
-        }
+        },
+        "research_data": "Research Interests: Combinatorial Optimization, Integer and Logic Programming, Mathematical Programming Computation."
     },
     {
         "name": "Jason Crann",
@@ -166,7 +177,8 @@
         },
         "research": {
             "Research Interests": "Harmonic analysis on locally compact quantum groups\nOperator modules and homology\nQuantum information theory"
-        }
+        },
+        "research_data": "Research Interests Harmonic analysis on locally compact quantum groups\nOperator modules and homology\nQuantum information theory"
     },
     {
         "name": "Sanjeena Dang",
@@ -183,7 +195,8 @@
         },
         "research": {
             "Research Interests:": "Sanjeena’s current research focuses on clustering and classification of high dimensional data with applications in bioinformatics. Her key areas of research are: Computational Statistics, Biostatistics, Bioinformatics, Machine Learning, High dimensional data, Mixture Models, and Variational Approximations."
-        }
+        },
+        "research_data": "Research Interests: Sanjeena’s current research focuses on clustering and classification of high dimensional data with applications in bioinformatics. Her key areas of research are: Computational Statistics, Biostatistics, Bioinformatics, Machine Learning, High dimensional data, Mixture Models, and Variational Approximations."
     },
     {
         "name": "Utkarsh Dang",
@@ -200,7 +213,8 @@
         "research": {
             "Primary field of Specialization:": "Biostatistics and bioinformatics",
             "Research Interests:": "Utkarsh is a statistician and data scientist who works in health outcomes and precision medicine, clinical trials, biomarkers, and statistical learning. Utkarsh’s work in health outcomes is on biomarkers and understanding phenotypic and treatment response variability. His work in clustering involves developing novel mixture models with applications in model-based clustering and classification while his work in phylogenetics involves developing novel algorithms with applications in bioinformatics."
-        }
+        },
+        "research_data": "Primary field of Specialization: Biostatistics and bioinformaticsResearch Interests: Utkarsh is a statistician and data scientist who works in health outcomes and precision medicine, clinical trials, biomarkers, and statistical learning. Utkarsh’s work in health outcomes is on biomarkers and understanding phenotypic and treatment response variability. His work in clustering involves developing novel mixture models with applications in model-based clustering and classification while his work in phylogenetics involves developing novel algorithms with applications in bioinformatics."
     },
     {
         "name": "Elena Devdariani",
@@ -215,8 +229,9 @@
             "Website:": "http://people.math.carleton.ca/~elenad/"
         },
         "research": {
-            "Research Interests:": "Optimization and Optimal Control, Nonlinear Systems with State-Control Constraints, Feedback Control for Nonlinear Systems."
-        }
+            "Research Interests:": "Optimization and Optimal Control, Nonlinear Systems with State-Control Constraints, Feedback Control for Nonlinear Systems.\n\n\nShare: Twitter, Facebook\n\nShort URL:\nhttps://carleton.ca/math/?p=1273"
+        },
+        "research_data": "Research Interests: Optimization and Optimal Control, Nonlinear Systems with State-Control Constraints, Feedback Control for Nonlinear Systems.\n\n\nShare: Twitter, Facebook\n\nShort URL:\nhttps://carleton.ca/math/?p=1273"
     },
     {
         "name": "Patrick Farrell",
@@ -231,7 +246,8 @@
         },
         "research": {
             "Research Interests:": "Categorical Data Analysis, Biostatistics, Sampling, Applied Statistics."
-        }
+        },
+        "research_data": "Research Interests: Categorical Data Analysis, Biostatistics, Sampling, Applied Statistics."
     },
     {
         "name": "Brandon Fodden",
@@ -245,7 +261,8 @@
             "Office:": "4356HP",
             "Website:": "http://people.math.carleton.ca/~bfodden"
         },
-        "research": {}
+        "research": {},
+        "research_data": ""
     },
     {
         "name": "Jason (Zhicheng) Gao",
@@ -261,7 +278,8 @@
         },
         "research": {
             "Research Interests:": "Combinatorial Enumerations, Graph Theory, and Mathematics of Gambling and Gaming."
-        }
+        },
+        "research_data": "Research Interests: Combinatorial Enumerations, Graph Theory, and Mathematics of Gambling and Gaming."
     },
     {
         "name": "Root Gorelick",
@@ -275,7 +293,8 @@
             "Office:": "4625 CTTC",
             "Website:": "http://rootgorelick.com/"
         },
-        "research": {}
+        "research": {},
+        "research_data": ""
     },
     {
         "name": "Wayne Horn",
@@ -291,7 +310,8 @@
         },
         "research": {
             "Research Interests:": "Queueing Theory, Stochastic Processes, Games of Chance."
-        }
+        },
+        "research_data": "Research Interests: Queueing Theory, Stochastic Processes, Games of Chance."
     },
     {
         "name": "Minyi Huang",
@@ -307,7 +327,8 @@
         },
         "research": {
             "Research Interests:": "Mean Field Stochastic Control, Stochastic Algorithms in Multi-Agent Systems, Wireless Networks"
-        }
+        },
+        "research_data": "Research Interests: Mean Field Stochastic Control, Stochastic Algorithms in Multi-Agent Systems, Wireless Networks"
     },
     {
         "name": "Colin Ingalls",
@@ -323,7 +344,8 @@
         },
         "research": {
             "Research Interests:": "Noncommutative Algebra, Algebraic Geometry"
-        }
+        },
+        "research_data": "Research Interests: Noncommutative Algebra, Algebraic Geometry"
     },
     {
         "name": "Wojciech Jaworski",
@@ -339,7 +361,8 @@
         },
         "research": {
             "Research Interests:": "Probability Measures on Topological Groups, and Related Problems in Functional and Harmonic Analysis, Ergodic Theory, and the Theory of Topological Groups."
-        }
+        },
+        "research_data": "Research Interests: Probability Measures on Topological Groups, and Related Problems in Functional and Harmonic Analysis, Ergodic Theory, and the Theory of Topological Groups."
     },
     {
         "name": "Emmanuel Lorin",
@@ -355,7 +378,8 @@
         },
         "research": {
             "Research Interests:": "Partial Differential Equations, Numerical Analysis, Mathematical Modeling."
-        }
+        },
+        "research_data": "Research Interests: Partial Differential Equations, Numerical Analysis, Mathematical Modeling."
     },
     {
         "name": "Sam Melkonian",
@@ -371,7 +395,8 @@
         },
         "research": {
             "Research Interests:": "Nonlinear Differential Equations."
-        }
+        },
+        "research_data": "Research Interests: Nonlinear Differential Equations."
     },
     {
         "name": "Paul Mezo",
@@ -387,7 +412,8 @@
         },
         "research": {
             "Research Interests:": "Representations of Algebraic and Metaplectic Groups, Langlands Program, Trace Formula Comparisons, Endoscopy."
-        }
+        },
+        "research_data": "Research Interests: Representations of Algebraic and Metaplectic Groups, Langlands Program, Trace Formula Comparisons, Endoscopy."
     },
     {
         "name": "Shirley E. Mills",
@@ -403,7 +429,8 @@
         },
         "research": {
             "Research Interests": "Data Mining, Applied Statistics."
-        }
+        },
+        "research_data": "Research Interests Data Mining, Applied Statistics."
     },
     {
         "name": "Angelo Mingarelli",
@@ -419,7 +446,8 @@
         },
         "research": {
             "Research Interests:": "Celestial Mechanics, Spectral Theory of Differential Operators, Fuzzy Cellular Automata, Irrationality Questions in Number Theory."
-        }
+        },
+        "research_data": "Research Interests: Celestial Mechanics, Spectral Theory of Differential Operators, Fuzzy Cellular Automata, Irrationality Questions in Number Theory."
     },
     {
         "name": "Abbas Momeni",
@@ -435,7 +463,8 @@
         },
         "research": {
             "Research Interests:": "Partial Differential Equations, Nonlinear Analysis and Optimal Mass Transportation."
-        }
+        },
+        "research_data": "Research Interests: Partial Differential Equations, Nonlinear Analysis and Optimal Mass Transportation."
     },
     {
         "name": "Matthias Neufang",
@@ -449,7 +478,8 @@
             "Office:": "4332 HP",
             "Website:": "http://people.math.carleton.ca/~mneufang/"
         },
-        "research": {}
+        "research": {},
+        "research_data": ""
     },
     {
         "name": "Jason Nielsen",
@@ -465,7 +495,8 @@
         },
         "research": {
             "Research Interests:": "Functional Data Analysis, Longitudinal Data Analysis, Mixture Models, Computational Statistics/Numerical Analysis."
-        }
+        },
+        "research_data": "Research Interests: Functional Data Analysis, Longitudinal Data Analysis, Mixture Models, Computational Statistics/Numerical Analysis."
     },
     {
         "name": "Mohamedou Ould Haye",
@@ -481,7 +512,8 @@
         },
         "research": {
             "Research Interests:": "Stochastic Processes, Time Series Analysis, Limit Theorems, Estimation, Long memory, Forecasting, Dependence."
-        }
+        },
+        "research_data": "Research Interests: Stochastic Processes, Time Series Analysis, Limit Theorems, Estimation, Long memory, Forecasting, Dependence."
     },
     {
         "name": "Daniel Panario",
@@ -497,7 +529,8 @@
         },
         "research": {
             "Research Interests:": "Finite Fields and Their Applications; Combinatorics; Analysis of Algorithms."
-        }
+        },
+        "research_data": "Research Interests: Finite Fields and Their Applications; Combinatorics; Analysis of Algorithms."
     },
     {
         "name": "Nicolas Rodrigue",
@@ -512,7 +545,8 @@
             "Office:": "4610 CTTC",
             "Website:": "http://mypage.science.carleton.ca/~nr/"
         },
-        "research": {}
+        "research": {},
+        "research_data": ""
     },
     {
         "name": "Gennady Shaikhet",
@@ -528,7 +562,8 @@
         },
         "research": {
             "Research Interests:": "Stochastic Processes and Applications, Approximations and Control of Large Scale Service Systems, Queueing Networks, Financial Engineering."
-        }
+        },
+        "research_data": "Research Interests: Stochastic Processes and Applications, Approximations and Control of Large Scale Service Systems, Queueing Networks, Financial Engineering."
     },
     {
         "name": "Sanjoy Sinha",
@@ -543,8 +578,9 @@
             "Website:": "http://people.math.carleton.ca/~sinha/"
         },
         "research": {
-            "Research Interests:": "Biostatistics, Longitudinal Data Analysis, Missing Data Analysis, Mixed Models and Robust Inference."
-        }
+            "Research Interests:": "Biostatistics, Longitudinal Data Analysis, Missing Data Analysis, Mixed Models and Robust Inference.\n\nShare: Twitter, Facebook\n\nShort URL:\nhttps://carleton.ca/math/?p=1292"
+        },
+        "research_data": "Research Interests: Biostatistics, Longitudinal Data Analysis, Missing Data Analysis, Mixed Models and Robust Inference.\n\nShare: Twitter, Facebook\n\nShort URL:\nhttps://carleton.ca/math/?p=1292"
     },
     {
         "name": "Charles Starling",
@@ -561,7 +597,8 @@
         },
         "research": {
             "Research Interests": ":"
-        }
+        },
+        "research_data": "Research Interests :"
     },
     {
         "name": "Natalia Stepanova",
@@ -578,7 +615,8 @@
         "research": {
             "Research Interests:": "High-Dimensional Statistical Inference, Nonparametric Estimation, Nonparametric Hypothesis Testing.",
             ",": "Research Interests:\nHigh-Dimensional Statistical Inference Nonparametric Estimation Nonparametric Hypothesis Testing."
-        }
+        },
+        "research_data": "Research Interests: High-Dimensional Statistical Inference, Nonparametric Estimation, Nonparametric Hypothesis Testing., Research Interests:\nHigh-Dimensional Statistical Inference Nonparametric Estimation Nonparametric Hypothesis Testing."
     },
     {
         "name": "Brett Stevens",
@@ -594,7 +632,8 @@
         },
         "research": {
             "Research Interests:": "Design Theory, Gray Codes, De Bruijn Sequences and Universal Cycles, Combinatorial Game Theory, Graph Theory, Mathematical Biology, Philosophy of Mathematics."
-        }
+        },
+        "research_data": "Research Interests: Design Theory, Gray Codes, De Bruijn Sequences and Universal Cycles, Combinatorial Game Theory, Graph Theory, Mathematical Biology, Philosophy of Mathematics."
     },
     {
         "name": "Barbara Szyskowicz",
@@ -609,7 +648,8 @@
         },
         "research": {
             "Research Interests:": "Probability Theory and Mathematical Statistics,  Strong and Weak Approximations of Stochastic Processes,  Weighted Metrics,  LimitTheorems,  Change-point Analysis,  Nonparametric Methods."
-        }
+        },
+        "research_data": "Research Interests: Probability Theory and Mathematical Statistics,  Strong and Weak Approximations of Stochastic Processes,  Weighted Metrics,  LimitTheorems,  Change-point Analysis,  Nonparametric Methods."
     },
     {
         "name": "Paul Villeneuve",
@@ -625,7 +665,8 @@
         },
         "research": {
             "Research Interests:": "Epidemiology, Environmental and Occupational Health, Longitudinal Studies,\nCase-control studies and record linkage."
-        }
+        },
+        "research_data": "Research Interests: Epidemiology, Environmental and Occupational Health, Longitudinal Studies,\nCase-control studies and record linkage."
     },
     {
         "name": "Steven (Qiang) Wang",
@@ -641,7 +682,8 @@
         },
         "research": {
             "Research Interests:": "Finite Fields and Applications in Cryptography and Coding Theory, Combinatorics, Algebra and Number Theory."
-        }
+        },
+        "research_data": "Research Interests: Finite Fields and Applications in Cryptography and Coding Theory, Combinatorics, Algebra and Number Theory."
     },
     {
         "name": "Yunran Wei",
@@ -658,7 +700,8 @@
         },
         "research": {
             "Research Interests:": "Include but are not limited to: Quantitative Risk Management, Actuarial science, Decision Theory, Mathematical Finance, Operations Research and FinTech/InsurTech."
-        }
+        },
+        "research_data": "Research Interests: Include but are not limited to: Quantitative Risk Management, Actuarial science, Decision Theory, Mathematical Finance, Operations Research and FinTech/InsurTech."
     },
     {
         "name": "Yiqiang Zhao",
@@ -674,6 +717,7 @@
         },
         "research": {
             "Research Interests": ":\nApplied Probability, Queueing Theory and Queueing Networks, Stochastic Modelling and Performance Analysis for Wireless and Computer Networks, Credit Risk Modelling, Derivative Markets and Pricing."
-        }
+        },
+        "research_data": "Research Interests :\nApplied Probability, Queueing Theory and Queueing Networks, Stochastic Modelling and Performance Analysis for Wireless and Computer Networks, Credit Risk Modelling, Derivative Markets and Pricing."
     }
 ]

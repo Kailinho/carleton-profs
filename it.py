@@ -72,6 +72,18 @@ def get_person_info(url: str) -> {}:
     result.update({"picture": BASE_PIC_URL + person_pic})
     result.update({"contacts": get_person_info_li(person_contact)})
     result.update({"research": get_person_blob_info(person_research)})
+
+    research_all = ""
+    research_dict = result.get("research")
+    if research_dict:
+        for key, value in research_dict.items():
+            if isinstance(value, list):
+                research_all += "\n".join(value)
+                research_all += "\n\n"
+            else:
+                research_all += f"{key}: {value}\n\n"
+        result.update({"research_all": research_all})
+
     return result
 
 

@@ -65,6 +65,13 @@ def get_person_info(url: str) -> {}:
     result.update({"picture": picture})
     result.update({"contacts": get_person_table_info(person_detail)})
     result.update({"research": get_person_blob_info(person_article)})
+
+    research_info = result['research']
+    research_data = ''
+    for key, value in research_info.items():
+        research_data += value 
+    result.update({"research_data": research_data})
+
     return result
 
 

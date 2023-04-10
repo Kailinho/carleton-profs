@@ -16,16 +16,23 @@ HEADER = {'Accept-Language': 'en-US',
 
 
 def get_person_table_info(table_info: Tag):
+    # Create a dictionary to store the result
     result = {}
     try:
+        # Find the table
         table = table_info.find('table', {"class": "people__table"}).select_one('tbody')
         for row in table.find_all('tr'):
+            # Get the value cell
             row_value_cell: Tag = row.find('td', {"class": "people__table-info"})
+            # If the value is a link, get the link
             if link := row_value_cell.find('a'):
                 value = link['href']
+            # Otherwise, get the text
             else:
                 value = row_value_cell.text
+            # Store the result in the dictionary
             result.update({row.find('td', {"class": "people__table-title"}).text: value})
+    # If table_info is None, return None
     except AttributeError:
         return None
 
@@ -33,6 +40,11 @@ def get_person_table_info(table_info: Tag):
 
 
 def get_person_blob_info(person_article: Tag) -> []:
+    """
+    Gets the blob information from the person article
+    :param person_article: the article with the blob info
+    :return: a list of dictionaries (one per blob) with the data
+    """
     result = {}
     try:
         titles = person_article.find_all('h3')
@@ -63,6 +75,14 @@ def get_person_info(url: str) -> {}:
     result.update({"picture": person_picture.select_one('img')['src']})
     result.update({"contacts": get_person_table_info(person_detail)})
     result.update({"research": get_person_blob_info(person_article)})
+
+    
+    research_info = result['research']
+    research_data = ''
+    for key, value in research_info.items():
+        research_data += value 
+    result.update({"research_data": research_data})
+
     return result
 
 def get_faculty_people(faculty: Tag) -> []:
