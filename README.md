@@ -6,7 +6,7 @@ The project repo can be found on [GitHub](https://github.com/Kailinho/carleton-p
 
 Instructions to run the program(s):\
 Navigate to the folder containing the required scripts.\
-Run the command `python script.py` in a terminal replacing `script` with the required faculty.\
+Run the command `python script.py` in a terminal replacing `script` with the required faculty [Current Available options are `sce` `scs` `it` `math`] .\
 Each script will output a JSON file containing the required data.
 
 
