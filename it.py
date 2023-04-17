@@ -15,7 +15,7 @@ BASE_PIC_URL = 'https://www.csit.carleton.ca/'
 HEADER = {'Accept-Language': 'en-US',
           'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36'}
 
-
+# Get person's contact information
 def get_person_info_li(table_info: Tag):
     #Get Person's info from the table. Storing it as a dictionary as contact info is stored under a list.
     result = {}
@@ -33,11 +33,8 @@ def get_person_info_li(table_info: Tag):
 
     return result
 
+# Get person's research information and their data
 def get_person_blob_info(person_article: Tag) -> []:
-    """
-    get the person's info from the article. Search through the article for the h2 and h3 tags, as they are the titles of the required info.
-    We are finding the next sibling of the h2 and h3 tags (Content) , which could be p or ul tags. Stored as key:value pair where key is the title and value is the content.
-    """
     result = {}
     try:
         # find all the titles

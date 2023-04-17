@@ -14,7 +14,7 @@ BASE_URL = "https://carleton.ca/scs/our-people/school-of-computer-science-facult
 HEADER = {'Accept-Language': 'en-US',
           'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36'}
 
-
+# Get person's contact information
 def get_person_table_info(table_info: Tag):
     # Create a dictionary to store the result
     result = {}
@@ -38,13 +38,9 @@ def get_person_table_info(table_info: Tag):
 
     return result
 
-
+# Get person's research information and their data
 def get_person_blob_info(person_article: Tag) -> []:
-    """
-    Gets the blob information from the person article
-    :param person_article: the article with the blob info
-    :return: a list of dictionaries (one per blob) with the data
-    """
+
     result = {}
     try:
         titles = person_article.find_all('h3')
