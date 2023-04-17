@@ -7,7 +7,7 @@ The project repo can be found on [GitHub](https://github.com/Kailinho/carleton-p
 Instructions to run the program(s):\
 Navigate to the folder containing the required scripts.\
 Run the command `python script.py` in a terminal replacing `script` with the required faculty.\
-Each script will output a JSON file containing the required data.\
+Each script will output a JSON file containing the required data.
 
 
 Insctructions to clean the data:\
