@@ -68,29 +68,35 @@ def get_person_info(url: str) -> {}:
     logger.debug(url)
     person_article = BeautifulSoup(resp.content, 'html.parser', parse_only=SoupStrainer('article'))
 
+    # get the div tag that contains the person's picture and details
     person_detail = person_article.find("div", {"class": "people__details"})
     person_picture = person_article.find("div",{"class": "people__photo"} )
-
-
+    # get the person's name
     result.update({"name": person_detail.select_one('h2').text})
+    # get the person's department
     result.update({"department":"School of Systems and Computer Engineering"})
+    # get the person's url
     result.update({"url": url})
+    # get the person's title
     result.update({"title": person_detail.select_one('p').text})
+    # get the person's picture
     picture = person_picture.select_one('img')['src'] if person_picture else""
     result.update({"picture": picture})
+    # get the person's contact information
     result.update({"contacts": get_person_table_info(person_detail)})
+    # get the person's research information
     result.update({"research": get_person_blob_info(person_article)})
-
-    research_all = ""
+    # get the person's research data
+    research_data = ""
     research_dict = result.get("research")
     if research_dict:
         for key, value in research_dict.items():
             if isinstance(value, list):
-                research_all += "\n".join(value)
-                research_all += "\n\n"
+                research_data += "\n".join(value)
+                research_data += "\n\n"
             else:
-                research_all += f"{key}: {value}\n\n"
-        result.update({"research_all": research_all})
+                research_data += f"{key}: {value}\n\n"
+        result.update({"research_data": research_data})
         
     return result
 
@@ -120,7 +126,7 @@ def main():
 
     faculties_with_links = get_faculties_list_with_links(soup)
 
-    with open('scefaculty.json', 'w', encoding="utf-8") as f:
+    with open('sce.json', 'w', encoding="utf-8") as f:
         faculty_data = []
         for link in faculties_with_links:
             faculty_data.append(get_person_info(link))

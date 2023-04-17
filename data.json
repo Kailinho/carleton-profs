@@ -78,7 +78,7 @@
                 "Accessibility"
             ]
         },
-        "research_all": "Biographical Notes:\nFaculty Graduate Mentoring Award, Carleton University, 2017\nOutstanding Biomedical Engineer of the Year, Canadian Medical and Biological Engineering Society (CMBES), 2015\nProvost’s Fellowship in Teaching, Carleton University, 2013\nResearch Achievement Award, Carleton University, 2013\nBest Professor Award, Carleton Student Engineering Society, 2012\n3M Teaching Fellowship, Society for Teaching and Learning in Higher Education (STLHE) and 3M Canada, 2012\nOutstanding Engineering Educator Award, IEEE Ottawa, 2011\nTeaching Achievement Award, Carleton University, 2009\nEarly Career Achievement Award, Canadian Medical and Biological Engineering Society (CMBES), 2008\nCapital Educators’ Award, Ottawa Centre for Research and Innovation (OCRI), 2008\nYoung Alumni Achievement Award, University of New Brunswick, 2006\nSpirit Recognition Award, Carleton University, 2006\nSenior Member, Institute of Electrical and Electronics Engineering (IEEE), 2006\nNamed one of Carleton’s “Favorite Professors”, Macleans, 2006\n50 Top People in the Capital, Ottawa Life Magazine, 2005\nOttawa Life Sciences Council, Dr. Michael Smith Promising Scientist Award, 2004\n25 Best and Brightest, Macleans, 2004\n\nResearch Interests:\nNon-invasive sensor systems\nBiomedical signal processing\nBiomedical image processing\nMachine learning\nPattern classification\nAccessibility\n\n"
+        "research_data": "Biographical Notes:\nFaculty Graduate Mentoring Award, Carleton University, 2017\nOutstanding Biomedical Engineer of the Year, Canadian Medical and Biological Engineering Society (CMBES), 2015\nProvost’s Fellowship in Teaching, Carleton University, 2013\nResearch Achievement Award, Carleton University, 2013\nBest Professor Award, Carleton Student Engineering Society, 2012\n3M Teaching Fellowship, Society for Teaching and Learning in Higher Education (STLHE) and 3M Canada, 2012\nOutstanding Engineering Educator Award, IEEE Ottawa, 2011\nTeaching Achievement Award, Carleton University, 2009\nEarly Career Achievement Award, Canadian Medical and Biological Engineering Society (CMBES), 2008\nCapital Educators’ Award, Ottawa Centre for Research and Innovation (OCRI), 2008\nYoung Alumni Achievement Award, University of New Brunswick, 2006\nSpirit Recognition Award, Carleton University, 2006\nSenior Member, Institute of Electrical and Electronics Engineering (IEEE), 2006\nNamed one of Carleton’s “Favorite Professors”, Macleans, 2006\n50 Top People in the Capital, Ottawa Life Magazine, 2005\nOttawa Life Sciences Council, Dr. Michael Smith Promising Scientist Award, 2004\n25 Best and Brightest, Macleans, 2004\n\nResearch Interests:\nNon-invasive sensor systems\nBiomedical signal processing\nBiomedical image processing\nMachine learning\nPattern classification\nAccessibility\n\n"
     },
     {
         "name": "Ahmed  Almaskut ",
@@ -185,7 +185,7 @@
                 "Digital and Wireless Communications, Coding and Information Theory, Signal Processing and Algorithms"
             ]
         },
-        "research_all": "Biographical Notes:\nIEEE Ottawa Section Outstanding Engineer Award 2017 with citation: “for outstanding and pioneering contributions in theory and practice of error correction coding schemes and digital communications.”\nCarleton University Research Achievement Award 2012\nCarleton University Faculty Graduate Mentoring Award 2011\nCarleton University Research Achievement Award 2006\n\nResearch Interests:\nDigital and Wireless Communications, Coding and Information Theory, Signal Processing and Algorithms\n\n"
+        "research_data": "Biographical Notes:\nIEEE Ottawa Section Outstanding Engineer Award 2017 with citation: “for outstanding and pioneering contributions in theory and practice of error correction coding schemes and digital communications.”\nCarleton University Research Achievement Award 2012\nCarleton University Faculty Graduate Mentoring Award 2011\nCarleton University Research Achievement Award 2006\n\nResearch Interests:\nDigital and Wireless Communications, Coding and Information Theory, Signal Processing and Algorithms\n\n"
     },
     {
         "name": "Andrew Runka",
@@ -240,7 +240,7 @@
                 "Security Implications of biometrics"
             ]
         },
-        "research_all": "Research Interests:\nMedical Image Processing\nApplications for Monitoring lung and heart activity\nImage reconstruction models to account for errors\nApplications for Monitoring lung and heart activity\nImage reconstruction models to account for errors\nMonitoring lung function in mice\nModelling of Airways physiology\nMonitoring lung function in mice\nModelling of Airways physiology\nFace Recognition systems\nIssues in Biometric Application Design and Integration\nSecurity Implications of biometrics\nFace Recognition systems\nIssues in Biometric Application Design and Integration\nSecurity Implications of biometrics\nApplications for Monitoring lung and heart activity\nImage reconstruction models to account for errors\nMonitoring lung function in mice\nModelling of Airways physiology\nFace Recognition systems\nIssues in Biometric Application Design and Integration\nSecurity Implications of biometrics\n\n"
+        "research_data": "Research Interests:\nMedical Image Processing\nApplications for Monitoring lung and heart activity\nImage reconstruction models to account for errors\nApplications for Monitoring lung and heart activity\nImage reconstruction models to account for errors\nMonitoring lung function in mice\nModelling of Airways physiology\nMonitoring lung function in mice\nModelling of Airways physiology\nFace Recognition systems\nIssues in Biometric Application Design and Integration\nSecurity Implications of biometrics\nFace Recognition systems\nIssues in Biometric Application Design and Integration\nSecurity Implications of biometrics\nApplications for Monitoring lung and heart activity\nImage reconstruction models to account for errors\nMonitoring lung function in mice\nModelling of Airways physiology\nFace Recognition systems\nIssues in Biometric Application Design and Integration\nSecurity Implications of biometrics\n\n"
     },
     {
         "name": "Angelo Mingarelli",
@@ -334,7 +334,7 @@
                 "Network management and supervision."
             ]
         },
-        "research_all": "Research Interests:\nAgent-based systems.\nNetwork computing.\nApplications of artificial intelligence.\nObject-oriented design and languages.\nNetwork management and supervision.\n\n"
+        "research_data": "Research Interests:\nAgent-based systems.\nNetwork computing.\nApplications of artificial intelligence.\nObject-oriented design and languages.\nNetwork management and supervision.\n\n"
     },
     {
         "name": "Barbara Szyskowicz",
@@ -421,7 +421,7 @@
                 "Network Protocol Design and Implementation Issues"
             ]
         },
-        "research_all": "Research Interests:\nStochastic Control in Computer Networks\nModelling and Simulation Techniques\nResource Optimization in Wireless Networks\nReliability Mechanisms for Optical Networks\nNetwork Protocol Design and Implementation Issues\n\n"
+        "research_data": "Research Interests:\nStochastic Control in Computer Networks\nModelling and Simulation Techniques\nResource Optimization in Wireless Networks\nReliability Mechanisms for Optical Networks\nNetwork Protocol Design and Implementation Issues\n\n"
     },
     {
         "name": "Chao Shen",
@@ -493,7 +493,7 @@
                 "Cloud Computing and Distributed Computing: Internet of Things (IoT), Big Data Analytics, Resource Management, Web Services, Real-time Concurrent Software."
             ]
         },
-        "research_all": "Research Interests:\nSoftware Engineering: Software Architecture, Service-Oriented Computing, Generative Programming, Self-Managing Systems, Software Reengineering.\nNetworks: Software Defined Networking (SDN), Traffic Engineering, Quality of Service, Content-Based Routing, Wireless Communications, Ad-Hoc Networks, Sensor Networks, and Network-Based Control Systems.\nCloud Computing and Distributed Computing: Internet of Things (IoT), Big Data Analytics, Resource Management, Web Services, Real-time Concurrent Software.\n\n"
+        "research_data": "Research Interests:\nSoftware Engineering: Software Architecture, Service-Oriented Computing, Generative Programming, Self-Managing Systems, Software Reengineering.\nNetworks: Software Defined Networking (SDN), Traffic Engineering, Quality of Service, Content-Based Routing, Wireless Communications, Ad-Hoc Networks, Sensor Networks, and Network-Based Control Systems.\nCloud Computing and Distributed Computing: Internet of Things (IoT), Big Data Analytics, Resource Management, Web Services, Real-time Concurrent Software.\n\n"
     },
     {
         "name": "Colin Ingalls",
@@ -550,7 +550,7 @@
                 "Network Theory"
             ]
         },
-        "research_all": "Biographical Notes:\nCristina Ruiz Martín is PhD from both Universidad de Valladolid (Spain) and Carleton University (Ottawa, Canada). She has done her PhD in cotutelle. She received her MSc in Industrial Engineering (2014) and Project Management (2013) from Universidad de Valladolid.\n\nResearch interests:\nOrganizational Resilience\nDiscrete-Event Modeling and Simulation\nAgent-Based Modeling\nNetwork Theory\n\n"
+        "research_data": "Biographical Notes:\nCristina Ruiz Martín is PhD from both Universidad de Valladolid (Spain) and Carleton University (Ottawa, Canada). She has done her PhD in cotutelle. She received her MSc in Industrial Engineering (2014) and Project Management (2013) from Universidad de Valladolid.\n\nResearch interests:\nOrganizational Resilience\nDiscrete-Event Modeling and Simulation\nAgent-Based Modeling\nNetwork Theory\n\n"
     },
     {
         "name": "Daniel Panario",
@@ -740,7 +740,7 @@
                 "Educational Technologies"
             ]
         },
-        "research_all": "Human-Computer Interaction\nGame Design, Development, & Interactions\nWearables\nVirtual & Augmented Reality\nAnimation, Virtual Environments, and Simulation\nEducational Technologies\n\n"
+        "research_data": "Human-Computer Interaction\nGame Design, Development, & Interactions\nWearables\nVirtual & Augmented Reality\nAnimation, Virtual Environments, and Simulation\nEducational Technologies\n\n"
     },
     {
         "name": "Dr. Ashraf Matrawy",
@@ -768,7 +768,7 @@
                 "Connected/Autonomous Vehicles"
             ]
         },
-        "research_all": "Network Technology\nData Science\nComputer Networks (Planning, Design, Architecture)\nCloud, Fog, and Edge Computing\nInternet of Things (IoT)\nSoftware Defined Networks (SDN)\nNetwork security (Threat modelling, blockchain, usable security)\nBig Data Analytics\nMachine Learning & Artificial Intelligence\nConnected/Autonomous Vehicles\n\n"
+        "research_data": "Network Technology\nData Science\nComputer Networks (Planning, Design, Architecture)\nCloud, Fog, and Edge Computing\nInternet of Things (IoT)\nSoftware Defined Networks (SDN)\nNetwork security (Threat modelling, blockchain, usable security)\nBig Data Analytics\nMachine Learning & Artificial Intelligence\nConnected/Autonomous Vehicles\n\n"
     },
     {
         "name": "Dr. Audrey Girouard",
@@ -789,7 +789,7 @@
                 "Wearables"
             ]
         },
-        "research_all": "Human-Computer Interaction\nGame Design, Development, & Interactions\nWearables\n\n"
+        "research_data": "Human-Computer Interaction\nGame Design, Development, & Interactions\nWearables\n\n"
     },
     {
         "name": "Dr. Chris Joslin",
@@ -816,7 +816,7 @@
                 "Connected/Autonomous Vehicles"
             ]
         },
-        "research_all": "Human-Computer Interaction\nGame Design, Development, & Interactions\nVirtual & Augmented Reality\nAnimation, Virtual Environments, and Simulation\nVideo/Image Processing and Compression\nMedical Imaging and Applications\nMultimedia Streaming\nMachine Learning & Artificial Intelligence\nConnected/Autonomous Vehicles\n\n"
+        "research_data": "Human-Computer Interaction\nGame Design, Development, & Interactions\nVirtual & Augmented Reality\nAnimation, Virtual Environments, and Simulation\nVideo/Image Processing and Compression\nMedical Imaging and Applications\nMultimedia Streaming\nMachine Learning & Artificial Intelligence\nConnected/Autonomous Vehicles\n\n"
     },
     {
         "name": "Dr. David Sprague",
@@ -854,7 +854,7 @@
                 "Machine Learning & Artificial Intelligence"
             ]
         },
-        "research_all": "Data Science\nHuman-Computer Interaction\nGame Design, Development, & Interactions\nAnimation, Virtual Environments, and Simulation\nInteractive Storytelling\nMachine Learning & Artificial Intelligence\n\n"
+        "research_data": "Data Science\nHuman-Computer Interaction\nGame Design, Development, & Interactions\nAnimation, Virtual Environments, and Simulation\nInteractive Storytelling\nMachine Learning & Artificial Intelligence\n\n"
     },
     {
         "name": "Dr. F. Richard Yu",
@@ -885,7 +885,7 @@
                 "Connected/Autonomous Vehicles"
             ]
         },
-        "research_all": "Network Technology\nData Science\nMultimedia Streaming\nComputer Networks (Planning, Design, Architecture)\nCloud, Fog, and Edge Computing\nInternet of Things (IoT)\nSoftware Defined Networks (SDN)\nAd-hoc and Wireless Sensor Networks\nNetwork security (Threat modelling, blockchain, usable security)\nData Privacy\nData Modelling\nMachine Learning & Artificial Intelligence\nConnected/Autonomous Vehicles\n\n"
+        "research_data": "Network Technology\nData Science\nMultimedia Streaming\nComputer Networks (Planning, Design, Architecture)\nCloud, Fog, and Edge Computing\nInternet of Things (IoT)\nSoftware Defined Networks (SDN)\nAd-hoc and Wireless Sensor Networks\nNetwork security (Threat modelling, blockchain, usable security)\nData Privacy\nData Modelling\nMachine Learning & Artificial Intelligence\nConnected/Autonomous Vehicles\n\n"
     },
     {
         "name": "Dr. Jie Gao",
@@ -912,7 +912,7 @@
                 "Connected/Autonomous Vehicles"
             ]
         },
-        "research_all": "Network Technology\nVirtual & Augmented Reality\nComputer Networks (Planning, Design, Architecture)\nCloud, Fog, and Edge Computing\nInternet of Things (IoT)\nSoftware Defined Networks (SDN)\nAd-hoc and Wireless Sensor Networks\nMachine Learning & Artificial Intelligence\nConnected/Autonomous Vehicles\n\n"
+        "research_data": "Network Technology\nVirtual & Augmented Reality\nComputer Networks (Planning, Design, Architecture)\nCloud, Fog, and Edge Computing\nInternet of Things (IoT)\nSoftware Defined Networks (SDN)\nAd-hoc and Wireless Sensor Networks\nMachine Learning & Artificial Intelligence\nConnected/Autonomous Vehicles\n\n"
     },
     {
         "name": "Dr. KC Collins",
@@ -934,7 +934,7 @@
                 "Internet of Things (IoT)"
             ]
         },
-        "research_all": "Digital Sound and Audio\nVirtual & Augmented Reality\nComputer Networks (Planning, Design, Architecture)\nInternet of Things (IoT)\n\n"
+        "research_data": "Digital Sound and Audio\nVirtual & Augmented Reality\nComputer Networks (Planning, Design, Architecture)\nInternet of Things (IoT)\n\n"
     },
     {
         "name": "Dr. Lesley Istead",
@@ -972,7 +972,7 @@
                 "Ad-hoc and Wireless Sensor Networks"
             ]
         },
-        "research_all": "Network Technology\nComputer Networks (Planning, Design, Architecture)\nCloud, Fog, and Edge Computing\nInternet of Things (IoT)\nSoftware Defined Networks (SDN)\nAd-hoc and Wireless Sensor Networks\n\n"
+        "research_data": "Network Technology\nComputer Networks (Planning, Design, Architecture)\nCloud, Fog, and Edge Computing\nInternet of Things (IoT)\nSoftware Defined Networks (SDN)\nAd-hoc and Wireless Sensor Networks\n\n"
     },
     {
         "name": "Dr. Marzieh Amini",
@@ -997,7 +997,7 @@
                 "Connected/Autonomous Vehicles"
             ]
         },
-        "research_all": "Data Science\nVideo/Image Processing and Compression\nInternet of Things (IoT)\nAd-hoc and Wireless Sensor Networks\nData Privacy\nMachine Learning & Artificial Intelligence\nConnected/Autonomous Vehicles\n\n"
+        "research_data": "Data Science\nVideo/Image Processing and Compression\nInternet of Things (IoT)\nAd-hoc and Wireless Sensor Networks\nData Privacy\nMachine Learning & Artificial Intelligence\nConnected/Autonomous Vehicles\n\n"
     },
     {
         "name": "Dr. Masoud Barati",
@@ -1021,7 +1021,7 @@
                 "Data Modelling"
             ]
         },
-        "research_all": "Cloud, Fog, and Edge Computing\nInternet of Things (IoT)\nAd-hoc and Wireless Sensor Networks\nNetwork security (Threat modelling, blockchain, usable security)\nData Privacy\nData Modelling\n\n"
+        "research_data": "Cloud, Fog, and Edge Computing\nInternet of Things (IoT)\nAd-hoc and Wireless Sensor Networks\nNetwork security (Threat modelling, blockchain, usable security)\nData Privacy\nData Modelling\n\n"
     },
     {
         "name": "Dr. Mehdi Niknam",
@@ -1059,7 +1059,7 @@
                 "Machine Learning & Artificial Intelligence"
             ]
         },
-        "research_all": "Data Science\nCloud, Fog, and Edge Computing\nInternet of Things (IoT)\nBig Data Analytics\nData Modelling\nMachine Learning & Artificial Intelligence\n\n"
+        "research_data": "Data Science\nCloud, Fog, and Edge Computing\nInternet of Things (IoT)\nBig Data Analytics\nData Modelling\nMachine Learning & Artificial Intelligence\n\n"
     },
     {
         "name": "Dr. Robert Teather",
@@ -1080,7 +1080,7 @@
                 "Virtual & Augmented Reality"
             ]
         },
-        "research_all": "Human-Computer Interaction\nGame Design, Development, & Interactions\nVirtual & Augmented Reality\n\n"
+        "research_data": "Human-Computer Interaction\nGame Design, Development, & Interactions\nVirtual & Augmented Reality\n\n"
     },
     {
         "name": "Dr. Wei Shi",
@@ -1107,7 +1107,7 @@
                 "Big Data Analytics"
             ]
         },
-        "research_all": "Network Technology\nData Science\nComputer Networks (Planning, Design, Architecture)\nCloud, Fog, and Edge Computing\nInternet of Things (IoT)\nAd-hoc and Wireless Sensor Networks\nNetwork security (Threat modelling, blockchain, usable security)\nData Privacy\nBig Data Analytics\n\n"
+        "research_data": "Network Technology\nData Science\nComputer Networks (Planning, Design, Architecture)\nCloud, Fog, and Edge Computing\nInternet of Things (IoT)\nAd-hoc and Wireless Sensor Networks\nNetwork security (Threat modelling, blockchain, usable security)\nData Privacy\nBig Data Analytics\n\n"
     },
     {
         "name": "Dwight Deugo",
@@ -1224,7 +1224,7 @@
                 "Shared display interactions"
             ]
         },
-        "research_all": "Research Interests:\nInformation visualization\nHuman-computer interaction\nHealth data visualization\nShared display interactions\n\n"
+        "research_data": "Research Interests:\nInformation visualization\nHuman-computer interaction\nHealth data visualization\nShared display interactions\n\n"
     },
     {
         "name": "Frank Dehne",
@@ -1277,7 +1277,7 @@
                 "================"
             ]
         },
-        "research_all": "Biographical Notes:\n2022 McLeod Founder Award for distinguished service to the profession by the Society for Modeling and Simulation International (SCS). This award recognizes a group of technical contributions which have been made by the candidate over a significant period of time. They clearly reflect a commitment by the candidate to nurturing a robust evolution of the profession. The significant nature of the contributions will be supported by their wide dissemination in the technical literature and their discernible impact on the manner in which some aspect of the modeling and simulation activity is carried out.\n2021 Distinguished Speaker. Association for Computing Machinery (ACM).\n2020 Outstanding Professional Achievement Award by the Society for Modeling and Simulation International (SCS). The award recognizes outstanding service to the Society by a member.\n2019 IEEE Outstanding Engineering Award (Ottawa Section). “For innovative and outstanding contributions to the field of discrete-event modeling and simulation”\n2017 Nepean’s Canada 150th Anniversary Medal. The medal was given in the 150 anniversary of Canadian Confederation to recognize people who have made a difference in the community or excelled in their professional life in the riding of Nepean, ON, Canada.\n2016 Fellow, the Society for Modeling and Simulation International (SCS).\n\nResearch Interests:\n– DEVS formalism\n– Real-Time modelling\n– Cellular models\n– Modelling and simulation methodologies and tools\n– Parallel/distributed/Web-based simulation\n– Real-Time operating systems\nOne funded PhD position is available in the area of Modeling and Simulation. Masters positions are available for Domestic students\n================\nCheck our collaboration projects with Ericsson Canada\nChannel Reconstruction for LTE/NR Performance Verification for Research and Leadership in Wireless Networks\nSpectrum Sharing with Machine Learning\nM-MIMO Channel Estimation using Distributed Machine Learning and Edge Computing Technologies\nEricsson-Carleton Partnership\n================\n\n"
+        "research_data": "Biographical Notes:\n2022 McLeod Founder Award for distinguished service to the profession by the Society for Modeling and Simulation International (SCS). This award recognizes a group of technical contributions which have been made by the candidate over a significant period of time. They clearly reflect a commitment by the candidate to nurturing a robust evolution of the profession. The significant nature of the contributions will be supported by their wide dissemination in the technical literature and their discernible impact on the manner in which some aspect of the modeling and simulation activity is carried out.\n2021 Distinguished Speaker. Association for Computing Machinery (ACM).\n2020 Outstanding Professional Achievement Award by the Society for Modeling and Simulation International (SCS). The award recognizes outstanding service to the Society by a member.\n2019 IEEE Outstanding Engineering Award (Ottawa Section). “For innovative and outstanding contributions to the field of discrete-event modeling and simulation”\n2017 Nepean’s Canada 150th Anniversary Medal. The medal was given in the 150 anniversary of Canadian Confederation to recognize people who have made a difference in the community or excelled in their professional life in the riding of Nepean, ON, Canada.\n2016 Fellow, the Society for Modeling and Simulation International (SCS).\n\nResearch Interests:\n– DEVS formalism\n– Real-Time modelling\n– Cellular models\n– Modelling and simulation methodologies and tools\n– Parallel/distributed/Web-based simulation\n– Real-Time operating systems\nOne funded PhD position is available in the area of Modeling and Simulation. Masters positions are available for Domestic students\n================\nCheck our collaboration projects with Ericsson Canada\nChannel Reconstruction for LTE/NR Performance Verification for Research and Leadership in Wireless Networks\nSpectrum Sharing with Machine Learning\nM-MIMO Channel Estimation using Distributed Machine Learning and Edge Computing Technologies\nEricsson-Carleton Partnership\n================\n\n"
     },
     {
         "name": "Gennady Shaikhet",
@@ -1318,7 +1318,7 @@
                 ""
             ]
         },
-        "research_all": "Research Interests:\nPerformance modelling of distributed software, based on an extension of queueing models called “layered queueing networks”.\nPerformance modelling techniques and algorithms (simulation, queueing and Petri Nets), and applications to computer systems.\nReverse Engineering.\nOperating System design and implementation.\n\n\n"
+        "research_data": "Research Interests:\nPerformance modelling of distributed software, based on an extension of queueing models called “layered queueing networks”.\nPerformance modelling techniques and algorithms (simulation, queueing and Petri Nets), and applications to computer systems.\nReverse Engineering.\nOperating System design and implementation.\n\n\n"
     },
     {
         "name": "Hala Assal",
@@ -1340,7 +1340,7 @@
                 "Security and privacy in emerging technologies"
             ]
         },
-        "research_all": "Research Interests:\nHuman-centric research\nUser-centric cybersecurity and privacy\nHuman-centric software security\nSecurity and privacy in emerging technologies\n\n"
+        "research_data": "Research Interests:\nHuman-centric research\nUser-centric cybersecurity and privacy\nHuman-centric software security\nSecurity and privacy in emerging technologies\n\n"
     },
     {
         "name": "Halim Yanikomeroglu",
@@ -1379,7 +1379,7 @@
                 "Intelligent transportation systems"
             ]
         },
-        "research_all": "Biographical Notes:\nIEEE Fellow (2017)\nIEEE Communications Society Distinguished Lecturer (2015-2018)\nIEEE Vehicular Technology Society Distinguished Speaker (2014-)\n\nResearch Interests:\nMy interests span the physical, medium access, and networking layers, and the cross-layer aspects of Wireless Communications, including:\nCellular networks (5G, 4G, LTE/LTE-A)\nRadio access networks\nRelay/multihop/mesh networks\nCooperative communications\nRadio resource management\nDistributed antenna systems, radio-over-fibre, micro/pico/femto-cells\nAntenna architectures, macro/microdiversity, MIMO\nMultiple access, OFDMA, MAC\nRouting, scheduling\nSensor networks\nCognitive radio, spectrum, opportunistic spectrum access\nInterference modeling\nUser-in-the-loop in wireless networks\nIntelligent transportation systems\n\n"
+        "research_data": "Biographical Notes:\nIEEE Fellow (2017)\nIEEE Communications Society Distinguished Lecturer (2015-2018)\nIEEE Vehicular Technology Society Distinguished Speaker (2014-)\n\nResearch Interests:\nMy interests span the physical, medium access, and networking layers, and the cross-layer aspects of Wireless Communications, including:\nCellular networks (5G, 4G, LTE/LTE-A)\nRadio access networks\nRelay/multihop/mesh networks\nCooperative communications\nRadio resource management\nDistributed antenna systems, radio-over-fibre, micro/pico/femto-cells\nAntenna architectures, macro/microdiversity, MIMO\nMultiple access, OFDMA, MAC\nRouting, scheduling\nSensor networks\nCognitive radio, spectrum, opportunistic spectrum access\nInterference modeling\nUser-in-the-loop in wireless networks\nIntelligent transportation systems\n\n"
     },
     {
         "name": "Howard Schwartz",
@@ -1404,7 +1404,7 @@
                 "System Identification."
             ]
         },
-        "research_all": "Research Interests:\nAdaptive and Learning Systems.\nMulti Robot Learning and Adaptation.\nCooperative Control of Multiple Autonomous Robots.\nControl of robot manipulators.\nAdaptive Control.\nSystem Identification.\n\n"
+        "research_data": "Research Interests:\nAdaptive and Learning Systems.\nMulti Robot Learning and Adaptation.\nCooperative Control of Multiple Autonomous Robots.\nControl of robot manipulators.\nAdaptive Control.\nSystem Identification.\n\n"
     },
     {
         "name": "Ian Marsland",
@@ -1427,7 +1427,7 @@
                 "Applications of iterative decoding"
             ]
         },
-        "research_all": "Research Interests:\nGeneral area of interest: Wireless digital communications (stationary and mobile)\nNoncoherent receiver design\nError control coding (convolutional and turbo codes)\nApplications of iterative decoding\n\n"
+        "research_data": "Research Interests:\nGeneral area of interest: Wireless digital communications (stationary and mobile)\nNoncoherent receiver design\nError control coding (convolutional and turbo codes)\nApplications of iterative decoding\n\n"
     },
     {
         "name": "Inna Bumagin",
@@ -1468,7 +1468,7 @@
                 "Network Security"
             ]
         },
-        "research_all": "Research Interests:\nApplied Stochastic Processes and Control\nPerformance Analysis of IP Networks\nCross Layer design for Wireless Networks\nWireless Ad-hoc networks\nNetwork Security\n\n"
+        "research_data": "Research Interests:\nApplied Stochastic Processes and Control\nPerformance Analysis of IP Networks\nCross Layer design for Wireless Networks\nWireless Ad-hoc networks\nNetwork Security\n\n"
     },
     {
         "name": "James Green",
@@ -1498,7 +1498,7 @@
                 "Identification of post-translational modifications in proteins, including sumoylation, glycosylation, and hydroxylation."
             ]
         },
-        "research_all": "Research Interests:\nMy research focus has been in the following areas:\nBioinformatics, proteomics, and prediction of protein structure, function, interaction, and post-translational modification\nMachine intelligence, pattern classification, data mining\nDevelopment of novel assistive technology and devices\nI also have interest in: medical informatics, robotics, machine vision, and microprocessor applications\nCurrent projects include:\nSpecies-specific prediction of microRNA from genomic sequence or transcriptomics data\nPrediction of protein-protein interactions from sequence\nDevelopment of various novel assistive devices for persons who are disabled and the elderly\nHardware acceleration of bioinformatics algorithms using GPGPU, including real-time mass spectrometry\nIdentification of post-translational modifications in proteins, including sumoylation, glycosylation, and hydroxylation.\n\n"
+        "research_data": "Research Interests:\nMy research focus has been in the following areas:\nBioinformatics, proteomics, and prediction of protein structure, function, interaction, and post-translational modification\nMachine intelligence, pattern classification, data mining\nDevelopment of novel assistive technology and devices\nI also have interest in: medical informatics, robotics, machine vision, and microprocessor applications\nCurrent projects include:\nSpecies-specific prediction of microRNA from genomic sequence or transcriptomics data\nPrediction of protein-protein interactions from sequence\nDevelopment of various novel assistive devices for persons who are disabled and the elderly\nHardware acceleration of bioinformatics algorithms using GPGPU, including real-time mass spectrometry\nIdentification of post-translational modifications in proteins, including sumoylation, glycosylation, and hydroxylation.\n\n"
     },
     {
         "name": "Jason (Zhicheng) Gao",
@@ -1623,7 +1623,7 @@
                 "Performance Evaluation, Resources Sharing, Routing optimization"
             ]
         },
-        "research_all": "Research Interests:\nWeb Development, Distributed Systems, Internet of things\nPerformance Evaluation, Resources Sharing, Routing optimization\n\n"
+        "research_data": "Research Interests:\nWeb Development, Distributed Systems, Internet of things\nPerformance Evaluation, Resources Sharing, Routing optimization\n\n"
     },
     {
         "name": "John Oommen",
@@ -1966,7 +1966,7 @@
                 ""
             ]
         },
-        "research_all": "Research Interests:\nWireless sensor networks, Internet of Things (IoT), cognitive radio networks, adaptive signal processing, reconfigurable networks, sensor integration, radio frequency identification (RFID) systems.\nApplications in  smart homes, security, safety, healthcare, smart grid, renewable energies and green society, smart cities, intelligent transportation systems, environment monitoring, retail and logistics.\n\n\n"
+        "research_data": "Research Interests:\nWireless sensor networks, Internet of Things (IoT), cognitive radio networks, adaptive signal processing, reconfigurable networks, sensor integration, radio frequency identification (RFID) systems.\nApplications in  smart homes, security, safety, healthcare, smart grid, renewable energies and green society, smart cities, intelligent transportation systems, environment monitoring, retail and logistics.\n\n\n"
     },
     {
         "name": "Mohamedou Ould Haye",
@@ -2250,7 +2250,7 @@
                 "Wireless sensor networks"
             ]
         },
-        "research_all": "Awards and Distinctions:\nCarleton University Research Achievement Award 2016\nFellow of Engineering Institute of Canada (FEIC) 2015\nCanada Research Chair in Interactive Network Computing and Teleoperation 2013\nCarleton University Research Achievement Award 2007\nProvince of Ontario Early Researcher Award 2006\nCarleton University Carty Research Fellowship 2006\n\nResearch Interests:\nInteractive networked systems: teleoperation, telerobotics and telehaptics with applications to telemedicine\nHaptics with applications to medical simulations\nRobotics, control and intelligent Systems\nContext-aware smart networks\nWireless sensor networks\n\n"
+        "research_data": "Awards and Distinctions:\nCarleton University Research Achievement Award 2016\nFellow of Engineering Institute of Canada (FEIC) 2015\nCanada Research Chair in Interactive Network Computing and Teleoperation 2013\nCarleton University Research Achievement Award 2007\nProvince of Ontario Early Researcher Award 2006\nCarleton University Carty Research Fellowship 2006\n\nResearch Interests:\nInteractive networked systems: teleoperation, telerobotics and telehaptics with applications to telemedicine\nHaptics with applications to medical simulations\nRobotics, control and intelligent Systems\nContext-aware smart networks\nWireless sensor networks\n\n"
     },
     {
         "name": "Prosenjit Bose",
@@ -2306,7 +2306,7 @@
                 "Digital signal processing and its applications in biomedical engineering and audio processing."
             ]
         },
-        "research_all": "Research Interests:\nDigital signal processing and its applications in biomedical engineering and audio processing.\n\n"
+        "research_data": "Research Interests:\nDigital signal processing and its applications in biomedical engineering and audio processing.\n\n"
     },
     {
         "name": "Ramy H. Gohary",
@@ -2335,7 +2335,7 @@
                 "Applications of iterative detection and decoding techniques in multiple antenna and multiuser systems"
             ]
         },
-        "research_all": "Research Interests:\nMachine-to-machine communications\nInternet-of-Things\nAnalysis and design of MIMO wireless communication systems\nApplications of convex optimization and differential geometry in signal processing and communications\nInformation-theoretic aspects of multiuser communication systems\nCooperative communications\nNumber-theoretic applications in communications\nFairness and cross-layered designs\nDistributed antenna systems\nApplications of iterative detection and decoding techniques in multiple antenna and multiuser systems\n\n"
+        "research_data": "Research Interests:\nMachine-to-machine communications\nInternet-of-Things\nAnalysis and design of MIMO wireless communication systems\nApplications of convex optimization and differential geometry in signal processing and communications\nInformation-theoretic aspects of multiuser communication systems\nCooperative communications\nNumber-theoretic applications in communications\nFairness and cross-layered designs\nDistributed antenna systems\nApplications of iterative detection and decoding techniques in multiple antenna and multiuser systems\n\n"
     },
     {
         "name": "Richard Dansereau",
@@ -2358,7 +2358,7 @@
                 "Fractal and multifractal complexity measures: Rényi dimension measures"
             ]
         },
-        "research_all": "Research Interests:\nMultimodal signal processing and audio-video signal processing\nBiomedical and biometric applications of digital signal processing\nImage and speech signal processing\nFractal and multifractal complexity measures: Rényi dimension measures\n\n"
+        "research_data": "Research Interests:\nMultimodal signal processing and audio-video signal processing\nBiomedical and biometric applications of digital signal processing\nImage and speech signal processing\nFractal and multifractal complexity measures: Rényi dimension measures\n\n"
     },
     {
         "name": "Robert Biddle",
@@ -2433,7 +2433,7 @@
                 "Integrated Fiber/Wireless local loops"
             ]
         },
-        "research_all": "Research Interests:\nBroadband Wireless Access\nWireless Applications in Transportation Management and Safety\nWireless LAN’s and Ad-Hoc networking\nWireless Sensor Networks\nIntegrated Fiber/Wireless local loops\n\n"
+        "research_data": "Research Interests:\nBroadband Wireless Access\nWireless Applications in Transportation Management and Safety\nWireless LAN’s and Ad-Hoc networking\nWireless Sensor Networks\nIntegrated Fiber/Wireless local loops\n\n"
     },
     {
         "name": "Saban Alaca",
@@ -2507,7 +2507,7 @@
                 "Big Data Analytics: Software Repository, Multi-media, and Networks Radio Traffic Data."
             ]
         },
-        "research_all": "Biographical Notes:\n2017 IEEE Senior Member\n2018 ACM Senior Member\n\nResearch Interests:\nSoftware Requirements Engineering;\nModel Driven Approach & Aspect Oriented Design;\nCloud Resource Provisioning and Management;\nSoftware Deployment in the Cloud and Multi-tenancy;\nBig Data Analytics: Software Repository, Multi-media, and Networks Radio Traffic Data.\n\n"
+        "research_data": "Biographical Notes:\n2017 IEEE Senior Member\n2018 ACM Senior Member\n\nResearch Interests:\nSoftware Requirements Engineering;\nModel Driven Approach & Aspect Oriented Design;\nCloud Resource Provisioning and Management;\nSoftware Deployment in the Cloud and Multi-tenancy;\nBig Data Analytics: Software Repository, Multi-media, and Networks Radio Traffic Data.\n\n"
     },
     {
         "name": "Sanjeena Dang",
@@ -2586,7 +2586,7 @@
                 "Scalable Web Servers."
             ]
         },
-        "research_all": "Research Interests:\nCurrent\nParallel and Distributed Systems.\nPerformance Modelling and Performance Evaluation of Computer Systems.\nOperating Systems.\nMiddleware\nResource Management on Clouds and Grids\nResource Management on Wireless Sensor Networks\nWeb Services and Service Oriented Architecture\nRecent Past\nHigh Performance CORBA-based Middleware Systems.\nManagement of multiple processes and parallel I/O.\nScalable Web Servers.\n\n"
+        "research_data": "Research Interests:\nCurrent\nParallel and Distributed Systems.\nPerformance Modelling and Performance Evaluation of Computer Systems.\nOperating Systems.\nMiddleware\nResource Management on Clouds and Grids\nResource Management on Wireless Sensor Networks\nWeb Services and Service Oriented Architecture\nRecent Past\nHigh Performance CORBA-based Middleware Systems.\nManagement of multiple processes and parallel I/O.\nScalable Web Servers.\n\n"
     },
     {
         "name": "Shirley E. Mills",
@@ -2662,7 +2662,7 @@
                 "sensors and sensor systems (biomedical, defence and security applications), compressive sensing, signal processing (including biomedical signal processing, statistical signal processing, adaptive signal processing), machine learning, pattern classification."
             ]
         },
-        "research_all": "Research Interests:\nsensors and sensor systems (biomedical, defence and security applications), compressive sensing, signal processing (including biomedical signal processing, statistical signal processing, adaptive signal processing), machine learning, pattern classification.\n\n"
+        "research_data": "Research Interests:\nsensors and sensor systems (biomedical, defence and security applications), compressive sensing, signal processing (including biomedical signal processing, statistical signal processing, adaptive signal processing), machine learning, pattern classification.\n\n"
     },
     {
         "name": "Steven (Qiang) Wang",
@@ -2707,7 +2707,7 @@
                 ""
             ]
         },
-        "research_all": "Research Interests:\nInternet of Things (Smart Grid/Smart City).\nMobile computing systems and the mobile Internet.\nMobile ad-hoc networks.\nWireless sensor networks.\nTactical radio networks.\nAdaptive mobile applications.\nSoftware-defined networking.\nNetwork function virtualization.\n\n\n"
+        "research_data": "Research Interests:\nInternet of Things (Smart Grid/Smart City).\nMobile computing systems and the mobile Internet.\nMobile ad-hoc networks.\nWireless sensor networks.\nTactical radio networks.\nAdaptive mobile applications.\nSoftware-defined networking.\nNetwork function virtualization.\n\n\n"
     },
     {
         "name": "Utkarsh Dang",
@@ -2871,7 +2871,7 @@
                 "Ultrasonic imaging and acoustic microscopy"
             ]
         },
-        "research_all": "Research Interests:\nSensors development and applications\nBiomedical monitoring/diagnosis/characterization\nUltrasonic imaging and acoustic microscopy\n\n"
+        "research_data": "Research Interests:\nSensors development and applications\nBiomedical monitoring/diagnosis/characterization\nUltrasonic imaging and acoustic microscopy\n\n"
     },
     {
         "name": "Yvan Labiche",
@@ -2901,6 +2901,6 @@
                 "high-dependability systems"
             ]
         },
-        "research_all": "Research Interests:\nobject-oriented systems\nsystems designed with the Unified Modeling Language (UML)\nhigh-dependability systems\nobject-oriented systems\nsystems designed with the Unified Modeling Language (UML)\nhigh-dependability systems\nModel driven development and object-oriented analysis/design with the Unified Modeling Language (UML)\nSoftware quality assurance and control based on quantitative methods and measurement, experimental software engineering\nApplications of artificial intelligence and evolutionary computing to software engineering\nobject-oriented systems\nsystems designed with the Unified Modeling Language (UML)\nhigh-dependability systems\n\n"
+        "research_data": "Research Interests:\nobject-oriented systems\nsystems designed with the Unified Modeling Language (UML)\nhigh-dependability systems\nobject-oriented systems\nsystems designed with the Unified Modeling Language (UML)\nhigh-dependability systems\nModel driven development and object-oriented analysis/design with the Unified Modeling Language (UML)\nSoftware quality assurance and control based on quantitative methods and measurement, experimental software engineering\nApplications of artificial intelligence and evolutionary computing to software engineering\nobject-oriented systems\nsystems designed with the Unified Modeling Language (UML)\nhigh-dependability systems\n\n"
     }
 ]

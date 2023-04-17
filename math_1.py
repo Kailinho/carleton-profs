@@ -16,6 +16,7 @@ HEADER = {'Accept-Language': 'en-US',
 
 
 def get_person_table_info(table_info: Tag):
+        #Get Person's info from the table. Storing it as a dictionary.
     result = {}
     try:
         table = table_info.find('table', {"class": "people__table"}).select_one('tbody')
@@ -33,16 +34,23 @@ def get_person_table_info(table_info: Tag):
 
 
 def get_person_blob_info(person_article: Tag) -> dict:
+
+    # Initialize the result dictionary
     result = {}
     try:
+        # Get all the strong tags in the person_article
         strong_tags = person_article.find_all('strong')
         for strong_tag in strong_tags:
+            # Get the title of the strong tag
             title = strong_tag.text.strip()
+            # Get the text after the title
             big_data = strong_tag.parent.text.replace(title, '').strip()
+            # Add the title and big_data to the result dictionary
             result.update({title: big_data})
     except AttributeError:
         return None
 
+    # Return the result dictionary
     return result
 
 
@@ -52,26 +60,30 @@ def get_person_info(url: str) -> {}:
     resp = requests.get(url, headers=HEADER)
     logger.debug(url)
     person_article = BeautifulSoup(resp.content, 'html.parser', parse_only=SoupStrainer('article'))
-
+    # get the div tag that contains the person's picture and details
     person_detail = person_article.find("div", {"class": "people__details"})
     person_picture = person_article.find("div",{"class": "people__photo"} )
-
-
+    # get the person's name
     result.update({"name": person_detail.select_one('h2').text})
+    # get the person's department
     result.update({"department":"School of Mathematics and Statistics"})
+    # get the person's url
     result.update({"url": url})
+    # get the person's title
     result.update({"title": person_detail.select_one('p').text})
+    # get the person's picture
     picture = person_picture.select_one('img')['src'] if person_picture else""
     result.update({"picture": picture})
+    # get the person's contact information
     result.update({"contacts": get_person_table_info(person_detail)})
+    # get the person's research information
     result.update({"research": get_person_blob_info(person_article)})
-
+    # get the person's research data
     research_info = result['research']
     research_data = ''
     for key, value in research_info.items():
         research_data += value 
     result.update({"research_data": research_data})
-
     return result
 
 
@@ -100,7 +112,7 @@ def main():
     #     print(json.dumps(get_person_info(link), indent=4))
 
 
-    with open('mathfaculty.json', 'w', encoding="utf-8" ) as f:
+    with open('math.json', 'w', encoding="utf-8" ) as f:
         faculty_data = []
         for link in faculties_with_links:
             faculty_data.append(get_person_info(link))
