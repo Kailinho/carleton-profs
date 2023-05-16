@@ -22,7 +22,7 @@
                 "Connected/Autonomous Vehicles"
             ]
         },
-        "research_all": "Data Science\nVideo/Image Processing and Compression\nInternet of Things (IoT)\nAd-hoc and Wireless Sensor Networks\nData Privacy\nMachine Learning & Artificial Intelligence\nConnected/Autonomous Vehicles\n\n"
+        "research_data": "Data Science\nVideo/Image Processing and Compression\nInternet of Things (IoT)\nAd-hoc and Wireless Sensor Networks\nData Privacy\nMachine Learning & Artificial Intelligence\nConnected/Autonomous Vehicles\n\n"
     },
     {
         "name": "Dr. Ali Arya",
@@ -46,7 +46,7 @@
                 "Educational Technologies"
             ]
         },
-        "research_all": "Human-Computer Interaction\nGame Design, Development, & Interactions\nWearables\nVirtual & Augmented Reality\nAnimation, Virtual Environments, and Simulation\nEducational Technologies\n\n"
+        "research_data": "Human-Computer Interaction\nGame Design, Development, & Interactions\nWearables\nVirtual & Augmented Reality\nAnimation, Virtual Environments, and Simulation\nEducational Technologies\n\n"
     },
     {
         "name": "Dr. Masoud Barati",
@@ -70,7 +70,7 @@
                 "Data Modelling"
             ]
         },
-        "research_all": "Cloud, Fog, and Edge Computing\nInternet of Things (IoT)\nAd-hoc and Wireless Sensor Networks\nNetwork security (Threat modelling, blockchain, usable security)\nData Privacy\nData Modelling\n\n"
+        "research_data": "Cloud, Fog, and Edge Computing\nInternet of Things (IoT)\nAd-hoc and Wireless Sensor Networks\nNetwork security (Threat modelling, blockchain, usable security)\nData Privacy\nData Modelling\n\n"
     },
     {
         "name": "Dr. KC Collins",
@@ -92,7 +92,7 @@
                 "Internet of Things (IoT)"
             ]
         },
-        "research_all": "Digital Sound and Audio\nVirtual & Augmented Reality\nComputer Networks (Planning, Design, Architecture)\nInternet of Things (IoT)\n\n"
+        "research_data": "Digital Sound and Audio\nVirtual & Augmented Reality\nComputer Networks (Planning, Design, Architecture)\nInternet of Things (IoT)\n\n"
     },
     {
         "name": "Dr. Jie Gao",
@@ -119,7 +119,7 @@
                 "Connected/Autonomous Vehicles"
             ]
         },
-        "research_all": "Network Technology\nVirtual & Augmented Reality\nComputer Networks (Planning, Design, Architecture)\nCloud, Fog, and Edge Computing\nInternet of Things (IoT)\nSoftware Defined Networks (SDN)\nAd-hoc and Wireless Sensor Networks\nMachine Learning & Artificial Intelligence\nConnected/Autonomous Vehicles\n\n"
+        "research_data": "Network Technology\nVirtual & Augmented Reality\nComputer Networks (Planning, Design, Architecture)\nCloud, Fog, and Edge Computing\nInternet of Things (IoT)\nSoftware Defined Networks (SDN)\nAd-hoc and Wireless Sensor Networks\nMachine Learning & Artificial Intelligence\nConnected/Autonomous Vehicles\n\n"
     },
     {
         "name": "Dr. Audrey Girouard",
@@ -140,7 +140,7 @@
                 "Wearables"
             ]
         },
-        "research_all": "Human-Computer Interaction\nGame Design, Development, & Interactions\nWearables\n\n"
+        "research_data": "Human-Computer Interaction\nGame Design, Development, & Interactions\nWearables\n\n"
     },
     {
         "name": "Dr. Lesley Istead",
@@ -181,7 +181,7 @@
                 "Connected/Autonomous Vehicles"
             ]
         },
-        "research_all": "Human-Computer Interaction\nGame Design, Development, & Interactions\nVirtual & Augmented Reality\nAnimation, Virtual Environments, and Simulation\nVideo/Image Processing and Compression\nMedical Imaging and Applications\nMultimedia Streaming\nMachine Learning & Artificial Intelligence\nConnected/Autonomous Vehicles\n\n"
+        "research_data": "Human-Computer Interaction\nGame Design, Development, & Interactions\nVirtual & Augmented Reality\nAnimation, Virtual Environments, and Simulation\nVideo/Image Processing and Compression\nMedical Imaging and Applications\nMultimedia Streaming\nMachine Learning & Artificial Intelligence\nConnected/Autonomous Vehicles\n\n"
     },
     {
         "name": "Dr. Ashraf Matrawy",
@@ -209,7 +209,7 @@
                 "Connected/Autonomous Vehicles"
             ]
         },
-        "research_all": "Network Technology\nData Science\nComputer Networks (Planning, Design, Architecture)\nCloud, Fog, and Edge Computing\nInternet of Things (IoT)\nSoftware Defined Networks (SDN)\nNetwork security (Threat modelling, blockchain, usable security)\nBig Data Analytics\nMachine Learning & Artificial Intelligence\nConnected/Autonomous Vehicles\n\n"
+        "research_data": "Network Technology\nData Science\nComputer Networks (Planning, Design, Architecture)\nCloud, Fog, and Edge Computing\nInternet of Things (IoT)\nSoftware Defined Networks (SDN)\nNetwork security (Threat modelling, blockchain, usable security)\nBig Data Analytics\nMachine Learning & Artificial Intelligence\nConnected/Autonomous Vehicles\n\n"
     },
     {
         "name": "Dr. Mehdi Niknam",
@@ -247,7 +247,7 @@
                 "Machine Learning & Artificial Intelligence"
             ]
         },
-        "research_all": "Data Science\nCloud, Fog, and Edge Computing\nInternet of Things (IoT)\nBig Data Analytics\nData Modelling\nMachine Learning & Artificial Intelligence\n\n"
+        "research_data": "Data Science\nCloud, Fog, and Edge Computing\nInternet of Things (IoT)\nBig Data Analytics\nData Modelling\nMachine Learning & Artificial Intelligence\n\n"
     },
     {
         "name": "Dr. Wei Shi",
@@ -274,7 +274,7 @@
                 "Big Data Analytics"
             ]
         },
-        "research_all": "Network Technology\nData Science\nComputer Networks (Planning, Design, Architecture)\nCloud, Fog, and Edge Computing\nInternet of Things (IoT)\nAd-hoc and Wireless Sensor Networks\nNetwork security (Threat modelling, blockchain, usable security)\nData Privacy\nBig Data Analytics\n\n"
+        "research_data": "Network Technology\nData Science\nComputer Networks (Planning, Design, Architecture)\nCloud, Fog, and Edge Computing\nInternet of Things (IoT)\nAd-hoc and Wireless Sensor Networks\nNetwork security (Threat modelling, blockchain, usable security)\nData Privacy\nBig Data Analytics\n\n"
     },
     {
         "name": "Dr. David Sprague",
@@ -312,7 +312,7 @@
                 "Ad-hoc and Wireless Sensor Networks"
             ]
         },
-        "research_all": "Network Technology\nComputer Networks (Planning, Design, Architecture)\nCloud, Fog, and Edge Computing\nInternet of Things (IoT)\nSoftware Defined Networks (SDN)\nAd-hoc and Wireless Sensor Networks\n\n"
+        "research_data": "Network Technology\nComputer Networks (Planning, Design, Architecture)\nCloud, Fog, and Edge Computing\nInternet of Things (IoT)\nSoftware Defined Networks (SDN)\nAd-hoc and Wireless Sensor Networks\n\n"
     },
     {
         "name": "Dr. Robert Teather",
@@ -333,7 +333,7 @@
                 "Virtual & Augmented Reality"
             ]
         },
-        "research_all": "Human-Computer Interaction\nGame Design, Development, & Interactions\nVirtual & Augmented Reality\n\n"
+        "research_data": "Human-Computer Interaction\nGame Design, Development, & Interactions\nVirtual & Augmented Reality\n\n"
     },
     {
         "name": "Dr. David Thue",
@@ -357,7 +357,7 @@
                 "Machine Learning & Artificial Intelligence"
             ]
         },
-        "research_all": "Data Science\nHuman-Computer Interaction\nGame Design, Development, & Interactions\nAnimation, Virtual Environments, and Simulation\nInteractive Storytelling\nMachine Learning & Artificial Intelligence\n\n"
+        "research_data": "Data Science\nHuman-Computer Interaction\nGame Design, Development, & Interactions\nAnimation, Virtual Environments, and Simulation\nInteractive Storytelling\nMachine Learning & Artificial Intelligence\n\n"
     },
     {
         "name": "Dr. F. Richard Yu",
@@ -388,6 +388,6 @@
                 "Connected/Autonomous Vehicles"
             ]
         },
-        "research_all": "Network Technology\nData Science\nMultimedia Streaming\nComputer Networks (Planning, Design, Architecture)\nCloud, Fog, and Edge Computing\nInternet of Things (IoT)\nSoftware Defined Networks (SDN)\nAd-hoc and Wireless Sensor Networks\nNetwork security (Threat modelling, blockchain, usable security)\nData Privacy\nData Modelling\nMachine Learning & Artificial Intelligence\nConnected/Autonomous Vehicles\n\n"
+        "research_data": "Network Technology\nData Science\nMultimedia Streaming\nComputer Networks (Planning, Design, Architecture)\nCloud, Fog, and Edge Computing\nInternet of Things (IoT)\nSoftware Defined Networks (SDN)\nAd-hoc and Wireless Sensor Networks\nNetwork security (Threat modelling, blockchain, usable security)\nData Privacy\nData Modelling\nMachine Learning & Artificial Intelligence\nConnected/Autonomous Vehicles\n\n"
     }
 ]

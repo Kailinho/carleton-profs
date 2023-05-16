@@ -47,7 +47,6 @@ def get_person_blob_info(person_article: Tag) -> []:
                 big_data_list.append(li.text)
             # update the result dict with the big data list
             result.update({title.text: big_data_list})
-            return result
     except AttributeError:
         return None
 

@@ -34,7 +34,6 @@ def get_person_table_info(table_info: Tag):
 
 # Get person's research information and their data
 def get_person_blob_info(person_article: Tag) -> dict:
-
     # Initialize the result dictionary
     result = {}
     try:
@@ -49,7 +48,6 @@ def get_person_blob_info(person_article: Tag) -> dict:
             result.update({title: big_data})
     except AttributeError:
         return None
-
     # Return the result dictionary
     return result
 
